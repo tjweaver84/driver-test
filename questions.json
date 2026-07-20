@@ -7,14 +7,14 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "A driver's license is required for which of the following? 1. Sitting inthe driver's seat ofa car while the engine is running. 2. Steering a car while it is being pushed or towed by another car.",
-    "html": "A driver's license is required for which of the following?<br>1. Sitting inthe driver's seat ofa car while the engine is running.<br>2. Steering a car while it is being pushed or towed by another car."
+    "question": "A driver's license is required for which of the following? 1. Sitting in the driver's seat of a car while the engine is running. 2. Steering a car while it is being pushed or towed by another car.",
+    "html": "A driver's license is required for which of the following?<br>1. Sitting in the driver's seat of a car while the engine is running.<br>2. Steering a car while it is being pushed or towed by another car."
   },
   "Q02": {
     "correct": "D",
     "options": [
       "A) place the driver on probation",
-      "B) wait for acourt decision before taking action",
+      "B) wait for a court decision before taking action",
       "C) assign the driver to the Driver Improvement Clinic",
       "D) revoke the driver's license for at least 12 months"
     ],
@@ -29,8 +29,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Which of the following happen(s) under the point system? 1. Adriver is sent awarning letter when he gets 4points within 3years 2. Adriver who gets 12points within 3years may lose his license",
-    "html": "Which of the following happen(s) under the point system?<br>1. Adriver is sent awarning letter when he gets 4points within 3years<br>2. Adriver who gets 12points within 3years may lose his license"
+    "question": "Which of the following happen(s) under the point system? 1. A driver is sent awarning letter when he gets 4points within 3years 2. A driver who gets 12points within 3years may lose his license",
+    "html": "Which of the following happen(s) under the point system?<br>1. A driver is sent awarning letter when he gets 4points within 3years<br>2. A driver who gets 12points within 3years may lose his license"
   },
   "Q04": {
     "correct": "B",
@@ -40,14 +40,14 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When adriver has atotal of 7points, which of the following may happen? 1. The driver can be required' to file proof of financial responsibility. 2. The driver can have 3points deducted ifhe satisfactorily completes a Driver Improvement Clinic.",
-    "html": "When adriver has atotal of 7points, which of the following may happen?<br>1. The driver can be required' to file proof of financial responsibility.<br>2. The driver can have 3points deducted ifhe satisfactorily completes a Driver Improvement Clinic."
+    "question": "When a driver has atotal of 7points, which of the following may happen? 1. The driver can be required' to file proof of financial responsibility. 2. The driver can have 3points deducted if he satisfactorily completes a Driver Improvement Clinic.",
+    "html": "When a driver has atotal of 7points, which of the following may happen?<br>1. The driver can be required' to file proof of financial responsibility.<br>2. The driver can have 3points deducted if he satisfactorily completes a Driver Improvement Clinic."
   },
   "Q05": {
     "correct": "D",
     "options": [
       "A) reckless driving",
-      "B) hitand run with property damage",
+      "B) hit and run with property damage",
       "C) driving without a license",
       "D) passing a stopped school bus unloading children"
     ],
@@ -62,8 +62,8 @@
       "C) failing to yield the right of way",
       "D) speeding more than 70 mph in a 55 mph zone"
     ],
-    "question": "Adriver will lose his license ifhe is convicted of",
-    "html": "Adriver will lose his license ifhe is convicted of"
+    "question": "A driver will lose his license if he is convicted of",
+    "html": "A driver will lose his license if he is convicted of"
   },
   "Q07": {
     "correct": "C",
@@ -73,8 +73,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "To get a revoked driver's license restored, a person must do which of the following? 1. Obtain permission from the Driver License Section in Raleigh to reapply for a license. 2. Goto adriver license office, pay arestoration fee, and reapply for a license.",
-    "html": "To get a revoked driver's license restored, a person must do which of the following?<br>1. Obtain permission from the Driver License Section in Raleigh to reapply for a license.<br>2. Goto adriver license office, pay arestoration fee, and reapply for a license."
+    "question": "To get a revoked driver's license restored, a person must do which of the following? 1. Obtain permission from the Driver License Section in Raleigh to reapply for a license. 2. Goto a driver license office, pay a restoration fee, and reapply for a license.",
+    "html": "To get a revoked driver's license restored, a person must do which of the following?<br>1. Obtain permission from the Driver License Section in Raleigh to reapply for a license.<br>2. Goto a driver license office, pay a restoration fee, and reapply for a license."
   },
   "Q08": {
     "correct": "A",
@@ -84,8 +84,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Roughly half of all traffic fatalities involve which of the following? 1. Adrunken person. 2. More than one car.",
-    "html": "Roughly half of all traffic fatalities involve which of the following?<br>1. Adrunken person.<br>2. More than one car."
+    "question": "Roughly half of all traffic fatalities involve which of the following? 1. A drunken person. 2. More than one car.",
+    "html": "Roughly half of all traffic fatalities involve which of the following?<br>1. A drunken person.<br>2. More than one car."
   },
   "Q09": {
     "correct": "C",
@@ -95,8 +95,8 @@
       "C) almost 50 %",
       "D) almost 67 %"
     ],
-    "question": "The percentage of highway deaths caused bydrunken person is",
-    "html": "The percentage of highway deaths caused bydrunken person is"
+    "question": "The percentage of highway deaths caused by drunken person is",
+    "html": "The percentage of highway deaths caused by drunken person is"
   },
   "Q10": {
     "correct": "A",
@@ -106,8 +106,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Which ofthe following statements about pedestrian deaths is (are) correct? 1. Incities, 2out of 5 people killed in motor vehicle accident are pedestrians. 2. Most of the pedestrians killed inall traffic accidents are teenagers.",
-    "html": "Which ofthe following statements about pedestrian deaths is (are) correct?<br>1. Incities, 2out of 5 people killed in motor vehicle accident are pedestrians.<br>2. Most of the pedestrians killed inall traffic accidents are teenagers."
+    "question": "Which of the following statements about pedestrian deaths is (are) correct? 1. In cities, 2out of 5 people killed in motor vehicle accident are pedestrians. 2. Most of the pedestrians killed in all traffic accidents are teenagers.",
+    "html": "Which of the following statements about pedestrian deaths is (are) correct?<br>1. In cities, 2out of 5 people killed in motor vehicle accident are pedestrians.<br>2. Most of the pedestrians killed in all traffic accidents are teenagers."
   },
   "Q11": {
     "correct": "A",
@@ -139,8 +139,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor"
     ],
-    "question": "Ifyou are walking along a road at night, what should you do? 1. Walk on the right-hand side with the traffic. 2. Wear or carry something white.",
-    "html": "Ifyou are walking along a road at night, what should you do?<br>1. Walk on the right-hand side with the traffic.<br>2. Wear or carry something white."
+    "question": "If you are walking along a road at night, what should you do? 1. Walk on the right-hand side with the traffic. 2. Wear or carry something white.",
+    "html": "If you are walking along a road at night, what should you do?<br>1. Walk on the right-hand side with the traffic.<br>2. Wear or carry something white."
   },
   "Q14": {
     "correct": "D",
@@ -150,8 +150,8 @@
       "C) drinks coffee while driving at night to stay alert",
       "D) keeps 2car lengths between his car and the next car on the expressway"
     ],
-    "question": "A safe driver does which ofthe following?",
-    "html": "A safe driver does which ofthe following?"
+    "question": "A safe driver does which of the following?",
+    "html": "A safe driver does which of the following?"
   },
   "Q15": {
     "correct": "D",
@@ -172,8 +172,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyou begin to feel sleepy while driving on a long trip, you should do which of the following? 1. Open awindow or vent to let fresh air in. 2. Increase your speed.",
-    "html": "Ifyou begin to feel sleepy while driving on a long trip, you should do which of the following?<br>1. Open awindow or vent to let fresh air in.<br>2. Increase your speed."
+    "question": "If you begin to feel sleepy while driving on a long trip, you should do which of the following? 1. Open a window or vent to let fresh air in. 2. Increase your speed.",
+    "html": "If you begin to feel sleepy while driving on a long trip, you should do which of the following?<br>1. Open a window or vent to let fresh air in.<br>2. Increase your speed."
   },
   "Q17": {
     "correct": "B",
@@ -181,7 +181,7 @@
       "A) rest your eyes from time to time by rubbing them",
       "B) avoid looking at anyone thing for more than a few seconds",
       "C) keep your eyes on the center of the road straight ahead",
-      "D) spend as much time looking in your mirrors asyou do looking infront of you"
+      "D) spend as much time looking in your mirrors as you do looking Infront of you"
     ],
     "question": "When driving on a long trip, you should",
     "html": "When driving on a long trip, you should"
@@ -194,8 +194,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Inorder to avoid being hit inthe rear by another vehicle, you should do which of the following? 1. Drive cautiously and use your break often. 2. Check your rear view mirrors often.",
-    "html": "Inorder to avoid being hit inthe rear by another vehicle, you should do which of the following?<br>1. Drive cautiously and use your break often.<br>2. Check your rear view mirrors often."
+    "question": "In order to avoid being hit in the rear by another vehicle, you should do which of the following? 1. Drive cautiously and use your break often. 2. Check your rear view mirrors often.",
+    "html": "In order to avoid being hit in the rear by another vehicle, you should do which of the following?<br>1. Drive cautiously and use your break often.<br>2. Check your rear view mirrors often."
   },
   "Q19": {
     "correct": "B",
@@ -216,8 +216,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Very slow driving isespecially dangerous inwhich of the following situations? 1. Just after passing a crest of a hill. 2. Just after rounding acurve.",
-    "html": "Very slow driving isespecially dangerous inwhich of the following situations?<br>1. Just after passing a crest of a hill.<br>2. Just after rounding acurve."
+    "question": "Very slow driving is especially dangerous in which of the following situations? 1. Just after passing a crest of a hill. 2. Just after rounding a curve.",
+    "html": "Very slow driving is especially dangerous in which of the following situations?<br>1. Just after passing a crest of a hill.<br>2. Just after rounding a curve."
   },
   "Q21": {
     "correct": "D",
@@ -249,8 +249,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Which of the following statements about speed limits in North Carolina is (are) correct? 1. Unless otherwise posted, the speed limit inside a city is 35 mph. 2. Unless otherwise posted, the speed limit for aschool activity bus is25 mph.",
-    "html": "Which of the following statements about speed limits in North Carolina is (are) correct?<br>1. Unless otherwise posted, the speed limit inside a city is 35 mph.<br>2. Unless otherwise posted, the speed limit for aschool activity bus is25 mph."
+    "question": "Which of the following statements about speed limits in North Carolina is (are) correct? 1. Unless otherwise posted, the speed limit inside a city is 35 mph. 2. Unless otherwise posted, the speed limit for a school activity bus is25 mph.",
+    "html": "Which of the following statements about speed limits in North Carolina is (are) correct?<br>1. Unless otherwise posted, the speed limit inside a city is 35 mph.<br>2. Unless otherwise posted, the speed limit for a school activity bus is25 mph."
   },
   "Q24": {
     "correct": "B",
@@ -258,10 +258,10 @@
       "A) low engine oil level",
       "B) a loose or broken fan belt",
       "C) poor ignition condition",
-      "D) adefective engine diagnosis computer"
+      "D) a defective engine diagnosis computer"
     ],
-    "question": "Ifthe alternator warning light stays on as you drive, the problem may be due to",
-    "html": "Ifthe alternator warning light stays on as you drive, the problem may be due to"
+    "question": "If the alternator warning light stays on as you drive, the problem may be due to",
+    "html": "If the alternator warning light stays on as you drive, the problem may be due to"
   },
   "Q25": {
     "correct": "D",
@@ -271,8 +271,8 @@
       "C) stay in the center of the lane",
       "D) move to the outside of the curve"
     ],
-    "question": "When rounding a curve, acar tends to",
-    "html": "When rounding a curve, acar tends to"
+    "question": "When rounding a curve, a car tends to",
+    "html": "When rounding a curve, a car tends to"
   },
   "Q26": {
     "correct": "D",
@@ -282,8 +282,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When rounding a sharp curve, you should do which of the following? 1. Stay asfar to the left of your lane as possible. 2. Apply your break inthe sharpest part ofthe curve.",
-    "html": "When rounding a sharp curve, you should do which of the following?<br>1. Stay asfar to the left of your lane as possible.<br>2. Apply your break inthe sharpest part ofthe curve."
+    "question": "When rounding a sharp curve, you should do which of the following? 1. Stay as far to the left of your lane as possible. 2. Apply your break in the sharpest part of the curve.",
+    "html": "When rounding a sharp curve, you should do which of the following?<br>1. Stay as far to the left of your lane as possible.<br>2. Apply your break in the sharpest part of the curve."
   },
   "Q27": {
     "correct": "A",
@@ -304,16 +304,16 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "To reduce speed while going down a steep hill, you should dowhich of the following? 1. Use a lower gear. 2. Drive ina zigzag pattern.",
-    "html": "To reduce speed while going down a steep hill, you should dowhich of the following?<br>1. Use a lower gear.<br>2. Drive ina zigzag pattern."
+    "question": "To reduce speed while going down a steep hill, you should do which of the following? 1. Use a lower gear. 2. Drive in a zigzag pattern.",
+    "html": "To reduce speed while going down a steep hill, you should do which of the following?<br>1. Use a lower gear.<br>2. Drive in a zigzag pattern."
   },
   "Q29": {
     "correct": "C",
     "options": [
       "A) After a period of time. Drivers develop immunity to the effects of alcohol.",
-      "B) Most people drive slower after adrink or two.",
+      "B) Most people drive slower after a drink or two.",
       "C) Any amount of alcohol lowers a user's ability without the person realizing it.",
-      "D) Ittakes several drinks to make noticeable effects on adriver's ability."
+      "D) It takes several drinks to make noticeable effects on a driver’s ability."
     ],
     "question": "Which of the following is one of the most important facts known about the effect of alcohol on driving ability?",
     "html": "Which of the following is one of the most important facts known about the effect of alcohol on driving ability?"
@@ -326,13 +326,13 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyou wish to pass the car ahead on atwo-lane road, you should do which of the following? 1. Blow your horn to signal your intention to the driver of the cars ahead. 2. Give a left turn signal to letthe driver behind you know your intention.",
-    "html": "Ifyou wish to pass the car ahead on atwo-lane road, you should do which of the following?<br>1. Blow your horn to signal your intention to the driver of the cars ahead.<br>2. Give a left turn signal to letthe driver behind you know your intention."
+    "question": "If you wish to pass the car ahead on a two-lane road, you should do which of the following? 1. Blow your horn to signal your intention to the driver of the cars ahead. 2. Give a left turn signal to let the driver behind you know your intention.",
+    "html": "If you wish to pass the car ahead on a two-lane road, you should do which of the following?<br>1. Blow your horn to signal your intention to the driver of the cars ahead.<br>2. Give a left turn signal to let the driver behind you know your intention."
   },
   "Q31": {
     "correct": "C",
     "options": [
-      "A) not drive unless someone iswith them.",
+      "A) not drive unless someone is with them.",
       "B) drive only during the daytime.",
       "C) learn about the possible side effects before deciding to drive.",
       "D) not drive under any circumstances."
@@ -359,8 +359,8 @@
       "C) seldom use more than one mirror to check traffic.",
       "D) establish and maintain an ample space cushion between your vehicle and possible hazards."
     ],
-    "question": "To be asafe driver in any environment, you need to",
-    "html": "To be asafe driver in any environment, you need to"
+    "question": "To be a safe driver in any environment, you need to",
+    "html": "To be a safe driver in any environment, you need to"
   },
   "Q34": {
     "correct": "A",
@@ -436,8 +436,8 @@
       "C) lack of driving experience.",
       "D) poor roadway conditions."
     ],
-    "question": "The major factor inyoung drivers' poor driving records is",
-    "html": "The major factor inyoung drivers' poor driving records is"
+    "question": "The major factor in young drivers' poor driving records is",
+    "html": "The major factor in young drivers' poor driving records is"
   },
   "Q41": {
     "correct": "A",
@@ -465,12 +465,12 @@
     "correct": "D",
     "options": [
       "A) drive at the posted speed limit",
-      "B) stop near the center of the intersection and continue ifitis safe",
-      "C) slow down and blow your horn towarn drivers who cannot see you",
+      "B) stop near the center of the intersection and continue if it is safe",
+      "C) slow down and blow your horn to warn drivers who cannot see you",
       "D) stop at the intersection and move forward slowly"
     ],
-    "question": "Ifyou come to an unmarked intersection where it is hard to see in all directions because of trees or buildings, you should",
-    "html": "Ifyou come to an unmarked intersection where it is hard to see in all directions because of trees or buildings, you should"
+    "question": "If you come to an unmarked intersection where it is hard to see in all directions because of trees or buildings, you should",
+    "html": "If you come to an unmarked intersection where it is hard to see in all directions because of trees or buildings, you should"
   },
   "Q44": {
     "correct": "C",
@@ -480,8 +480,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When driving on acity street, you should watch out for which of the following? 1. Traffic coming from side streets. 2. Animals or small children darting from between parked cars.",
-    "html": "When driving on acity street, you should watch out for which of the following?<br>1. Traffic coming from side streets.<br>2. Animals or small children darting from between parked cars."
+    "question": "When driving on a city street, you should watch out for which of the following? 1. Traffic coming from side streets. 2. Animals or small children darting from between parked cars.",
+    "html": "When driving on a city street, you should watch out for which of the following?<br>1. Traffic coming from side streets.<br>2. Animals or small children darting from between parked cars."
   },
   "Q45": {
     "correct": "A",
@@ -500,10 +500,10 @@
       "A) go to the next intersection and turn there",
       "B) back up and move into the correct lane for turning",
       "C) wait until all other cars have cleared the intersection and turn",
-      "D) signal the driver in the car beside you that you intend to turn infront of him"
+      "D) signal the driver in the car beside you that you intend to turn in front of him"
     ],
-    "question": "Ifyou are inthe wrong lane for making a left turn at an intersection, you should",
-    "html": "Ifyou are inthe wrong lane for making a left turn at an intersection, you should"
+    "question": "If you are in the wrong lane for making a left turn at an intersection, you should",
+    "html": "If you are in the wrong lane for making a left turn at an intersection, you should"
   },
   "Q47": {
     "correct": "C",
@@ -524,15 +524,15 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When taking a long trip on an interstate highway, you should plan on doing which ofthe following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic.",
-    "html": "When taking a long trip on an interstate highway, you should plan on doing which ofthe following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic."
+    "question": "When taking a long trip on an interstate highway, you should plan on doing which of the following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic.",
+    "html": "When taking a long trip on an interstate highway, you should plan on doing which of the following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic."
   },
   "Q49": {
     "correct": "C",
     "options": [
       "A) sit in the car until help arrives",
       "B) tie a handkerchief to the left handle and stand beside the left front fender",
-      "C) raise the hood and tie awhite handkerchief to the left door handle",
+      "C) raise the hood and tie a white handkerchief to the left door handle",
       "D) raise the hood and stand behind the car so drivers of on-coming cars can see you"
     ],
     "question": "You are driving on an interstate highway when a breakdown forces you to the shoulder. You should",
@@ -544,10 +544,10 @@
       "A) maintains a steady speed",
       "B) travels considerably below the posted speed limit",
       "C) travels at the posted speed limit",
-      "D) maintains his position relative to cars infront and behind him in his lane"
+      "D) maintains his position relative to cars in front and behind him in his lane"
     ],
-    "question": "Studies have shown that under normal conditions the chances of a car being involved in an accident on an interstate highway is greater ifthe driver",
-    "html": "Studies have shown that under normal conditions the chances of a car being involved in an accident on an interstate highway is greater ifthe driver"
+    "question": "Studies have shown that under normal conditions the chances of a car being involved in an accident on an interstate highway is greater if the driver",
+    "html": "Studies have shown that under normal conditions the chances of a car being involved in an accident on an interstate highway is greater if the driver"
   },
   "Q51": {
     "correct": "B",
@@ -557,8 +557,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyou miss your exit on an interstate highway, you can dowhich of the following? 1. Make a uturn. 2. Go on to the next exit.",
-    "html": "Ifyou miss your exit on an interstate highway, you can dowhich of the following?<br>1. Make a uturn.<br>2. Go on to the next exit."
+    "question": "If you miss your exit on an interstate highway, you can do which of the following? 1. Make a u turn. 2. Go on to the next exit.",
+    "html": "If you miss your exit on an interstate highway, you can do which of the following?<br>1. Make a u turn.<br>2. Go on to the next exit."
   },
   "Q52": {
     "correct": "C",
@@ -568,8 +568,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "A driver may betemporarily blinded at night by which of the following? 1. Glare from the headlights of other cars. 2. Flame from a match he strikes to light a cigarette.",
-    "html": "A driver may betemporarily blinded at night by which of the following?<br>1. Glare from the headlights of other cars.<br>2. Flame from a match he strikes to light a cigarette."
+    "question": "A driver may be temporarily blinded at night by which of the following? 1. Glare from the headlights of other cars. 2. Flame from a match he strikes to light a cigarette.",
+    "html": "A driver may be temporarily blinded at night by which of the following?<br>1. Glare from the headlights of other cars.<br>2. Flame from a match he strikes to light a cigarette."
   },
   "Q53": {
     "correct": "C",
@@ -579,8 +579,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Inwhich of the following situations should you use your low beams? 1. At night inthe city. 2. Infoggy or misty weather.",
-    "html": "Inwhich of the following situations should you use your low beams?<br>1. At night inthe city.<br>2. Infoggy or misty weather."
+    "question": "In which of the following situations should you use your low beams? 1. At night in the city. 2. In foggy or misty weather.",
+    "html": "In which of the following situations should you use your low beams?<br>1. At night in the city.<br>2. In foggy or misty weather."
   },
   "Q54": {
     "correct": "C",
@@ -590,13 +590,13 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifthe driver of an approaching car fails to dim his headlights, you should do which of the following? 1. Watch the road ahead to avoid looking at the lights of the other car. 2. Flick your headlight beams up and down one time.",
-    "html": "Ifthe driver of an approaching car fails to dim his headlights, you should do which of the following?<br>1. Watch the road ahead to avoid looking at the lights of the other car.<br>2. Flick your headlight beams up and down one time."
+    "question": "If the driver of an approaching car fails to dim his headlights, you should do which of the following? 1. Watch the road ahead to avoid looking at the lights of the other car. 2. Flick your headlight beams up and down one time.",
+    "html": "If the driver of an approaching car fails to dim his headlights, you should do which of the following?<br>1. Watch the road ahead to avoid looking at the lights of the other car.<br>2. Flick your headlight beams up and down one time."
   },
   "Q55": {
     "correct": "D",
     "options": [
-      "A) slowing down for aturn",
+      "A) slowing down for a turn",
       "B) traveling on a road with no median",
       "C) going down a hill",
       "D) following another car"
@@ -612,16 +612,16 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifitstarts to drizzle while you are driving, you should dowhich of the following? 1. Slow down because the rain wi\" loosen oil and gravel on the road. 2. Allow at least twice the normal following distance.",
-    "html": "Ifitstarts to drizzle while you are driving, you should dowhich of the following?<br>1. Slow down because the rain wi\" loosen oil and gravel on the road.<br>2. Allow at least twice the normal following distance."
+    "question": "If it starts to drizzle while you are driving, you should do which of the following? 1. Slow down because the rain will loosen oil and gravel on the road. 2. Allow at least twice the normal following distance.",
+    "html": "If it starts to drizzle while you are driving, you should do which of the following?<br>1. Slow down because the rain will loosen oil and gravel on the road.<br>2. Allow at least twice the normal following distance."
   },
   "Q57": {
     "correct": "B",
     "options": [
       "A) just after the have been paved",
-      "B) just after ithas begun to rain or drizzle",
+      "B) just after it has begun to rain or drizzle",
       "C) after it has been raining for several hours",
-      "D) inexceptionally cold, dry weather"
+      "D) in exceptionally cold, dry weather"
     ],
     "question": "Roads are likely to be especially slick",
     "html": "Roads are likely to be especially slick"
@@ -653,11 +653,11 @@
     "options": [
       "A) put chains on your tires",
       "B) use snow tires",
-      "C) have lower than usual air pressure inyour tires",
+      "C) have lower than usual air pressure in your tires",
       "D) carry heavy weights in your trunk"
     ],
-    "question": "The best way to get good traction on hard packed snow isto",
-    "html": "The best way to get good traction on hard packed snow isto"
+    "question": "The best way to get good traction on hard packed snow is to",
+    "html": "The best way to get good traction on hard packed snow is to"
   },
   "Q61": {
     "correct": "A",
@@ -667,8 +667,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When trying to pull away from aslippery surface in a car with a manual shift, you should dowhich of the following? 1. Start in second or high gear. 2. Accelerate rapidly.",
-    "html": "When trying to pull away from aslippery surface in a car with a manual shift, you should dowhich of the following?<br>1. Start in second or high gear.<br>2. Accelerate rapidly."
+    "question": "When trying to pull away from a slippery surface in a car with a manual shift, you should do which of the following? 1. Start in second or high gear. 2. Accelerate rapidly.",
+    "html": "When trying to pull away from a slippery surface in a car with a manual shift, you should do which of the following?<br>1. Start in second or high gear.<br>2. Accelerate rapidly."
   },
   "Q62": {
     "correct": "C",
@@ -678,8 +678,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When pulling a trailer down a long, steep hill, you should do which of the following? 1. Drive in a lower gear. 2. Keep inthe right lane.",
-    "html": "When pulling a trailer down a long, steep hill, you should do which of the following?<br>1. Drive in a lower gear.<br>2. Keep inthe right lane."
+    "question": "When pulling a trailer down a long, steep hill, you should do which of the following? 1. Drive in a lower gear. 2. Keep in the right lane.",
+    "html": "When pulling a trailer down a long, steep hill, you should do which of the following?<br>1. Drive in a lower gear.<br>2. Keep in the right lane."
   },
   "Q63": {
     "correct": "C",
@@ -689,8 +689,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyour breaks fail, you should dowhich ofthe following? 1. Shift into a lower gear. 2. Use the emergency break.",
-    "html": "Ifyour breaks fail, you should dowhich ofthe following?<br>1. Shift into a lower gear.<br>2. Use the emergency break."
+    "question": "If your breaks fail, you should do which of the following? 1. Shift into a lower gear. 2. Use the emergency break.",
+    "html": "If your breaks fail, you should do which of the following?<br>1. Shift into a lower gear.<br>2. Use the emergency break."
   },
   "Q64": {
     "correct": "B",
@@ -711,8 +711,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyou have a blowout while traveling at a high speed, you should do which of the following? 1. Apply the break firmly as soon as you notice the blowout. 2. Grip the steering wheel firmly to keep the car from swerving.",
-    "html": "Ifyou have a blowout while traveling at a high speed, you should do which of the following?<br>1. Apply the break firmly as soon as you notice the blowout.<br>2. Grip the steering wheel firmly to keep the car from swerving."
+    "question": "If you have a blowout while traveling at a high speed, you should do which of the following? 1. Apply the break firmly as soon as you notice the blowout. 2. Grip the steering wheel firmly to keep the car from swerving.",
+    "html": "If you have a blowout while traveling at a high speed, you should do which of the following?<br>1. Apply the break firmly as soon as you notice the blowout.<br>2. Grip the steering wheel firmly to keep the car from swerving."
   },
   "Q66": {
     "correct": "B",
@@ -722,8 +722,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When changing aflat tire, you should do which of the following? 1. Put the vehicle in neutral gear. 2. Block the wheels.",
-    "html": "When changing aflat tire, you should do which of the following?<br>1. Put the vehicle in neutral gear.<br>2. Block the wheels."
+    "question": "When changing a flat tire, you should do which of the following? 1. Put the vehicle in neutral gear. 2. Block the wheels.",
+    "html": "When changing a flat tire, you should do which of the following?<br>1. Put the vehicle in neutral gear.<br>2. Block the wheels."
   },
   "Q67": {
     "correct": "A",
@@ -733,8 +733,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyour car breaks down on the highway at night, what should you do? 1. Park the car completely off the road. 2. Turn of the high-beam lights.",
-    "html": "Ifyour car breaks down on the highway at night, what should you do?<br>1. Park the car completely off the road.<br>2. Turn of the high-beam lights."
+    "question": "If your car breaks down on the highway at night, what should you do? 1. Park the car completely off the road. 2. Turn of the high-beam lights.",
+    "html": "If your car breaks down on the highway at night, what should you do?<br>1. Park the car completely off the road.<br>2. Turn of the high-beam lights."
   },
   "Q68": {
     "correct": "C",
@@ -744,8 +744,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Ifyour car breaks down on the highway at night, you should dowhich of the following? 1. Raise the hood and tie a white handkerchief tothe left door handle. 2. Switch on the parking lights.",
-    "html": "Ifyour car breaks down on the highway at night, you should dowhich of the following?<br>1. Raise the hood and tie a white handkerchief tothe left door handle.<br>2. Switch on the parking lights."
+    "question": "If your car breaks down on the highway at night, you should do which of the following? 1. Raise the hood and tie a white handkerchief to the left door handle. 2. Switch on the parking lights.",
+    "html": "If your car breaks down on the highway at night, you should do which of the following?<br>1. Raise the hood and tie a white handkerchief to the left door handle.<br>2. Switch on the parking lights."
   },
   "Q69": {
     "correct": "D",
@@ -755,8 +755,8 @@
       "C) apply the emergency brake",
       "D) take your foot off the gas pedal gradually"
     ],
-    "question": "Ifyour vehicle has run off the road onto the shoulder, you should",
-    "html": "Ifyour vehicle has run off the road onto the shoulder, you should"
+    "question": "If your vehicle has run off the road onto the shoulder, you should",
+    "html": "If your vehicle has run off the road onto the shoulder, you should"
   },
   "Q70": {
     "correct": "A",
@@ -766,19 +766,19 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Skids are likely to occur on which of the following roads? 1. One on which snow has become packed. 2. One that hasjust been paved.",
-    "html": "Skids are likely to occur on which of the following roads?<br>1. One on which snow has become packed.<br>2. One that hasjust been paved."
+    "question": "Skids are likely to occur on which of the following roads? 1. One on which snow has become packed. 2. One that has just been paved.",
+    "html": "Skids are likely to occur on which of the following roads?<br>1. One on which snow has become packed.<br>2. One that has just been paved."
   },
   "Q71": {
     "correct": "D",
     "options": [
       "A) use your hand break",
       "B) put the brake on hard",
-      "C) apply the brake inshort hard jabs",
+      "C) apply the brake in short hard jabs",
       "D) pump the brake pedal lightly"
     ],
-    "question": "Ifyou have to come to a stop on an icy road, you should",
-    "html": "Ifyou have to come to a stop on an icy road, you should"
+    "question": "If you have to come to a stop on an icy road, you should",
+    "html": "If you have to come to a stop on an icy road, you should"
   },
   "Q72": {
     "correct": "C",
@@ -788,8 +788,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "What should you do when you begin to skid? 1. Turn the steering wheel in the direction inwhich the rear end ofthe car is skidding. 2. Reduce pressure on the gas pedal.",
-    "html": "What should you do when you begin to skid?<br>1. Turn the steering wheel in the direction inwhich the rear end ofthe car is skidding.<br>2. Reduce pressure on the gas pedal."
+    "question": "What should you do when you begin to skid? 1. Turn the steering wheel in the direction in which the rear end of the car is skidding. 2. Reduce pressure on the gas pedal.",
+    "html": "What should you do when you begin to skid?<br>1. Turn the steering wheel in the direction in which the rear end of the car is skidding.<br>2. Reduce pressure on the gas pedal."
   },
   "Q73": {
     "correct": "C",
@@ -799,8 +799,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "A driver who is involved inan accident should do which of the following? 1. Make an immediate report to the nearest law enforcement agency. 2. Notify his insurance company.",
-    "html": "A driver who is involved inan accident should do which of the following?<br>1. Make an immediate report to the nearest law enforcement agency.<br>2. Notify his insurance company."
+    "question": "A driver who is involved in an accident should do which of the following? 1. Make an immediate report to the nearest law enforcement agency. 2. Notify his insurance company.",
+    "html": "A driver who is involved in an accident should do which of the following?<br>1. Make an immediate report to the nearest law enforcement agency.<br>2. Notify his insurance company."
   },
   "Q74": {
     "correct": "D",
@@ -810,8 +810,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "A flashing red traffic signal at an intersection means which of the following? 1. Slow down and proceed with caution. 2. Stop only ifitis necessary to yield the right-of-way.",
-    "html": "A flashing red traffic signal at an intersection means which of the following?<br>1. Slow down and proceed with caution.<br>2. Stop only ifitis necessary to yield the right-of-way."
+    "question": "A flashing red traffic signal at an intersection means which of the following? 1. Slow down and proceed with caution. 2. Stop only if it is necessary to yield the right-of-way.",
+    "html": "A flashing red traffic signal at an intersection means which of the following?<br>1. Slow down and proceed with caution.<br>2. Stop only if it is necessary to yield the right-of-way."
   },
   "Q75": {
     "correct": "D",
@@ -832,8 +832,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "A diamond-shaped sign would be used to warn drivers of which ofthe following driving hazards? 1. A railroad crossing. 2. A deer crossing.",
-    "html": "A diamond-shaped sign would be used to warn drivers of which ofthe following driving hazards?<br>1. A railroad crossing.<br>2. A deer crossing."
+    "question": "A diamond-shaped sign would be used to warn drivers of which of the following driving hazards? 1. A railroad crossing. 2. A deer crossing.",
+    "html": "A diamond-shaped sign would be used to warn drivers of which of the following driving hazards?<br>1. A railroad crossing.<br>2. A deer crossing."
   },
   "Q77": {
     "correct": "D",
@@ -854,8 +854,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When can you disregard a signal given by a police officer directing traffic? 1. An emergency vehicle isapproaching. 2. The officer's signal is in conflict with atraffic signal.",
-    "html": "When can you disregard a signal given by a police officer directing traffic?<br>1. An emergency vehicle isapproaching.<br>2. The officer's signal is in conflict with atraffic signal."
+    "question": "When can you disregard a signal given by a police officer directing traffic? 1. An emergency vehicle is approaching. 2. The officer's signal is in conflict with a traffic signal.",
+    "html": "When can you disregard a signal given by a police officer directing traffic?<br>1. An emergency vehicle is approaching.<br>2. The officer's signal is in conflict with a traffic signal."
   },
   "Q79": {
     "correct": "C",
@@ -865,8 +865,8 @@
       "C) orange",
       "D) green"
     ],
-    "question": "What isthe main color for signs in highway work zone?",
-    "html": "What isthe main color for signs in highway work zone?"
+    "question": "What is the main color for signs in highway work zone?",
+    "html": "What is the main color for signs in highway work zone?"
   },
   "Q80": {
     "correct": "B",
@@ -876,8 +876,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When does the law give a blind pedestrian special consideration at intersections where there are no traffic lights? 1. Only when he isalone. 2. Ifhe holds a white cane or has a guide dog with him.",
-    "html": "When does the law give a blind pedestrian special consideration at intersections where there are no traffic lights?<br>1. Only when he isalone.<br>2. Ifhe holds a white cane or has a guide dog with him."
+    "question": "When does the law give a blind pedestrian special consideration at intersections where there are no traffic lights? 1. Only when he is alone. 2. If he holds a white cane or has a guide dog with him.",
+    "html": "When does the law give a blind pedestrian special consideration at intersections where there are no traffic lights?<br>1. Only when he is alone.<br>2. If he holds a white cane or has a guide dog with him."
   },
   "Q81": {
     "correct": "B",
@@ -887,8 +887,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Which of the following statements about bicycle riders is (are) correct? 1. They must ride their bicycles facing traffic. 2. They are likely to beseriously injured in almost any collision with a car.",
-    "html": "Which of the following statements about bicycle riders is (are) correct?<br>1. They must ride their bicycles facing traffic.<br>2. They are likely to beseriously injured in almost any collision with a car."
+    "question": "Which of the following statements about bicycle riders is (are) correct? 1. They must ride their bicycles facing traffic. 2. They are likely to be seriously injured in almost any collision with a car.",
+    "html": "Which of the following statements about bicycle riders is (are) correct?<br>1. They must ride their bicycles facing traffic.<br>2. They are likely to be seriously injured in almost any collision with a car."
   },
   "Q82": {
     "correct": "A",
@@ -898,16 +898,16 @@
       "C) fender lights",
       "D) backup lights"
     ],
-    "question": "InNorth Carolina, which of the following are required on all cars?",
-    "html": "InNorth Carolina, which of the following are required on all cars?"
+    "question": "In North Carolina, which of the following are required on all cars?",
+    "html": "In North Carolina, which of the following are required on all cars?"
   },
   "Q83": {
     "correct": "D",
     "options": [
-      "A) there isastrong smell of gasoline inthe car",
+      "A) there is a strong smell of gasoline in the car",
       "B) the engine stalls at stoplights",
       "C) light gusts of wind make the car difficult to control",
-      "D) there isa squeaking noise when you step on the brake"
+      "D) there is a squeaking noise when you step on the brake"
     ],
     "question": "Your brakes need checking if",
     "html": "Your brakes need checking if"
@@ -964,19 +964,19 @@
       "C) brake",
       "D) suspension"
     ],
-    "question": "A car that pitches and tosses in normal driving and leans heavily to the side on turns is likely to have trouble inwhich ofthe following systems?",
-    "html": "A car that pitches and tosses in normal driving and leans heavily to the side on turns is likely to have trouble inwhich ofthe following systems?"
+    "question": "A car that pitches and tosses in normal driving and leans heavily to the side on turns is likely to have trouble in which of the following systems?",
+    "html": "A car that pitches and tosses in normal driving and leans heavily to the side on turns is likely to have trouble in which of the following systems?"
   },
   "Q89": {
     "correct": "B",
     "options": [
       "A) All lanes of traffic.",
-      "B) Lanes going inthe same direction as the school bus.",
+      "B) Lanes going in the same direction as the school bus.",
       "C) Lanes going the opposite direction of bus.",
       "D) Turning lane only"
     ],
-    "question": "Which traffic is required to stop ifaschool bus makes apassenger stop in the far right lane on a five lane street?",
-    "html": "Which traffic is required to stop ifaschool bus makes apassenger stop in the far right lane on a five lane street?"
+    "question": "Which traffic is required to stop if a school bus makes a passenger stop in the far right lane on a five lane street?",
+    "html": "Which traffic is required to stop if a school bus makes a passenger stop in the far right lane on a five lane street?"
   },
   "Q90": {
     "correct": "B",
@@ -986,7 +986,8 @@
       "C) 35 MPH",
       "D) 25 MPH"
     ],
-    "question": "Maximum speed limit for afull sized public school bus in North Carolina is:",
-    "html": "Maximum speed limit for afull sized public school bus in North Carolina is:"
+    "question": "Maximum speed limit for a full sized public school bus in North Carolina is:",
+    "html": "Maximum speed limit for a full sized public school bus in North Carolina is:"
   }
 }
+
