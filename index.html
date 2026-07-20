@@ -217,7 +217,7 @@
             const qData = questionPool[qId];
             const currentLevel = userProgress[qId].level;
             document.getElementById('question-mastery').innerText = `Question Profile ID: ${qId} | HamStudy Mastery Level: ${currentLevel}/5`;
-            document.getElementById('question-text').innerText = qData.question;
+            document.getElementById('question-text').innerHTML = qData.html;
 
             const optionsDiv = document.getElementById('options-container');
             optionsDiv.innerHTML = '';
