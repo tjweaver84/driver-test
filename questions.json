@@ -55,12 +55,12 @@
     "html": "Conviction for which of the following carries the highest number of points?"
   },
   "Q06": {
-    "correct": "B",
+    "correct": "D",
     "options": [
       "A) driving without a license",
       "B) passing a stopped school bus",
       "C) failing to yield the right of way",
-      "D) speeding more than 70 mph in a 55 mph zone"
+      "D) speeding more than 75 mph"
     ],
     "question": "A driver will lose his license if he is convicted of",
     "html": "A driver will lose his license if he is convicted of"
@@ -90,13 +90,13 @@
   "Q09": {
     "correct": "C",
     "options": [
-      "A) almost 10 %",
-      "B) almost 25 %",
-      "C) almost 50 %",
-      "D) almost 67 %"
+      "A) 10 %",
+      "B) 25 %",
+      "C) 38 %",
+      "D) 67 %"
     ],
-    "question": "The percentage of highway deaths caused by drunken person is",
-    "html": "The percentage of highway deaths caused by drunken person is"
+    "question": "The percentage of highway deaths caused by drunken person is about",
+    "html": "The percentage of highway deaths caused by drunken person is about"
   },
   "Q10": {
     "correct": "A",
