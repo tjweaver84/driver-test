@@ -2,69 +2,109 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>NC Driving Test Adaptive Practice Engine</title>
+    <title>NC Driving Test Practice Engine</title>
     <link rel="icon" href="data:,">
     <style>
-        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
-        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; }
-        .metric-box { display: flex; justify-content: space-between; background: #eef2f7; padding: 10px; border-radius: 4px; font-weight: bold; margin-bottom: 10px; }
-        .btn { background: #007bff; color: white; padding: 10px 15px; border: none; border-radius: 4px; cursor: pointer; margin-right: 10px; margin-top: 5px;}
+        body { font-family: Arial, sans-serif; max-width: 650px; margin: 40px auto; padding: 20px; background: #f9f9f9; }
+        .card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 20px; position: relative; }
+        .metric-box { display: flex; justify-content: space-between; background: #eef2f7; padding: 12px; border-radius: 4px; font-weight: bold; margin-bottom: 15px; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .btn { background: #007bff; color: white; padding: 12px 18px; border: none; border-radius: 4px; cursor: pointer; margin-right: 10px; margin-top: 5px; font-weight: bold; }
         .btn:hover { background: #0056b3; }
         .btn-success { background: #28a745; }
         .btn-success:hover { background: #218838; }
         .btn-danger { background: #dc3545; }
         .btn-danger:hover { background: #bd2130; }
-        .option-btn { display: block; width: 100%; text-align: left; margin: 8px 0; padding: 10px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; transition: background 0.2s; }
-        .option-btn:hover { background: #f0f0f0; }
+        .btn-purple { background: #6f42c1; }
+        .btn-purple:hover { background: #59359a; }
+        .btn-secondary { background: #6c757d; }
+        .btn-secondary:hover { background: #5a6268; }
+        
+        .option-btn { display: block; width: 100%; text-align: left; margin: 10px 0; padding: 12px; border: 1px solid #ccc; border-radius: 4px; background: #fff; cursor: pointer; transition: all 0.2s; font-size: 0.95em; }
+        .option-btn:hover:not([disabled]) { background: #f0f0f0; }
+        .option-btn.selected { background: #e0f0ff; border-color: #007bff; font-weight: bold; }
+        
         .option-btn.correct-highlight { background: #d4edda !important; border-color: #c3e6cb !important; color: #155724 !important; font-weight: bold; }
+        .option-btn.incorrect-highlight { background: #f8d7da !important; border-color: #f5c6cb !important; color: #721c24 !important; text-decoration: line-through; }
+        .option-btn.greyed-out { opacity: 0.4; background: #f8f9fa; }
+        
         .hidden { display: none; }
         .badge { background: #dc3545; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.8em; }
         .mastery-text { font-size: 0.85em; color: #666; font-style: italic; margin-top: 5px; }
+        .feedback-text { margin-top: 10px; font-weight: bold; font-size: 1.1em; }
+        
+        .status-indicator { position: absolute; top: 20px; right: 25px; font-size: 1.5em; font-weight: bold; }
+        .sticky-footer { position: sticky; bottom: 0; background: rgba(249, 249, 249, 0.95); padding: 15px 0; border-top: 1px solid #ddd; display: flex; justify-content: space-between; z-index: 999; }
+        .reference-badge { display: inline-block; background: #6c757d; color: white; padding: 3px 8px; border-radius: 4px; font-size: 0.85em; font-weight: bold; margin-top: 15px; }
     </style>
 </head>
 <body>
 
     <h2>NC Driving Test Practice Engine</h2>
     
-    <!-- METRICS HUD -->
     <div class="metric-box">
-        <div>Pool Completion: <span id="metric-completion">0%</span></div>
-        <div>Aptitude: <span id="metric-aptitude">0%</span></div>
+        <div style="font-size: 0.92em;">
+            <span style="color:#007bff;">Gen Knowledge:</span> Comp: <span id="gen-completion">0%</span> | Apt: <span id="gen-aptitude">0%</span>
+        </div>
+        <div style="font-size: 0.92em;">
+            <span style="color:#6f42c1;">Road Signs:</span> Comp: <span id="sign-completion">0%</span> | Apt: <span id="sign-aptitude">0%</span>
+        </div>
     </div>
 
-    <!-- NAVIGATION MENU -->
+    <!-- MAIN MENU DASHBOARD -->
     <div id="menu-view" class="card">
-        <h3>Choose Application Mode</h3>
-        <button class="btn btn-success" onclick="startFlashcardMode()">📖 Read Questions Mode (Flashcards)</button>
-        <button class="btn" onclick="startStudyMode()">🎯 Start Infinite Study Mode</button>
-        <button class="btn" onclick="startTestMode(25)">Take 25-Question Test</button>
-        <button class="btn" onclick="startMistakesMode()">Review Mistakes <span id="mistake-count" class="badge">0</span></button>
+        <h3>Master Written Knowledge Exam</h3>
+        <button class="btn btn-success" onclick="startFlashcardMode('GENERAL')">📖 Read General Flashcards</button>
+        <button class="btn" onclick="startStudyMode('GENERAL')">🎯 Start Adaptive Study Mode</button>
+        <button class="btn" onclick="startTestMode('GENERAL', 25)">📝 Take 25-Question Test</button>
+        
+        <h3 style="margin-top:25px;">Official Road Sign Identification</h3>
+        <button class="btn btn-success" onclick="startFlashcardMode('SIGNS')">📖 Read Sign Flashcards</button>
+        <button class="btn btn-purple" onclick="startStudyMode('SIGNS')">🎯 Study Road Signs</button>
+        <button class="btn btn-purple" onclick="startTestMode('SIGNS', 12)">🚦 Take 12-Question Sign Test</button>
+        
+        <h3 style="margin-top:25px;">Mistakes & Reset</h3>
+        <button class="btn btn-danger" onclick="startMistakesMode()">Review Mistakes <span id="mistake-count" class="badge">0</span></button>
         <hr style="margin-top:20px; border: 0; border-top: 1px solid #eee;">
         <button class="btn btn-danger" onclick="resetProgress()">Reset Tracking Progress Data</button>
     </div>
 
-    <!-- WORKSPACE (FLASHCARD / STUDY / TEST INTERFACE) -->
-    <div id="session-view" class="card hidden">
+    <!-- CONTAINER SWITCH LAYERS -->
+    <div id="session-view" class="hidden">
         <h3 id="session-title">Mode</h3>
-        <div id="question-mastery" class="mastery-text"></div>
-        <div id="question-text" style="font-weight: bold; margin-top: 10px; margin-bottom: 15px;">Question text goes here?</div>
-        <div id="options-container"></div>
-        <div id="feedback" style="margin-top: 15px; font-weight: bold;"></div>
-        <br>
-        <button class="btn" onclick="returnToMenu()">Quit to Menu</button>
-        <button id="next-btn" class="btn hidden" onclick="loadNextQuestion()">Next Question</button>
+        
+        <!-- CARD BASE WINDOW (STUDY AND EXAM INTERFACES DISPLAY SINGLE CONTAINER HERE) -->
+        <div id="single-card-workspace" class="card hidden">
+            <div id="question-mastery" class="mastery-text"></div>
+            <div id="question-text" style="font-weight: bold; margin-top: 10px; margin-bottom: 15px;">Question text</div>
+            <div id="options-container"></div>
+            <div id="feedback" style="margin-top: 15px; font-weight: bold;"></div>
+        </div>
+        
+        <!-- WRAPPER SCROLLABLE CANVAS DEDICATED ONLY FOR LONG FLASHCARD REVIEWS -->
+        <div id="scrollable-deck-workspace" class="hidden"></div>
+        
+        <div class="sticky-footer">
+            <button class="btn btn-secondary" onclick="returnToMenu()">Quit to Menu</button>
+            <button id="next-btn" class="btn btn-success hidden" onclick="loadNextQuestion()">Next Question</button>
+        </div>
     </div>
 
     <script>
-        let questionPool = {};
+        let generalPool = {};
+        let signPool = {};
+        let activePool = {};
+        let poolPrefix = 'GENERAL';
+        
         let userProgress = {}; 
-        let currentSession = { mode: '', questions: [], index: 0, testScore: 0, currentQId: null };
+        let currentSession = { mode: '', questions: [], index: 0, testScore: 0 };
 
         async function initApp() {
             try {
-                const response = await fetch('questions.json');
-                if (!response.ok) throw new Error("Could not find questions.json");
-                questionPool = await response.json();
+                const generalRes = await fetch('questions.json');
+                generalPool = await generalRes.json();
+                
+                const signRes = await fetch('signs.json');
+                signPool = await signRes.json();
                 
                 const savedProgress = localStorage.getItem('nc_driving_adaptive_progress');
                 if (savedProgress) {
@@ -73,150 +113,222 @@
                     resetTrackingDictionary();
                 }
                 
-                Object.keys(questionPool).forEach(id => {
-                    if (!userProgress[id]) {
-                        userProgress[id] = { seen: false, correctCount: 0, totalAttempts: 0, isMistake: false, level: 0 };
-                    }
-                    if (userProgress[id].level === undefined) {
-                        userProgress[id].level = 0;
-                    }
-                });
+                // Securely loop through and ensure both dataset tracking maps match flawlessly
+                Object.keys(generalPool).forEach(id => { ensureTrackingRecord(id); });
+                Object.keys(signPool).forEach(id => { ensureTrackingRecord(id); });
 
+                activePool = generalPool;
                 updateMetricsHUD();
             } catch (err) {
                 console.error("Initialization failed:", err);
             }
         }
 
-        function resetTrackingDictionary() {
-            userProgress = {};
-            Object.keys(questionPool).forEach(id => {
-                userProgress[id] = { seen: false, correctCount: 0, totalAttempts: 0, isMistake: false, level: 0 };
-            });
+        function ensureTrackingRecord(id) {
+            if (!userProgress[id]) userProgress[id] = makeProgObj();
+            if (userProgress[id].level === undefined) userProgress[id].level = 0;
+            if (!userProgress[id].history) userProgress[id].history = [];
         }
 
+        function makeProgObj() {
+            return { seen: false, correctCount: 0, totalAttempts: 0, isMistake: false, level: 0, history: [] };
+        }
+
+        function resetTrackingDictionary() {
+            userProgress = {};
+            Object.keys(generalPool).forEach(id => { userProgress[id] = makeProgObj(); });
+            Object.keys(signPool).forEach(id => { userProgress[id] = makeProgObj(); });
+        }
         function updateMetricsHUD() {
-            const keys = Object.keys(questionPool);
-            const total = keys.length;
-            if (total === 0) return;
+            const genKeys = Object.keys(generalPool);
+            const signKeys = Object.keys(signPool);
 
-            const seenCount = keys.filter(id => userProgress[id].seen).length;
-            const completionPct = (seenCount / total) * 100;
-
-            let totalCorrect = 0, totalAttempts = 0, mistakeBinTotal = 0;
-            keys.forEach(id => {
-                totalCorrect += userProgress[id].correctCount;
-                totalAttempts += userProgress[id].totalAttempts;
-                if (userProgress[id].isMistake) mistakeBinTotal++;
+            const genSeen = genKeys.filter(id => userProgress[id] && userProgress[id].seen).length;
+            const genCompPct = genKeys.length > 0 ? (genSeen / genKeys.length) * 100 : 0;
+            let genCorrect = 0, genAttempts = 0;
+            genKeys.forEach(id => {
+                if (userProgress[id]) {
+                    genCorrect += userProgress[id].correctCount || 0;
+                    genAttempts += userProgress[id].totalAttempts || 0;
+                }
             });
-            
-            const aptitudePct = totalAttempts > 0 ? (totalCorrect / totalAttempts) * 100 : 0;
+            const genAptPct = genAttempts > 0 ? (genCorrect / genAttempts) * 100 : 0;
 
-            document.getElementById('metric-completion').innerText = completionPct.toFixed(1) + '%';
-            document.getElementById('metric-aptitude').innerText = aptitudePct.toFixed(1) + '%';
+            const signSeen = signKeys.filter(id => userProgress[id] && userProgress[id].seen).length;
+            const signCompPct = signKeys.length > 0 ? (signSeen / signKeys.length) * 100 : 0;
+            let signCorrect = 0, signAttempts = 0;
+            signKeys.forEach(id => {
+                if (userProgress[id]) {
+                    signCorrect += userProgress[id].correctCount || 0;
+                    signAttempts += userProgress[id].totalAttempts || 0;
+                }
+            });
+            const signAptPct = signAttempts > 0 ? (signCorrect / signAttempts) * 100 : 0;
+
+            document.getElementById('gen-completion').innerText = genCompPct.toFixed(1) + '%';
+            document.getElementById('gen-aptitude').innerText = genAptPct.toFixed(1) + '%';
+            document.getElementById('sign-completion').innerText = signCompPct.toFixed(1) + '%';
+            document.getElementById('sign-aptitude').innerText = signAptPct.toFixed(1) + '%';
+
+            let mistakeBinTotal = Object.keys(userProgress).filter(id => userProgress[id] && userProgress[id].isMistake).length;
             document.getElementById('mistake-count').innerText = mistakeBinTotal;
             
             localStorage.setItem('nc_driving_adaptive_progress', JSON.stringify(userProgress));
         }
 
         function getNextSmartStudyQuestion() {
-            const keys = Object.keys(questionPool);
+            const keys = Object.keys(activePool);
             let candidates = [];
             const levelWeights = { 0: 32, 1: 16, 2: 8, 3: 4, 4: 2, 5: 1 };
 
             keys.forEach(id => {
-                const prog = userProgress[id];
+                const prog = userProgress[id] || makeProgObj();
                 const weight = levelWeights[prog.level] || 1;
-                for (let i = 0; i < weight; i++) {
-                    candidates.push(id);
+                for (let i = 0; i < weight; i++) candidates.push(id);
+            });
+
+            return candidates[Math.floor(Math.random() * candidates.length)];
+        }
+
+        function toggleView(inSession) {
+            document.getElementById('menu-view').classList.toggle('hidden', inSession);
+            document.getElementById('session-view').classList.toggle('hidden', !inSession);
+        }
+
+        function returnToMenu() { toggleView(false); }
+        function startFlashcardMode(poolType) {
+            poolPrefix = poolType;
+            activePool = (poolPrefix === 'SIGNS') ? signPool : generalPool;
+            currentSession = { mode: 'FLASHCARD', questions: Object.keys(activePool).sort(), index: 0 };
+            
+            document.getElementById('session-title').innerText = `📖 READ MODE (${poolPrefix}) — SCROLLABLE LIST DECK`;
+            document.getElementById('single-card-workspace').classList.add('hidden');
+            document.getElementById('next-btn').classList.add('hidden');
+            
+            const deckWorkspace = document.getElementById('scrollable-deck-workspace');
+            deckWorkspace.innerHTML = '';
+            deckWorkspace.classList.remove('hidden');
+            updateMetricsHUD();
+
+            currentSession.questions.forEach((qId, idx) => {
+                const qData = activePool[qId];
+                const prog = userProgress[qId] || makeProgObj();
+                
+                let historyHtml = '<div style="display:flex; gap:4px; margin-top:5px;">';
+                for (let i = 0; i < 5; i++) {
+                    if (i < prog.history.length) {
+                        historyHtml += `<div style="width:14px; height:8px; background:${prog.history[prog.history.length - 1 - i] ? '#28a745' : '#dc3545'}; border-radius:1px;"></div>`;
+                    } else {
+                        historyHtml += `<div style="width:14px; height:8px; background:#e0e0e0; border-radius:1px;"></div>`;
+                    }
                 }
+                historyHtml += '</div>';
+
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <div class="mastery-text" style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+                        <div>Reference ID: ${qId} (${idx + 1}/${currentSession.questions.length})</div>
+                        ${historyHtml}
+                    </div>
+                    <div style="font-weight: bold; margin-top:10px; margin-bottom: 15px;">${qData.html}</div>
+                    <div class="options-box"></div>
+                `;
+                
+                const optsBox = card.querySelector('.options-box');
+                qData.options.forEach(opt => {
+                    const btn = document.createElement('button');
+                    btn.className = 'option-btn';
+                    btn.innerText = opt;
+                    btn.disabled = true;
+                    if (opt.trim().charAt(0) === qData.correct) btn.classList.add('correct-highlight');
+                    optsBox.appendChild(btn);
+                });
+                deckWorkspace.appendChild(card);
             });
 
-            let selection = candidates[Math.floor(Math.random() * candidates.length)];
-            if (selection === currentSession.currentQId && keys.length > 1) {
-                selection = candidates[Math.floor(Math.random() * candidates.length)];
-            }
-            return selection;
+            toggleView(true);
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        function startFlashcardMode() {
-            currentSession.mode = 'FLASHCARD';
-            // Force strict numerical indexing order (Q01, Q02... Q90)
-            currentSession.questions = Object.keys(questionPool).sort((a, b) => {
-                return parseInt(a.replace('Q', '')) - parseInt(b.replace('Q', ''));
-            });
-            currentSession.index = 0;
-            toggleView(true);
+        function startStudyMode(poolType) {
+            poolPrefix = poolType;
+            activePool = (poolPrefix === 'SIGNS') ? signPool : generalPool;
+            currentSession = { mode: 'STUDY', questions: [], index: 0 };
+            setupSingleCardWorkspace();
             loadNextQuestion();
         }
 
-        function startStudyMode() {
-            currentSession.mode = 'STUDY';
-            currentSession.index = 0;
-            toggleView(true);
-            loadNextQuestion();
-        }
-
-        function startTestMode(size) {
-            currentSession.mode = 'TEST';
-            currentSession.testScore = 0;
-            currentSession.index = 0;
-            
-            let shuffled = Object.keys(questionPool).sort(() => 0.5 - Math.random());
-            currentSession.questions = shuffled.slice(0, size);
-            
-            toggleView(true);
+        function startTestMode(poolType, size) {
+            poolPrefix = poolType;
+            activePool = (poolPrefix === 'SIGNS') ? signPool : generalPool;
+            let shuffled = Object.keys(activePool).sort(() => 0.5 - Math.random());
+            currentSession = { mode: 'TEST', questions: shuffled.slice(0, size), index: 0, testScore: 0 };
+            setupSingleCardWorkspace();
             loadNextQuestion();
         }
 
         function startMistakesMode() {
-            currentSession.mode = 'REVIEW';
-            currentSession.index = 0;
-            currentSession.questions = Object.keys(questionPool).filter(id => userProgress[id].isMistake);
-            
-            if (currentSession.questions.length === 0) {
+            let mistakes = Object.keys(userProgress).filter(id => userProgress[id] && userProgress[id].isMistake);
+            if (mistakes.length === 0) {
                 alert("Your Mistakes review bucket is completely empty!");
                 return;
             }
-            
-            toggleView(true);
+            currentSession = { mode: 'REVIEW', questions: mistakes, index: 0 };
+            setupSingleCardWorkspace();
             loadNextQuestion();
         }
-        
-        // Complete, unified loadNextQuestion implementation
+
+        function setupSingleCardWorkspace() {
+            document.getElementById('scrollable-deck-workspace').classList.add('hidden');
+            document.getElementById('scrollable-deck-workspace').innerHTML = '';
+            document.getElementById('single-card-workspace').classList.remove('hidden');
+            toggleView(true);
+        }
         function loadNextQuestion() {
             document.getElementById('feedback').innerText = '';
             document.getElementById('next-btn').classList.add('hidden');
-            
+            updateMetricsHUD();
+
             let qId;
-            
             if (currentSession.mode === 'STUDY') {
                 qId = getNextSmartStudyQuestion();
-                currentSession.currentQId = qId;
                 currentSession.index++;
-                document.getElementById('session-title').innerText = `INFINITE STUDY MODE — Count: ${currentSession.index}`;
+                document.getElementById('session-title').innerText = `${poolPrefix} STUDY MODE — Count: ${currentSession.index}`;
             } else {
                 if (currentSession.index >= currentSession.questions.length) {
                     if (currentSession.mode === 'TEST') {
                         const percentage = (currentSession.testScore / currentSession.questions.length) * 100;
-                        const passed = percentage >= 80;
-                        const statusMessage = passed ? "🎉 PASSED!" : "❌ FAILED (Requires 80% to pass)";
-                        alert(`Exam Complete!\nScore: ${currentSession.testScore}/${currentSession.questions.length} (${percentage.toFixed(1)}%)\nResult: ${statusMessage}`);
-                    } else if (currentSession.mode === 'FLASHCARD') {
-                        alert("You've finished reading through all questions in the pool!");
+                        alert(`Exam Complete!\nScore: ${currentSession.testScore}/${currentSession.questions.length} (${percentage.toFixed(1)}%)\nResult: ${percentage >= 80 ? "🎉 PASSED!" : "❌ FAILED"}`);
                     } else {
-                        alert("Finished reviewing your custom target mistakes queue!");
+                        alert("Finished current selection block queue!");
                     }
                     returnToMenu();
                     return;
                 }
                 qId = currentSession.questions[currentSession.index];
-                document.getElementById('session-title').innerText = `${currentSession.mode} MODE — Question ${currentSession.index + 1}/${currentSession.questions.length}`;
+                document.getElementById('session-title').innerText = `${poolPrefix} ${currentSession.mode} MODE — ${currentSession.index + 1}/${currentSession.questions.length}`;
             }
 
-            const qData = questionPool[qId];
-            const currentLevel = userProgress[qId].level;
-            document.getElementById('question-mastery').innerText = `Question Profile ID: ${qId} | HamStudy Mastery Level: ${currentLevel}/5`;
+            const targetPool = (qId.startsWith('S')) ? signPool : generalPool;
+            const qData = targetPool[qId];
+            const prog = userProgress[qId] || makeProgObj();
+            
+            let historyHtml = '<div style="display:flex; gap:4px; margin-top:5px;">';
+            for (let i = 0; i < 5; i++) {
+                if (i < prog.history.length) {
+                    historyHtml += `<div style="width:14px; height:8px; background:${prog.history[prog.history.length - 1 - i] ? '#28a745' : '#dc3545'}; border-radius:1px;"></div>`;
+                } else {
+                    historyHtml += `<div style="width:14px; height:8px; background:#e0e0e0; border-radius:1px;"></div>`;
+                }
+            }
+            historyHtml += '</div>';
+
+            document.getElementById('question-mastery').innerHTML = `
+                <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+                    <div>Reference ID: ${qId} | Level: ${prog.level}/5</div>
+                    ${historyHtml}
+                </div>`;
             document.getElementById('question-text').innerHTML = qData.html;
 
             const optionsDiv = document.getElementById('options-container');
@@ -226,61 +338,43 @@
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
                 btn.innerText = opt;
-                
                 const optionLetter = opt.trim().charAt(0);
-                
-                if (currentSession.mode === 'FLASHCARD') {
-                    btn.disabled = true; 
-                    if (optionLetter === qData.correct) {
-                        btn.classList.add('correct-highlight');
-                    }
-                } else {
-                    btn.onclick = () => evaluateAnswer(btn, optionLetter, qData.correct, qId);
-                }
-                
+                btn.onclick = () => evaluateAnswer(btn, optionLetter, qData.correct, qId);
                 optionsDiv.appendChild(btn);
             });
-
-            if (currentSession.mode === 'FLASHCARD') {
-                // Progress tracking update lines removed from here so Flashcards stay passive
-                currentSession.index += 1;
-                document.getElementById('next-btn').classList.remove('hidden');
-            }
         }
+
         function evaluateAnswer(clickedBtn, chosenChar, correctChar, qId) {
             const buttons = document.querySelectorAll('.option-btn');
             buttons.forEach(b => b.disabled = true);
 
-            // Active verification logs seen status here for Study, Test, and Review runs
             userProgress[qId].seen = true;
             userProgress[qId].totalAttempts += 1;
 
             if (chosenChar === correctChar) {
+                clickedBtn.classList.add('correct-highlight');
                 document.getElementById('feedback').innerText = "✅ Correct!";
+                document.getElementById('feedback').style.color = "#28a745";
                 userProgress[qId].correctCount += 1;
                 userProgress[qId].isMistake = false;
-                
+                userProgress[qId].history.push(1);
                 if (currentSession.mode === 'TEST') currentSession.testScore += 1;
-                
-                if (userProgress[qId].level < 5) {
-                    userProgress[qId].level += 1;
-                }
+                if (userProgress[qId].level < 5) userProgress[qId].level += 1;
             } else {
+                clickedBtn.classList.add('incorrect-highlight');
                 document.getElementById('feedback').innerText = `❌ Incorrect. Correct answer is: ${correctChar}`;
+                document.getElementById('feedback').style.color = "#dc3545";
                 userProgress[qId].isMistake = true;
+                userProgress[qId].history.push(0);
                 userProgress[qId].level = 0;
                 
                 buttons.forEach(b => {
-                    if (b.innerText.trim().charAt(0) === correctChar) {
-                        b.classList.add('correct-highlight');
-                    }
+                    if (b.innerText.trim().charAt(0) === correctChar) b.classList.add('correct-highlight');
                 });
             }
 
-            updateMetricsHUD();
-            if (currentSession.mode !== 'STUDY') {
-                currentSession.index += 1;
-            }
+            if (userProgress[qId].history.length > 5) userProgress[qId].history.shift();
+            currentSession.index++;
             document.getElementById('next-btn').classList.remove('hidden');
         }
 
@@ -290,13 +384,6 @@
                 updateMetricsHUD();
             }
         }
-
-        function toggleView(inSession) {
-            document.getElementById('menu-view').classList.toggle('hidden', inSession);
-            document.getElementById('session-view').classList.toggle('hidden', !inSession);
-        }
-
-        function returnToMenu() { toggleView(false); }
 
         window.onload = initApp;
     </script>

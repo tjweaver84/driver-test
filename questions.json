@@ -18,8 +18,8 @@
       "C) assign the driver to the Driver Improvement Clinic",
       "D) revoke the driver's license for at least 12 months"
     ],
-    "question": "Ifa law enforcement officer swears that a driver has refused a legal chemical test, the Division of Motor Vehicles must",
-    "html": "Ifa law enforcement officer swears that a driver has refused a legal chemical test, the Division of Motor Vehicles must"
+    "question": "If a law enforcement officer swears that a driver has refused a legal chemical test, the Division of Motor Vehicles must",
+    "html": "If a law enforcement officer swears that a driver has refused a legal chemical test, the Division of Motor Vehicles must"
   },
   "Q03": {
     "correct": "B",
@@ -40,8 +40,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When a driver has atotal of 7points, which of the following may happen? 1. The driver can be required' to file proof of financial responsibility. 2. The driver can have 3points deducted if he satisfactorily completes a Driver Improvement Clinic.",
-    "html": "When a driver has atotal of 7points, which of the following may happen?<br>1. The driver can be required' to file proof of financial responsibility.<br>2. The driver can have 3points deducted if he satisfactorily completes a Driver Improvement Clinic."
+    "question": "When a driver has atotal of 7 points, which of the following may happen? 1. The driver can be required' to file proof of financial responsibility. 2. The driver can have 3 points deducted if he satisfactorily completes a Driver Improvement Clinic.",
+    "html": "When a driver has atotal of 7 points, which of the following may happen?<br>1. The driver can be required' to file proof of financial responsibility.<br>2. The driver can have 3 points deducted if he satisfactorily completes a Driver Improvement Clinic."
   },
   "Q05": {
     "correct": "D",
@@ -148,7 +148,7 @@
       "A) watches the side of the road over the hood to stay in lane",
       "B) frequently checks the rear view and side mirrors",
       "C) drinks coffee while driving at night to stay alert",
-      "D) keeps 2car lengths between his car and the next car on the expressway"
+      "D) keeps 2 car lengths between his car and the next car on the expressway"
     ],
     "question": "A safe driver does which of the following?",
     "html": "A safe driver does which of the following?"
@@ -238,8 +238,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "Which of the following statements about speed limits for cars in North Carolina is (are) correct? 1. The speed limit outside a city is 55 mph unless otherwise posted. 2. The speed limit inside a city is25 mph unless otherwise posted.",
-    "html": "Which of the following statements about speed limits for cars in North Carolina is (are) correct?<br>1. The speed limit outside a city is 55 mph unless otherwise posted.<br>2. The speed limit inside a city is25 mph unless otherwise posted."
+    "question": "Which of the following statements about speed limits for cars in North Carolina is (are) correct? 1. The speed limit outside a city is 55 mph unless otherwise posted. 2. The speed limit inside a city is 25 mph unless otherwise posted.",
+    "html": "Which of the following statements about speed limits for cars in North Carolina is (are) correct?<br>1. The speed limit outside a city is 55 mph unless otherwise posted.<br>2. The speed limit inside a city is 25 mph unless otherwise posted."
   },
   "Q23": {
     "correct": "A",
@@ -381,8 +381,8 @@
       "C) over a double yellow center line.",
       "D) over a double white center line."
     ],
-    "question": "Itis illegal to pass on a two-lane, two-way street",
-    "html": "Itis illegal to pass on a two-lane, two-way street"
+    "question": "It is illegal to pass on a two-lane, two-way street",
+    "html": "It is illegal to pass on a two-lane, two-way street"
   },
   "Q36": {
     "correct": "C",
@@ -524,8 +524,8 @@
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],
-    "question": "When taking a long trip on an interstate highway, you should plan on doing which of the following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic.",
-    "html": "When taking a long trip on an interstate highway, you should plan on doing which of the following 1. Stopping every 100miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic."
+    "question": "When taking a long trip on an interstate highway, you should plan on doing which of the following 1. Stopping every 100 miles at a rest area. 2. Scheduling some hours of night driving to avoid heavy traffic.",
+    "html": "When taking a long trip on an interstate highway, you should plan on doing which of the following<br>1. Stopping every 100 miles at a rest area.<br>2. Scheduling some hours of night driving to avoid heavy traffic."
   },
   "Q49": {
     "correct": "C",
@@ -553,7 +553,7 @@
     "correct": "B",
     "options": [
       "A) 1 only",
-      "B) ,2 only",
+      "B) 2 only",
       "C) both 1 and 2",
       "D) neither 1 nor 2"
     ],

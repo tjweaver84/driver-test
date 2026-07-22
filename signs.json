@@ -1,0 +1,542 @@
+{
+  "S01": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S01.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Slow down and proceed with caution if the intersection is clear.",
+      "B) Come to a complete stop, yield the right-of-way, and proceed only when safe.",
+      "C) Stop only if there are oncoming cars approaching from your left side.",
+      "D) Yield the right-of-way to all vehicles turning right."
+    ]
+  },
+  "S02": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S02.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Stop completely at the line and wait for a green signal arrow.",
+      "B) Maintain your speed and blow your horn to clear crossing traffic.",
+      "C) Slow down, defer to vehicles and pedestrians with the right-of-way, and stop if necessary.",
+      "D) Merge immediately into the left-hand lane without slowing down."
+    ]
+  },
+  "S03": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S03.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You must pull over to the right shoulder edge to let emergency cars pass.",
+      "B) You are about to travel the wrong way down a one-way street or exit ramp; do not proceed.",
+      "C) Commercial delivery trucks are barred from this street position.",
+      "D) A detour path route begins immediately at the upcoming boundary intersection."
+    ]
+  },
+  "S04": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S04.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A mandatory right-turn signal lane intersection indicator.",
+      "B) Traffic must stay to the right side of a median island, obstruction, or divider directly ahead.",
+      "C) The road surface ahead shifts into a one-way street traveling right.",
+      "D) Slow drivers must pull off onto the shoulder lane line immediately."
+    ]
+  },
+  "S05": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S05.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left turns are prohibited during peak traffic hours.",
+      "B) Sharp curve ahead; change lanes to the right.",
+      "C) Road splits into a double-loop bypass lane ahead.",
+      "D) You are strictly prohibited from making a complete turn to go in the opposite direction (No U-Turn)."
+    ]
+  },
+  "S06": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S06.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You are strictly prohibited from turning right at this intersection.",
+      "B) You must make a right turn when the traffic light cycles to green.",
+      "C) Right turns are restricted exclusively to commercial delivery vehicles.",
+      "D) A sharp curve traveling right is located directly ahead."
+    ]
+  },
+  "S07": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S07.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An option describing custom lane tracking restrictions.",
+      "B) Indicates an upcoming commercial weight-limit weighing station bridge boundary.",
+      "C) Shows the maximum legal speed limit under ideal road and weather conditions.",
+      "D) Represents the total number of highway miles remaining to your target exit loop."
+    ]
+  },
+  "S08": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S08.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A designated non-motorized trail path crossing sits directly ahead.",
+      "B) Bicycles are strictly prohibited from utilizing this roadway surface or lane grid track.",
+      "C) Yield right-of-way metrics apply to all bicycle riders approaching from your left.",
+      "D) Free public bicycle parking bays are located near this specific sidewalk curb."
+    ]
+  },
+  "S09": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S09.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) One-way traffic flow direction; you must only travel in the direction of the arrow.",
+      "B) An approaching lane merge hazard configuration on your left side.",
+      "C) A mandatory freeway exit track lane marker loop.",
+      "D) Yield the right-of-way to oncoming cars approaching from your right."
+    ]
+  },
+  "S10": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S10.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You may turn left or right from either lane track position.",
+      "B) The left lane ends ahead; merge completely over to your right side.",
+      "C) Traffic in this lane must turn left; proceeding straight is prohibited.",
+      "D) Oncoming traffic has a delayed green arrow turn signal cycle across this grid track."
+    ]
+  },
+  "S11": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S11.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Traffic flows only in the direction of the arrow; you must not travel opposite to it.",
+      "B) Indicates an upcoming highway lane drop configuration on your left side.",
+      "C) You are entering a designated highway carpool or high-occupancy vehicle lane.",
+      "D) Yield the right-of-way to all crossing vehicles at the upcoming intersection."
+    ]
+  },
+  "S12": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S12.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A mandatory left-turn signal lane intersection indicator.",
+      "B) Traffic must stay to the left side of a median island, obstruction, or divider directly ahead.",
+      "C) The road surface ahead shifts into a one-way street traveling left.",
+      "D) Slow drivers must pull over onto the left-hand shoulder line immediately."
+    ]
+  },
+  "S13": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S13.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You are permitted to turn left, but traveling straight through is strictly prohibited.",
+      "B) The lane splits into two separate independent highway tracks directly ahead.",
+      "C) Drivers in this lane may either proceed straight ahead or make a left turn at the intersection.",
+      "D) Oncoming traffic has a delayed green arrow turn signal cycle across this grid track."
+    ]
+  },
+  "S14": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S14.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Two lanes are designated for left turns; choose the appropriate lane based on your target route.",
+      "B) Traffic in both lanes must proceed straight ahead through the upcoming intersection.",
+      "C) The left-hand lane splits into a double u-turn configuration bypass loop.",
+      "D) Commercial vehicles are strictly prohibited from utilizing either turning lane track."
+    ]
+  },
+  "S15": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S15.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) No right turns are permitted at this location.",
+      "B) Left turns are permitted only when a green arrow signal light is active.",
+      "C) You must make a left turn when the traffic light cycles to green.",
+      "D) You are strictly prohibited from making a left turn at this intersection."
+    ]
+  },
+  "S16": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S16.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The left lane turns into a multi-lane merging acceleration system ahead.",
+      "B) Traffic in the left lane must turn left at the intersection; proceeding straight is prohibited.",
+      "C) Slow drivers must clear the left lane track immediately to let vehicles pass.",
+      "D) Left turns are restricted exclusively to carpools or emergency vehicles."
+    ]
+  },
+  "S17": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S17.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) No turns are permitted at this intersection; all traffic must proceed straight ahead.",
+      "B) U-turns are permitted, but standard left and right turns are blocked.",
+      "C) The intersection is closed ahead due to active roadway layout construction.",
+      "D) You must pull completely onto the shoulder line before attempting any turn choice."
+    ]
+  },
+  "S18": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S18.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Commercial shipping trucks must utilize the center lane path track.",
+      "B) Driving across the median grass baseline is permitted during heavy congestion traffic.",
+      "C) Driving or parking on the grassy dividing median strip is strictly prohibited.",
+      "D) A warning indicator showing a low-clearance divider structure rests ahead."
+    ]
+  },
+  "S19": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S19.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An option describing upcoming highway construction zone lane drop limits.",
+      "B) Passing is legal if the vehicle ahead is traveling under 30 mph.",
+      "C) You are prohibited from changing radio stations or checking mobile phone displays.",
+      "D) You are strictly prohibited from passing other vehicles on this stretch of road."
+    ]
+  },
+  "S20": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S20.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The no-passing zone restriction remains active for another 500 feet.",
+      "B) You have reached the end of a no-passing zone; you may pass other vehicles when it is safe.",
+      "C) You must yield the right-of-way to all vehicles entering from your right shoulder.",
+      "D) Maintain extra following space parameters because road surface conditions drop ahead."
+    ]
+  },
+  "S21": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S21.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Slower-moving traffic must stay in the right-hand lane to allow faster vehicles to pass safely.",
+      "B) The right-hand lane terminates completely at the upcoming boundary line.",
+      "C) Commuter buses have an exclusive lane assignment on the right shoulder edge.",
+      "D) Slow down to 35 mph because a sharp hill configuration profile sits directly ahead."
+    ]
+  },
+  "S22": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S22.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Public transit vehicles are blocked from loading passengers at this location.",
+      "B) You may park your vehicle here if your flashers are active for under 5 minutes.",
+      "C) This area is reserved exclusively for transit buses; parking other vehicles is strictly prohibited.",
+      "D) Free public parking spaces are located immediately around the next corner intersection."
+    ]
+  },
+  "S23": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S23.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You must purchase a parking permit at the nearby municipal terminal box.",
+      "B) Parking is restricted to a maximum threshold of 60 minutes during the posted daytime hours.",
+      "C) Commercial delivery trucks have an exclusive loading window of one hour.",
+      "D) Vehicles left unattended for over 60 minutes will face vehicle impoundment rules."
+    ]
+  },
+  "S24": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S24.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Parking spaces are open to all vehicles during holiday schedule hours.",
+      "B) This space is strictly reserved for vehicles displaying an official handicapped license plate or placard.",
+      "C) Parking fees are halved if the driver has a valid medical authorization slip.",
+      "D) Emergency vehicles have priority clearance across this curbside boundary line zone."
+    ]
+  },
+  "S25": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S25.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You must only stop or park your vehicle here in the event of an actual vehicle breakdown or emergency.",
+      "B) Police vehicles use this curbside zone layout exclusively for speed monitoring loops.",
+      "C) Parking is free for all municipal workers and civil utility repair crews.",
+      "D) Slow down to 15 mph because an active emergency medical dispatcher pad sits ahead."
+    ]
+  },
+  "S26": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S26.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A light-rail passenger transit platform track crosses the highway loop directly ahead.",
+      "B) An approaching intersection controlled exclusively by automated speed detection radar units.",
+      "C) A regulatory sign marking the exact location of a railroad crossing; look and listen for trains.",
+      "D) A construction zone lane detour path route configuration boundary begins ahead."
+    ]
+  },
+  "S27": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct regulatory meaning:<br><br><img src='sign-images/S27.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Winding road curves drop traction levels; apply your brakes firmly before entry loops.",
+      "B) Do not stop your vehicle on the railroad tracks; ensure you can clear them completely before crossing.",
+      "C) Traffic signals have an un-timed cycle pattern across this specific bridge grid.",
+      "D) The road surface weaves and twists continuously ahead; slow down and pass cautiously."
+    ]
+  },
+  "S28": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S28.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An upcoming construction zone bypass lane detour.",
+      "B) A warning that you are entering a one-way street alignment.",
+      "C) A regulatory boundary where you must maintain a speed of at least 45 mph.",
+      "D) A yellow pennant sign placed on the left side of the road indicating you must not pass other vehicles."
+    ]
+  },
+  "S29": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S29.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An upcoming intersection is controlled by a traffic light; prepare to slow down and stop.",
+      "B) Automated radar speed cameras are active at the upcoming intersection.",
+      "C) A hidden drawbridge structure crosses the channel directly ahead.",
+      "D) Emergency vehicle dispatch sirens are common along this crossroad section."
+    ]
+  },
+  "S30": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S30.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Severe mudslide hazards are active across the shoulder edge.",
+      "B) The road surface becomes slippery during rainfall or icy conditions; reduce speed.",
+      "C) Unpaved loose gravel baseline roadway begins directly ahead.",
+      "D) Sudden high winds can affect vehicle stability on this bridge."
+    ]
+  },
+  "S31": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S31.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A public pedestrian corridor crossing near a community park parkway.",
+      "B) Approach of an active school crossing; slow down, look for children, and prepare to stop.",
+      "C) Standard student school bus loading terminal zone boundary lines.",
+      "D) A mandatory speed tracking checkpoint zone restriction of 20 mph."
+    ]
+  },
+  "S32": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S32.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The highway ahead transitions into a multi-lane expressway system.",
+      "B) The divided highway ends ahead; two-way traffic will share the same undivided road surface.",
+      "C) A lane drop hazard pattern begins on your right-hand side track.",
+      "D) Two-way traffic rules are suspended across this highway span."
+    ]
+  },
+  "S33": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S33.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You are approaching a school zone; reduce your speed, stay alert, and watch for kids.",
+      "B) Free neighborhood student bus stops are located at the next curb segment line.",
+      "C) A public crosswalk corridor leading to a local recreation park sits directly ahead.",
+      "D) Student hitchhiking activities are highly restricted across this township baseline."
+    ]
+  },
+  "S34": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S34.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An industrial freight loading yard terminal sits ahead.",
+      "B) Automated signal light enforcement cameras are checking lane bounds.",
+      "C) A circular advance warning sign indicating a railroad crossing is directly ahead.",
+      "D) Construction zone lane detours force traffic over to the left line."
+    ]
+  },
+  "S35": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S35.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) State wildlife conservation sanctuary property borders this driving lane.",
+      "B) Deer frequently cross the highway in this high-risk area; drive cautiously.",
+      "C) Rural farm machinery and tractor traffic common along the shoulder.",
+      "D) Open livestock range territory begins directly at the marker line."
+    ]
+  },
+  "S36": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S36.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road ahead curves sharply to the right; reduce your speed and do not pass.",
+      "B) A mandatory right-turn lane starts directly at the upcoming intersection.",
+      "C) Traffic on the right has an unrestricted merge acceleration line lane.",
+      "D) A winding road pattern begins immediately along your right side shoulder."
+    ]
+  },
+  "S37": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S37.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) An upcoming multi-lane cloverleaf interstate exit loop terminal.",
+      "B) A mandatory roundabout traffic circle intersection grid track.",
+      "C) A sharp curve to the right is immediately followed by a sharp curve to the left (Reverse Turn).",
+      "D) The road surface undergoes a severe alignment shift due to structural updates."
+    ]
+  },
+  "S38": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S38.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A divided highway begins directly at the upcoming milestone intersection.",
+      "B) Another road enters the highway from the right; watch for merging vehicles.",
+      "C) A mandatory freeway off-ramp deceleration exit lane drops on the right.",
+      "D) Two-way traffic rules are suspended across this transition grid layer."
+    ]
+  },
+  "S39": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S39.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Another road crosses the highway ahead; look left and right for crossing traffic.",
+      "B) A designated emergency vehicle dispatcher pad crossroad sits ahead.",
+      "C) A municipal toll plaza collection baseline gate line sits directly ahead.",
+      "D) The multi-lane highway layout terminates completely at this intersection."
+    ]
+  },
+  "S40": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S40.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A low-clearance bridge structure blocks commercial trucks ahead.",
+      "B) An approaching runaway truck ramp lane sits on your right shoulder edge.",
+      "C) A steep hill or incline is ahead; slow down and prepare to shift into a lower gear.",
+      "D) The road surface transitions into an unpaved loose gravel baseline layer."
+    ]
+  },
+  "S41": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S41.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The right lane ends ahead; drivers in that lane must merge safely to the left.",
+      "B) A narrow bridge layout structure sits directly ahead over the river.",
+      "C) Traffic must merge into a single centralized lane track running straight.",
+      "D) An approaching off-ramp deceleration lane drops on the right shoulder line."
+    ]
+  },
+  "S42": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S42.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A public pedestrian park trail crosses the highway path layout ahead.",
+      "B) Farm machinery or tractors frequently enter or cross the highway here; slow down and stay alert.",
+      "C) An official industrial warehouse commercial shipping terminal sits ahead.",
+      "D) Slow moving utility vehicles are barred from this street stretch."
+    ]
+  },
+  "S43": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S43.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A state-regulated agricultural exhibition gate entry point rests directly ahead.",
+      "B) A rural farm machinery transport avenue junction cuts across this driving lane.",
+      "C) Warning that cattle or livestock may be crossing the road in this area; drive alertly.",
+      "D) Open grazing territories border this highway section line parameter grid track."
+    ]
+  },
+  "S44": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S44.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A mandatory right-turn lane pattern begins right at the upcoming intersection.",
+      "B) The main highway drops a lane branch track cleanly on your left-hand shoulder line.",
+      "C) A sharp winding loop track weaves severely to the left across this baseline valley.",
+      "D) A side road enters the highway ahead at an angle; adjust your scanning layout to the right."
+    ]
+  },
+  "S45": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S45.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A side road enters the highway ahead; watch for vehicles entering or exiting the roadway.",
+      "B) A designated freeway emergency ramp exit route loop terminates directly ahead.",
+      "C) The multi-lane driving track bottleneck line narrows into a single lane layout.",
+      "D) Two-way traffic rules are suspended across this intersection baseline boundary."
+    ]
+  },
+  "S46": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S46.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The highway transitions ahead into a single-direction one-way street track grid.",
+      "B) Warning that the road ahead carries two-way traffic; drive to the right of the center line.",
+      "C) A temporary automated detour gate system controls vehicle dispatch schedules.",
+      "D) Overtaking slower vehicles is legal across both directions of this highway section."
+    ]
+  },
+  "S47": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S47.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A designated non-motorized trail path crossing sits directly ahead.",
+      "B) A public highway toll collection plaza checkpoint rests directly ahead.",
+      "C) The main driving track layout terminates completely at this boundary line junction.",
+      "D) A side road enters the highway at a perpendicular 90-degree angle ahead; watch for traffic."
+    ]
+  },
+  "S48": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S48.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Bicycles frequently cross or ride along the road in this area; share the road and drive alertly.",
+      "B) A mandatory bicycle-only transit trail lane line runs right along this shoulder track.",
+      "C) Yield right-of-way rules require motorized cars to halt for bikes arriving on the left.",
+      "D) Free public bike storage lockers are located near this specific sidewalk curb segment."
+    ]
+  },
+  "S49": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S49.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road surface ahead undergoes a severe unpaved loose gravel baseline modification.",
+      "B) Mudslides or falling rock debris elements are highly common along the upcoming embankment.",
+      "C) The dirt or gravel shoulder at the edge of the road is soft; do not drive on it unless necessary.",
+      "D) Active flash flood danger warnings apply to this specific highway basin lane track structure."
+    ]
+  },
+  "S50": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S50.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A regulatory automated speed enforcement camera checkpoint rests ahead.",
+      "B) An upcoming intersection is controlled by a stop sign; slow down and prepare to stop.",
+      "C) A railroad crossing gate assembly controlled by flashing red light bulbs sits ahead.",
+      "D) An emergency medical rescue squad dispatch vehicle bay borders this driving lane position."
+    ]
+  },
+  "S51": {
+    "correct": "D",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S51.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A mandatory right-turn signal loop intersection element sits directly ahead.",
+      "B) The highway alignment opens up into an unrestricted merge acceleration line on your left.",
+      "C) A school zone crosswalk speed limit cutoff restriction boundary begins ahead.",
+      "D) An upcoming intersection is controlled by a yield sign; prepare down to slow down and stop if necessary."
+    ]
+  },
+  "S52": {
+    "correct": "A",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S52.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road is closed ahead; follow the designated detour routes or select an alternative path.",
+      "B) A major interstate highway exit loop branches off on your left side within 1500 feet.",
+      "C) Heavy infrastructure construction work causes a complete lane restriction drop on your right.",
+      "D) Two-way traffic rules are temporarily deactivated across this construction grid segment."
+    ]
+  },
+  "S53": {
+    "correct": "B",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S53.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Overtaking slower commercial trucks is illegal across this specific highway incline track.",
+      "B) Warning that an upcoming bridge or overpass has a low clearance; check your vehicle height.",
+      "C) An unpaved soft baseline shoulder row drops away heavily along your right driving lane.",
+      "D) Severe crosswinds can challenge high-profile vehicles along this mountain pass basin."
+    ]
+  },
+  "S54": {
+    "correct": "C",
+    "html": "Identify this sign by its color and shape, and select its correct warning meaning:<br><br><img src='sign-images/S54.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The two-way highway layout splits ahead into a centralized single driving lane track.",
+      "B) A winding road pattern with consecutive sharp loops begins directly at the upcoming milestone.",
+      "C) You are approaching a divided highway where opposing traffic is separated by a physical median island.",
+      "D) Overtaking operations are strictly legal across all open lane structures of this freeway."
+    ]
+  }
+}
