@@ -988,6 +988,5070 @@
     ],
     "question": "Maximum speed limit for a full sized public school bus in North Carolina is:",
     "html": "Maximum speed limit for a full sized public school bus in North Carolina is:"
+  },
+  "Q91": {
+    "correct": "C",
+    "html": "You're at a crash scene and there is no risk of further collisions. What should you do?",
+    "options": [
+      "A) Move people away from the street",
+      "B) Take photos of the involved vehicles",
+      "C) Call the emergency services, unless already done"
+    ]
+  },
+  "Q92": {
+    "correct": "A",
+    "html": "This sign indicates:<br><br><img src='sign-images/S55.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) No parking from 8:30 am to 5:30 pm",
+      "B) No parking except between 8:30 am to 5:30 pm",
+      "C) No parking at all times"
+    ]
+  },
+  "Q93": {
+    "correct": "B",
+    "html": "Car A arrives at an intersection where the exit is blocked by stationary traffic. What should Car A do?",
+    "options": [
+      "A) Proceed into the intersection and stop after the last car",
+      "B) Wait on the approach side until safe to pass through the intersection completely"
+    ]
+  },
+  "Q94": {
+    "correct": "B",
+    "html": "If you double your speed, the braking distance will:",
+    "options": [
+      "A) Increase by two times",
+      "B) Increase by four times",
+      "C) Increase by eight times",
+      "D) Remain the same"
+    ]
+  },
+  "Q95": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S04.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Only right turns",
+      "B) No right turns permitted",
+      "C) Drive to the right of the traffic island or highway divider",
+      "D) Sharp right turn ahead"
+    ]
+  },
+  "Q96": {
+    "correct": "C",
+    "html": "What’s a T-intersection?",
+    "options": [
+      "A) An intersection for trucks only",
+      "B) An intersection without any right-of-way rules",
+      "C) An intersection where one street ends and the other continues"
+    ]
+  },
+  "Q97": {
+    "correct": "B",
+    "html": "When driving at 70 mph you will use _____ more fuel compared to driving at 50 mph. Assume you’re using the same gear and covering the same distance.",
+    "options": [
+      "A) 5%",
+      "B) 30%",
+      "C) 80%",
+      "D) 100%"
+    ]
+  },
+  "Q98": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S56.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Long downhill road ahead",
+      "B) The road ahead is slippery when wet",
+      "C) Low place in the road ahead"
+    ]
+  },
+  "Q99": {
+    "correct": "A",
+    "html": "Driving defensively is _____.",
+    "options": [
+      "A) Good, as you won’t take unnecessary risks",
+      "B) Bad, as you’ll obstruct other traffic"
+    ]
+  },
+  "Q100": {
+    "correct": "C",
+    "html": "Which of the following are examples of defensive driving techniques?",
+    "options": [
+      "A) Only driving at least 20 mph below the speed limit",
+      "B) Keeping a following distance of at least 10 seconds in all conditions",
+      "C) Adjusting your speed to the conditions"
+    ]
+  },
+  "Q101": {
+    "correct": "A",
+    "html": "When driving at night, you must dim your lights to low-beam when you're within _____ of an oncoming vehicle.",
+    "options": [
+      "A) 500 feet",
+      "B) 700 feet",
+      "C) 1000 feet"
+    ]
+  },
+  "Q102": {
+    "correct": "B",
+    "html": "Which of the following increases the risk of hydroplaning?",
+    "options": [
+      "A) Driving slowly",
+      "B) Driving with worn tires",
+      "C) Driving on newly laid asphalt",
+      "D) Carrying many passengers"
+    ]
+  },
+  "Q103": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S35.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Cattle crossing ahead",
+      "B) Deer crossing ahead",
+      "C) National park ahead"
+    ]
+  },
+  "Q104": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S57.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Only left turn or U-turn from this lane",
+      "B) No left turn or U-turn from this lane",
+      "C) Only left turns from this lane",
+      "D) No U-turn from this lane"
+    ]
+  },
+  "Q105": {
+    "correct": "A",
+    "html": "Can you tell which sign this is by its shape?<br><br><img src='sign-images/S02.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) YIELD sign",
+      "B) School zone sign",
+      "C) Warning sign",
+      "D) ‘No Passing Zone’ sign"
+    ]
+  },
+  "Q106": {
+    "correct": "B",
+    "html": "Is driving without a valid liability insurance legal or illegal?",
+    "options": [
+      "A) Legal - but only for up to 30 days",
+      "B) Illegal"
+    ]
+  },
+  "Q107": {
+    "correct": "B",
+    "html": "You're driving in busy traffic. Be extra cautious for:",
+    "options": [
+      "A) Police guiding traffic",
+      "B) Filtering motorcyclists",
+      "C) Animals on the road",
+      "D) Changing weather conditions"
+    ]
+  },
+  "Q108": {
+    "correct": "A",
+    "html": "You intend to pass a bicyclist on a narrow road. What should you especially look out for?",
+    "options": [
+      "A) The bicyclist may suddenly swerve into the road",
+      "B) The bicyclist may be visibly impaired by alcohol",
+      "C) The bicyclist may suddenly swerve into the road, but only in high winds",
+      "D) There is nothing in particular you need to look out for"
+    ]
+  },
+  "Q109": {
+    "correct": "B",
+    "html": "You need to be careful when backing. You should:",
+    "options": [
+      "A) Depend entirely on your mirrors to see as much as possible behind the vehicle",
+      "B) Look if there are any pedestrians or vehicles nearby before backing up"
+    ]
+  },
+  "Q110": {
+    "correct": "C",
+    "html": "You must enter a roundabout to the:",
+    "options": [
+      "A) Left of the central island and travel in a clockwise direction",
+      "B) Left of the central island and travel in a counterclockwise direction",
+      "C) Right of the central island and travel in a counterclockwise direction"
+    ]
+  },
+  "Q111": {
+    "correct": "B",
+    "html": "Which letter represents the lane line(s)?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ]
+  },
+  "Q112": {
+    "correct": "A",
+    "html": "You're turning right at an intersection. What should you especially watch out for?",
+    "options": [
+      "A) Pedestrians",
+      "B) Animals",
+      "C) Parked cars",
+      "D) Road signs"
+    ]
+  },
+  "Q113": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S41.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left lane ending - merge right",
+      "B) Winding road ahead",
+      "C) Right lane ending - merge left",
+      "D) Narrow bridge ahead"
+    ]
+  },
+  "Q114": {
+    "correct": "C",
+    "html": "Who has priority at out-of-order traffic lights?",
+    "options": [
+      "A) Traffic going straight",
+      "B) Traffic turning left",
+      "C) Nobody"
+    ]
+  },
+  "Q115": {
+    "correct": "D",
+    "html": "When driving on the freeway, be prepared for:",
+    "options": [
+      "A) Vehicles changing lanes",
+      "B) Changes in traffic conditions and traffic flow",
+      "C) Vehicles entering and exiting the freeway",
+      "D) All of the above"
+    ]
+  },
+  "Q116": {
+    "correct": "A",
+    "html": "Which statement is true regarding two-way roads with a center turn lane?",
+    "options": [
+      "A) Drivers from both directions are allowed to use the center turn lane to turn left",
+      "B) Only heavy vehicles may use the center turn lane as they need more space when turning",
+      "C) Center left turn lanes are reserved for emergency vehicles with their siren turned on"
+    ]
+  },
+  "Q117": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S58.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Flagger ahead",
+      "B) Workers on or close by the road ahead",
+      "C) No Entry permitted ahead",
+      "D) Traffic signal lights are out-of-order ahead"
+    ]
+  },
+  "Q118": {
+    "correct": "A",
+    "html": "You're driving at night and approaching another vehicle traveling in your direction. When must you dim your lights?",
+    "options": [
+      "A) Within 200 feet of the vehicle",
+      "B) Within 300 feet of the vehicle",
+      "C) Within 400 feet of the vehicle"
+    ]
+  },
+  "Q119": {
+    "correct": "C",
+    "html": "You see a sign with this shape, but you can’t read the text on it. By its shape you know that it’s a:<br><br><img src='sign-images/S59.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) YIELD sign",
+      "B) Warning sign",
+      "C) STOP sign",
+      "D) Railroad crossing sign"
+    ]
+  },
+  "Q120": {
+    "correct": "D",
+    "html": "You're on a road trip with some friends, and you can choose between these three routes to get to your destination. Which one should you choose to save fuel?",
+    "options": [
+      "A) Route A - 112 miles",
+      "B) Route B - 119 miles",
+      "C) Route C - 118 miles",
+      "D) You can’t tell"
+    ]
+  },
+  "Q121": {
+    "correct": "B",
+    "html": "Which statement is true regarding braking?",
+    "options": [
+      "A) Wait as long as possible before braking",
+      "B) Begin braking early",
+      "C) Brake hard about 100 feet before an intersection and then proceed at a lower speed",
+      "D) None of the above"
+    ]
+  },
+  "Q122": {
+    "correct": "B",
+    "html": "You want to take ‘exit 79’ - can you stay in the lane you’re currently in?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q123": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S60.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Only trucks permitted",
+      "B) Trucks prohibited",
+      "C) No trucks permitted in heavy traffic"
+    ]
+  },
+  "Q124": {
+    "correct": "C",
+    "html": "What does a green traffic signal light mean?",
+    "options": [
+      "A) You may drive - you have the right-of-way over vehicles already in the intersection",
+      "B) You may turn, but not proceed straight ahead.",
+      "C) You may proceed given that you yield to vehicles already in the intersection",
+      "D) You mustn’t proceed - the green light means STOP"
+    ]
+  },
+  "Q125": {
+    "correct": "A",
+    "html": "You approach a railroad crossing with flashing red warning lights. What must you do?",
+    "options": [
+      "A) Stop",
+      "B) Slow down, but be prepared to stop. You may proceed if you can’t see any approaching trains",
+      "C) Nothing, but you’re recommended to stop"
+    ]
+  },
+  "Q126": {
+    "correct": "C",
+    "html": "Which statement is true regarding railroad crossings with STOP signs:<br><br>",
+    "options": [
+      "A) Stopping is recommended before proceeding",
+      "B) The STOP signs only apply to large and long vehicles as they may need more time to cross the tracks",
+      "C) Stopping is required before proceeding"
+    ]
+  },
+  "Q127": {
+    "correct": "C",
+    "html": "Which statement is true regarding roundabouts?",
+    "options": [
+      "A) Changing lanes is recommended when in a roundabout",
+      "B) Vehicles have the right-of-way over pedestrians in the crosswalks leading up to the roundabout",
+      "C) Be extra careful around large vehicles and motorcyclists"
+    ]
+  },
+  "Q128": {
+    "correct": "C",
+    "html": "Upon looking in your rear-view mirror, you notice an emergency vehicle approaching with its flashing lights on. What must you do?",
+    "options": [
+      "A) Cut your speed in half and keep to the right",
+      "B) Do nothing and keep on driving as usual",
+      "C) Move to the right edge of the road and stop",
+      "D) Brake hard and come to a complete stop"
+    ]
+  },
+  "Q129": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S09.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) One-way traffic - turn in the direction indicated by the sign",
+      "B) Turning is prohibited in the direction indicated by the sign",
+      "C) Two way traffic - turn in the direction indicated by the sign"
+    ]
+  },
+  "Q130": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S61.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Hospital service nearby",
+      "B) Telephone service nearby",
+      "C) Gas station nearby"
+    ]
+  },
+  "Q131": {
+    "correct": "B",
+    "html": "Texting while driving is:",
+    "options": [
+      "A) Not recommended, but legal",
+      "B) Illegal"
+    ]
+  },
+  "Q132": {
+    "correct": "D",
+    "html": "Why is it important to regularly maintain your vehicle?",
+    "options": [
+      "A) Your vehicle will probably last longer",
+      "B) The chance of an unexpected vehicle breakdown is lower",
+      "C) In the long run, you will probably save money as you may avoid costly repairs",
+      "D) All of the above"
+    ]
+  },
+  "Q133": {
+    "correct": "B",
+    "html": "How should you act when nearing an intersection with out-of-order traffic lights?",
+    "options": [
+      "A) Slow down. You have the right-of-way, but other traffic may act unpredictably",
+      "B) Treat the intersection like a 4-Way Stop",
+      "C) Come to a complete stop before the intersection and wait for an officer to arrive and direct traffic"
+    ]
+  },
+  "Q134": {
+    "correct": "A",
+    "html": "How can you brake using your vehicle’s engine?",
+    "options": [
+      "A) By using a lower gear",
+      "B) By using a higher gear",
+      "C) By selecting neutral gear"
+    ]
+  },
+  "Q135": {
+    "correct": "B",
+    "html": "What should you be aware of when driving in the right-most lane on freeways?",
+    "options": [
+      "A) This is the ‘fast’ lane - only use it for passing",
+      "B) Traffic entering and exiting the freeway will need to use this lane",
+      "C) This lane is reserved for emergency vehicles"
+    ]
+  },
+  "Q136": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S62.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road shoulder is significantly lower than the level of the road",
+      "B) The road shoulder is significantly higher than the level of the road",
+      "C) Steep downgrade ahead"
+    ]
+  },
+  "Q137": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S39.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Two-way traffic ahead",
+      "B) Roundabout ahead",
+      "C) Hospital ahead",
+      "D) Crossroad ahead"
+    ]
+  },
+  "Q138": {
+    "correct": "A",
+    "html": "You have been drinking alcohol. Which statement is true?",
+    "options": [
+      "A) Don’t drive home, ask a sober friend to drive you or call for a taxi",
+      "B) Drive home, but only if you drive below the well below the speed limit",
+      "C) Drink some water, wait 15-20 minutes, and then you should be fine to drive home"
+    ]
+  },
+  "Q139": {
+    "correct": "B",
+    "html": "Should you drive closely behind a vehicle you want to pass?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Yes, unless following a large truck"
+    ]
+  },
+  "Q140": {
+    "correct": "B",
+    "html": "Why should you stay a safe distance behind when following large vehicles?",
+    "options": [
+      "A) The large vehicle to stop more easily",
+      "B) So the driver can see you in their mirrors",
+      "C) You'll keep out of the wind better"
+    ]
+  },
+  "Q141": {
+    "correct": "A",
+    "html": "If you can’t see the truck driver in the truck’s side mirror, the truck driver ____.",
+    "options": [
+      "A) Can’t see you either",
+      "B) Will still most likely see you due to having larger mirrors"
+    ]
+  },
+  "Q142": {
+    "correct": "B",
+    "html": "Should you overtake in this situation? The vehicle in front is driving slowly and you are approaching a railway crossing.",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q143": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S50.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) YIELD sign ahead",
+      "B) Traffic lights ahead",
+      "C) STOP sign ahead",
+      "D) Rest area ahead"
+    ]
+  },
+  "Q144": {
+    "correct": "B",
+    "html": "Correctly adjusting your mirrors will:",
+    "options": [
+      "A) Remove all blind spots",
+      "B) Help you scan the surroundings properly and minimize the blind spots",
+      "C) Improve the aerodynamic properties of the vehicle"
+    ]
+  },
+  "Q145": {
+    "correct": "D",
+    "html": "You approach a work zone. What should you do to minimize the risk of an accident?",
+    "options": [
+      "A) Slow down and increase the following distance to the vehicle in front",
+      "B) Be prepared for vehicles changing lanes or suddenly stopping/slowing down",
+      "C) Avoid distractions, e.g. looking at the GPS system monitor",
+      "D) All of the above"
+    ]
+  },
+  "Q146": {
+    "correct": "C",
+    "html": "The road surface can become soft in very hot weather. This affects:",
+    "options": [
+      "A) The suspension",
+      "B) Your fuel consumption",
+      "C) The tire grip"
+    ]
+  },
+  "Q147": {
+    "correct": "A",
+    "html": "Using the air-conditioner (AC) will increase the fuel consumption by up to _____.",
+    "options": [
+      "A) 20 %",
+      "B) 35 %",
+      "C) 50 %",
+      "D) The fuel consumption won't increase when using AC"
+    ]
+  },
+  "Q148": {
+    "correct": "C",
+    "html": "You’re driving when you see this light on your dashboard. What does it mean?",
+    "options": [
+      "A) Your rear lights aren’t working properly",
+      "B) Your wipers aren’t working properly",
+      "C) Your brakes aren’t working properly",
+      "D) There’s something wrong with the air conditioning"
+    ]
+  },
+  "Q149": {
+    "correct": "C",
+    "html": "You're turning right at an intersection. Do you have to yield to pedestrians crossing the street?",
+    "options": [
+      "A) No, you have the right-of-way",
+      "B) No, but you can if you want to",
+      "C) Yes"
+    ]
+  },
+  "Q150": {
+    "correct": "B",
+    "html": "Last minute moves can be avoided by:",
+    "options": [
+      "A) Looking 3-10 seconds ahead of your vehicle",
+      "B) Looking 10-15 seconds ahead of your vehicle",
+      "C) Looking 25-30 seconds ahead of your vehicle"
+    ]
+  },
+  "Q151": {
+    "correct": "C",
+    "html": "You're stuck in a traffic jam that moves nowhere due to an accident up ahead. What should you do?",
+    "options": [
+      "A) Honk your horn",
+      "B) Rev your engine",
+      "C) Turn off your engine",
+      "D) Keep your engine running"
+    ]
+  },
+  "Q152": {
+    "correct": "C",
+    "html": "You pass your exit by mistake. What should you do?",
+    "options": [
+      "A) Stop and back up using the emergency lane",
+      "B) Stop and make a U-turn",
+      "C) Keep on driving and take the next appropriate exit"
+    ]
+  },
+  "Q153": {
+    "correct": "A",
+    "html": "The main cause of skidding is:",
+    "options": [
+      "A) The driver",
+      "B) The vehicle",
+      "C) The road surface"
+    ]
+  },
+  "Q154": {
+    "correct": "A",
+    "html": "Can your license be revoked if your vision significantly worsens?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q155": {
+    "correct": "C",
+    "html": "Which of the following is considered unsafe behaviour while operating a vehicle?",
+    "options": [
+      "A) Using your horn to warn of a hazard",
+      "B) Looking in your rear-view mirror",
+      "C) Eating chips"
+    ]
+  },
+  "Q156": {
+    "correct": "C",
+    "html": "You see a sign with this shape and you know immediately that you’re approaching _____.<br><br><img src='sign-images/S33.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A construction area",
+      "B) A 4-way stop intersection",
+      "C) A school zone"
+    ]
+  },
+  "Q157": {
+    "correct": "C",
+    "html": "How can you calculate the following distance?",
+    "options": [
+      "A) Pick a moving object and count the seconds until you pass the same object",
+      "B) Your following distance is sufficient when you can’t read the number plate of the vehicle in front",
+      "C) Pick a stationary object and count the seconds until you pass the same object"
+    ]
+  },
+  "Q158": {
+    "correct": "B",
+    "html": "Which statement is true regarding motorcyclists?",
+    "options": [
+      "A) They are more reckless",
+      "B) They are hard to spot and more easily injured",
+      "C) They aren’t at more risk in traffic compared to other drivers"
+    ]
+  },
+  "Q159": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S06.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Winding road ahead",
+      "B) Sharp right turn ahead",
+      "C) Right turn only",
+      "D) No right turn"
+    ]
+  },
+  "Q160": {
+    "correct": "A",
+    "html": "From which lane should you begin a U-turn?",
+    "options": [
+      "A) The far-left lane",
+      "B) The middle lane if one exists",
+      "C) The far-right lane",
+      "D) From any lane"
+    ]
+  },
+  "Q161": {
+    "correct": "A",
+    "html": "Why do some pedestrians carry a white cane?",
+    "options": [
+      "A) They are totally or partially blind",
+      "B) They are deaf",
+      "C) They use it to lean on when walking"
+    ]
+  },
+  "Q162": {
+    "correct": "B",
+    "html": "At night, pedestrians are:",
+    "options": [
+      "A) Easier to see",
+      "B) Harder to see",
+      "C) As visible as during the day"
+    ]
+  },
+  "Q163": {
+    "correct": "C",
+    "html": "What is hydroplaning?",
+    "options": [
+      "A) When you don’t have time to respond to a hazard because you’re distracted",
+      "B) When all electronic devices in the vehicle stop working",
+      "C) When a layer of water builds between your tires and the road surface"
+    ]
+  },
+  "Q164": {
+    "correct": "B",
+    "html": "Do you have to signal when turning left or right at an intersection?",
+    "options": [
+      "A) Signaling is only necessary when turning left",
+      "B) Yes",
+      "C) No"
+    ]
+  },
+  "Q165": {
+    "correct": "C",
+    "html": "What does the term “space cushion” mean?",
+    "options": [
+      "A) A cushion you can sit on so you can reach all necessary controls of the vehicle",
+      "B) A new technology found in modern cars that can predict and avoid almost all driving hazards",
+      "C) A safety margin around your vehicle that gives you both space and time to maneuver and react to hazards"
+    ]
+  },
+  "Q166": {
+    "correct": "C",
+    "html": "What should you be aware of when encountering elderly drivers?",
+    "options": [
+      "A) They can’t spot fast-traveling vehicles",
+      "B) They can’t read road signs",
+      "C) They will take more time to react to hazards",
+      "D) They won't signal their intention to turn"
+    ]
+  },
+  "Q167": {
+    "correct": "C",
+    "html": "A motorcyclist has just passed you and cut in sharply. What should you do?",
+    "options": [
+      "A) Sound your horn and flash your headlights",
+      "B) Brake hard",
+      "C) Ease off the accelerator"
+    ]
+  },
+  "Q168": {
+    "correct": "D",
+    "html": "If this sign is displayed and you are driving in the right-most lane:<br><br><img src='sign-images/S63.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You may turn right or proceed straight ahead",
+      "B) You may only turn left",
+      "C) You may only proceed straight ahead",
+      "D) You may only turn right"
+    ]
+  },
+  "Q169": {
+    "correct": "B",
+    "html": "You’re driving in wet conditions. What should you do?",
+    "options": [
+      "A) Keep a two-second following distance",
+      "B) Slow down to avoid hydroplaning",
+      "C) Drive at the speed limit to avoid causing a queue"
+    ]
+  },
+  "Q170": {
+    "correct": "C",
+    "html": "What does this blue light mean?",
+    "options": [
+      "A) Your parking light is on",
+      "B) Your headlights are on low beam",
+      "C) Your headlights are on high beam",
+      "D) Your brake lights aren’t working properly"
+    ]
+  },
+  "Q171": {
+    "correct": "C",
+    "html": "Traffic calming objects (speed bumps etc) are there to:",
+    "options": [
+      "A) Help prevent fatigue",
+      "B) Make driving more fun",
+      "C) Make drivers slow down",
+      "D) Test air pressure in tires"
+    ]
+  },
+  "Q172": {
+    "correct": "D",
+    "html": "What’s important to know when encountering a large truck?",
+    "options": [
+      "A) They may need to swing wide to complete a turn",
+      "B) They have large blind spots",
+      "C) It’s easy to misjudge the speed of a truck",
+      "D) All of the above"
+    ]
+  },
+  "Q173": {
+    "correct": "B",
+    "html": "Is your Blood Alcohol Concentration (BAC) always the same if you drink the same amount of alcohol?",
+    "options": [
+      "A) Yes",
+      "B) No, it can vary from time to time"
+    ]
+  },
+  "Q174": {
+    "correct": "A",
+    "html": "Which statement is true regarding experienced and inexperienced drivers?",
+    "options": [
+      "A) Experienced drivers scan their surroundings better than inexperienced drivers",
+      "B) Inexperienced drivers scan their surroundings better than experienced drivers",
+      "C) Inexperienced drivers are better at recognizing hazards than experienced drivers"
+    ]
+  },
+  "Q175": {
+    "correct": "C",
+    "html": "Your car stalls on the railroad tracks and the lights indicate an approaching train. What should you do?",
+    "options": [
+      "A) Exit your car and try to push it off the tracks",
+      "B) Try to start your car so you can drive off the tracks",
+      "C) Exit your car and run away from the tracks at a 45° angle in the direction of the train"
+    ]
+  },
+  "Q176": {
+    "correct": "B",
+    "html": "Should you assume that other drivers will leave you enough space to return to your lane after passing on a two-lane road with oncoming traffic?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q177": {
+    "correct": "B",
+    "html": "You see that there is a stopped emergency vehicle on the road shoulder ahead,. What should you do?",
+    "options": [
+      "A) Come to a complete stop at least 50 feet from the emergency vehicle",
+      "B) Vacate the lane closest to the emergency vehicle",
+      "C) Try to pass the emergency vehicle as quickly as possible"
+    ]
+  },
+  "Q178": {
+    "correct": "B",
+    "html": "You want to pass a bicyclist on a narrow road. There is an oncoming car, and you are unsure if you have enough space to pass the cyclist safely. What should you do?",
+    "options": [
+      "A) Pass the cyclist anyways - if necessary he/she can pull over to the right",
+      "B) Wait for the oncoming vehicle to pass before passing the cyclist",
+      "C) Try to pass the cyclist before the oncoming car is too close"
+    ]
+  },
+  "Q179": {
+    "correct": "B",
+    "html": "How can keeping a sufficient following distance impact your fuel usage?",
+    "options": [
+      "A) It has no impact on fuel usage",
+      "B) It lowers usage since you won’t have to brake/accelerate unnecessarily",
+      "C) It increases fuel usage"
+    ]
+  },
+  "Q180": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S64.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Airport ahead",
+      "B) Low-flying airplanes in this area",
+      "C) Airplanes may need to land on this road in case of an emergency"
+    ]
+  },
+  "Q181": {
+    "correct": "A",
+    "html": "Driving much slower than other traffic:",
+    "options": [
+      "A) Can be just as dangerous as speeding",
+      "B) Is much safer than driving at the same speed"
+    ]
+  },
+  "Q182": {
+    "correct": "A",
+    "html": "Driving too close to the vehicle in front:",
+    "options": [
+      "A) Increases the chance of being involved in a rear-end crash",
+      "B) Lowers the chance of being involved in a rear-end crash",
+      "C) Doesn’t affect the chance of being involved in a rear-end crash"
+    ]
+  },
+  "Q183": {
+    "correct": "A",
+    "html": "Does your trailer need to be equipped with independent braking?",
+    "options": [
+      "A) Yes, if the gross weight exceeds 4,000 lbs",
+      "B) Yes, if the gross weight exceeds 5,000 lbs",
+      "C) No"
+    ]
+  },
+  "Q184": {
+    "correct": "B",
+    "html": "Car A and B reach the intersection at the same time. Which car must yield in this situation?",
+    "options": [
+      "A) Car B",
+      "B) Car A"
+    ]
+  },
+  "Q185": {
+    "correct": "B",
+    "html": "Which statement is true regarding driving on gravel or dirt roads?",
+    "options": [
+      "A) You will have more traction compared to asphalt or concrete roads",
+      "B) You will have less traction compared to asphalt or concrete roads",
+      "C) The traction is the same compared to asphalt or concrete roads"
+    ]
+  },
+  "Q186": {
+    "correct": "A",
+    "html": "Drivers of which age are more than twice as likely to be involved in a fatal collision compared to the average driver?",
+    "options": [
+      "A) Drivers under 18",
+      "B) Drivers 18-24"
+    ]
+  },
+  "Q187": {
+    "correct": "D",
+    "html": "Which cars are likely in the truck driver’s blind spot?",
+    "options": [
+      "A) Only car A",
+      "B) Only car B",
+      "C) Only car C",
+      "D) All three cars"
+    ]
+  },
+  "Q188": {
+    "correct": "A",
+    "html": "You’re driving in slow-moving traffic and you will be forced to pass the railroad track at a very low speed. What should you do?",
+    "options": [
+      "A) Stop before the tracks and wait for a large enough gap on the other side",
+      "B) Cross the tracks as fast as possible",
+      "C) Continue driving as normal"
+    ]
+  },
+  "Q189": {
+    "correct": "B",
+    "html": "Are headsets or earplugs prohibited while driving?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q190": {
+    "correct": "A",
+    "html": "Car A intends to turn left, but Car B is so close that one must yield to the other. Which statement is true?",
+    "options": [
+      "A) Car A must yield to Car B",
+      "B) Car B must yield to Car A",
+      "C) The first vehicle to arrive should be the first to proceed"
+    ]
+  },
+  "Q191": {
+    "correct": "C",
+    "html": "Which alternative is correct?",
+    "options": [
+      "A) The air conditioning system does not affect fuel consumption",
+      "B) A 4-wheel drive uses less fuel",
+      "C) Driving with a roof box increases fuel consumption"
+    ]
+  },
+  "Q192": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S44.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road changes in the direction of the arrow at a sharp angle",
+      "B) Driving in the direction of the arrow is prohibited",
+      "C) One-way traffic ahead"
+    ]
+  },
+  "Q193": {
+    "correct": "A",
+    "html": "What is most important when nearing uncontrolled railroad crossings?",
+    "options": [
+      "A) Being aware of approaching trains",
+      "B) Being aware of wild animals",
+      "C) Keeping a sufficient following distance",
+      "D) Passing slow vehicles"
+    ]
+  },
+  "Q194": {
+    "correct": "A",
+    "html": "When is passing prohibited?",
+    "options": [
+      "A) When approaching a hill or curve where there is insufficient view ahead",
+      "B) When within 500 feet of a railway crossing",
+      "C) When within 500 feet of an intersection"
+    ]
+  },
+  "Q195": {
+    "correct": "A",
+    "html": "What should you keep in mind when entering a roundabout?",
+    "options": [
+      "A) You must yield to traffic already in the roundabout",
+      "B) Traffic in the roundabout must yield to you",
+      "C) None of the above"
+    ]
+  },
+  "Q196": {
+    "correct": "B",
+    "html": "Is parking permitted to the right of this sign at 9pm?<br><br><img src='sign-images/S65.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q197": {
+    "correct": "A",
+    "html": "Is there any situation when you do not have to check your blind spot and mirrors before changing lanes?",
+    "options": [
+      "A) No",
+      "B) Yes"
+    ]
+  },
+  "Q198": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S67.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Winding road ahead",
+      "B) Sharp right turn ahead",
+      "C) Curve to the left and then to the right"
+    ]
+  },
+  "Q199": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S68.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Roundabout ahead",
+      "B) U-turn permitted ahead",
+      "C) Left turn only ahead",
+      "D) Hairpin curve ahead"
+    ]
+  },
+  "Q200": {
+    "correct": "C",
+    "html": "What’s true about slippery roads and rain?",
+    "options": [
+      "A) Rain doesn’t make the road slippery",
+      "B) The longer it rains, the slipperier the roads will become",
+      "C) You should be extra careful just as it starts to rain"
+    ]
+  },
+  "Q201": {
+    "correct": "B",
+    "html": "Microsleep is:",
+    "options": [
+      "A) A quick nap",
+      "B) Short unintended loss of consciousness",
+      "C) Sleeping for less than 5 hours"
+    ]
+  },
+  "Q202": {
+    "correct": "A",
+    "html": "Are you allowed to park to the left of this sign on a Sunday at 11 pm?<br><br><img src='sign-images/S55.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Yes",
+      "B) No, parking is prohibited on Sundays and holidays"
+    ]
+  },
+  "Q203": {
+    "correct": "C",
+    "html": "In which order should the cars proceed?",
+    "options": [
+      "A) B, A, C",
+      "B) C, B, A",
+      "C) B, C, A",
+      "D) A, B, C"
+    ]
+  },
+  "Q204": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S34.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Roadworks ahead",
+      "B) Railroad crossing ahead",
+      "C) Reserved area ahead",
+      "D) Large river ahead"
+    ]
+  },
+  "Q205": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S05.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left turns prohibited",
+      "B) U-turns prohibited",
+      "C) Right turns prohibited",
+      "D) Only left turns permitted"
+    ]
+  },
+  "Q206": {
+    "correct": "C",
+    "html": "A diamond-shaped sign with black symbols on a yellow background is a:",
+    "options": [
+      "A) Regulatory sign",
+      "B) Service sign",
+      "C) Warning sign",
+      "D) Guide sign"
+    ]
+  },
+  "Q207": {
+    "correct": "B",
+    "html": "What is the average reaction time for drivers?",
+    "options": [
+      "A) 0.5 seconds",
+      "B) 1-2 seconds",
+      "C) 3-5 seconds"
+    ]
+  },
+  "Q208": {
+    "correct": "A",
+    "html": "On roads with a curb, in which direction should you point your wheels when parking uphill?",
+    "options": [
+      "A) Away from the curb (A)",
+      "B) Toward the curb (B)",
+      "C) Straight forward (C)"
+    ]
+  },
+  "Q209": {
+    "correct": "A",
+    "html": "Who is allowed to park in the direction of the arrows?",
+    "options": [
+      "A) Disabled persons carrying a valid permit",
+      "B) Injured persons",
+      "C) Anyone older than 65",
+      "D) Anyone for up to 10 minutes"
+    ]
+  },
+  "Q210": {
+    "correct": "C",
+    "html": "Which of the following road users is the most vulnerable at intersections?",
+    "options": [
+      "A) A car driver",
+      "B) A truck driver",
+      "C) A motorcyclist"
+    ]
+  },
+
+  "Q212": {
+    "correct": "A",
+    "html": "What is the standard maximum speed limit outside of cities and towns?",
+    "options": [
+      "A) 55 mph",
+      "B) 60 mph",
+      "C) 70 mph"
+    ]
+  },
+  "Q213": {
+    "correct": "A",
+    "html": "Is passing permitted on this road?",
+    "options": [
+      "A) No, since the solid yellow line is on your side of the road",
+      "B) Yes, passing is always permitted on roads with a broken and a solid yellow line"
+    ]
+  },
+  "Q214": {
+    "correct": "A",
+    "html": "Should you avoid passing on two-lane roads?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q215": {
+    "correct": "A",
+    "html": "What is the BAC-limit for drivers under 21 years old?",
+    "options": [
+      "A) 0.00",
+      "B) 0.02",
+      "C) 0.08"
+    ]
+  },
+  "Q216": {
+    "correct": "A",
+    "html": "What should you do when driving on an interstate highway?",
+    "options": [
+      "A) Look further ahead than you would on most other roads",
+      "B) Maintain a shorter following distance than you would on most other roads",
+      "C) Concentrate more on driving than you would on most other roads"
+    ]
+  },
+  "Q217": {
+    "correct": "B",
+    "html": "Should you be prepared to yield even if you have a green light?",
+    "options": [
+      "A) No",
+      "B) Yes"
+    ]
+  },
+  "Q218": {
+    "correct": "C",
+    "html": "You have two high-quality tires and two average/worn tires. Where should you fit your high-quality tires?",
+    "options": [
+      "A) One on the front axle and one on the rear axle",
+      "B) On the front axle",
+      "C) On the rear axle",
+      "D) It doesn't matter where you fit your tires"
+    ]
+  },
+  "Q219": {
+    "correct": "B",
+    "html": "When approaching an intersection, you should:",
+    "options": [
+      "A) Presume that you have the right-of-way",
+      "B) Slow down to an appropriate speed so you can stop if necessary",
+      "C) Honk your horn to warn of your approach"
+    ]
+  },
+  "Q220": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S69.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You must go straight ahead",
+      "B) You may go straight ahead or turn right",
+      "C) You are prohibited from going straight ahead"
+    ]
+  },
+  "Q221": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S53.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Low clearance ahead",
+      "B) Narrow road ahead",
+      "C) Speed restrictions ahead"
+    ]
+  },
+  "Q222": {
+    "correct": "D",
+    "html": "When approaching a curve you should:",
+    "options": [
+      "A) Take road quality into consideration",
+      "B) Take the sharpness of the curve into consideration",
+      "C) Position your vehicle correctly before reaching the curve",
+      "D) All of the above"
+    ]
+  },
+  "Q223": {
+    "correct": "A",
+    "html": "How should you treat a person suffering from shock?",
+    "options": [
+      "A) Reassure him/her",
+      "B) Offer him/her a cigarette",
+      "C) Give him/her some water",
+      "D) Keep him/her cool"
+    ]
+  },
+  "Q224": {
+    "correct": "A",
+    "html": "What is the most effective device in the vehicle to help minimize injuries in case of a crash?",
+    "options": [
+      "A) Seat belts",
+      "B) Air bags",
+      "C) Headrests"
+    ]
+  },
+  "Q225": {
+    "correct": "B",
+    "html": "Is there any problem with the orange car passing the white car in this situation?",
+    "options": [
+      "A) No",
+      "B) Yes"
+    ]
+  },
+  "Q226": {
+    "correct": "A",
+    "html": "Which car has the right-of-way?",
+    "options": [
+      "A) Car B",
+      "B) Car A"
+    ]
+  },
+  "Q227": {
+    "correct": "C",
+    "html": "Before turning right at an intersection, you should:",
+    "options": [
+      "A) Check your left mirror",
+      "B) Move into the left-most lane",
+      "C) Look for bicyclists on your right"
+    ]
+  },
+  "Q228": {
+    "correct": "A",
+    "html": "You are driving on the freeway and you see this sign. What does it mean?<br><br><img src='sign-images/S70.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Added lane",
+      "B) Right lane ending",
+      "C) Road narrows ahead",
+      "D) Two-way traffic ahead"
+    ]
+  },
+  "Q229": {
+    "correct": "A",
+    "html": "This sign indicates that you may NOT:<br><br><img src='sign-images/S71.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Drive faster than 15 mph when children are present",
+      "B) Drive slower than 15 mph when children are present",
+      "C) Drive faster than 15 mph at any time"
+    ]
+  },
+  "Q230": {
+    "correct": "D",
+    "html": "What does this sign warn of?<br><br><img src='sign-images/S26.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Work zone",
+      "B) Hazardous conditions ahead",
+      "C) Service area ahead",
+      "D) Railroad crossing"
+    ]
+  },
+  "Q231": {
+    "correct": "B",
+    "html": "When giving CPR, you should pump hard and fast at the rate of ____.",
+    "options": [
+      "A) 10-20 times per minute",
+      "B) 100-120 times per minute",
+      "C) 200-250 times per minute"
+    ]
+  },
+  "Q232": {
+    "correct": "B",
+    "html": "What's the results of heavy spray?",
+    "options": [
+      "A) More traffic",
+      "B) Limited visibility",
+      "C) Better reactions",
+      "D) Improved visibility"
+    ]
+  },
+  "Q233": {
+    "correct": "B",
+    "html": "What does this hand-signal indicate? The driver is _____.<br><br><img src='sign-images/S72.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Turning right",
+      "B) Stopping or slowing down",
+      "C) Turning left"
+    ]
+  },
+  "Q234": {
+    "correct": "A",
+    "html": "What must you do if a flagger signals like this?<br><br><img src='sign-images/S01.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Stop",
+      "B) Slow down",
+      "C) Proceed",
+      "D) Make a U-turn as the road ahead is closed for traffic"
+    ]
+  },
+  "Q235": {
+    "correct": "A",
+    "html": "Does your weight affect your BAC level?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q236": {
+    "correct": "A",
+    "html": "Which statement is true regarding large trucks?",
+    "options": [
+      "A) They often appear to be driving slower than they actually are",
+      "B) They often appear to be driving faster than they actually are"
+    ]
+  },
+  "Q237": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S73.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Fire station in the area",
+      "B) Truck crossing ahead",
+      "C) Hospital nearby",
+      "D) School bus stop ahead"
+    ]
+  },
+  "Q238": {
+    "correct": "A",
+    "html": "Why should you keep well back before passing a truck?",
+    "options": [
+      "A) To get the best view of the road ahead",
+      "B) To leave a safe gap in case the truck stops and rolls back",
+      "C) To provide a safe gap if other drivers want to pass you"
+    ]
+  },
+  "Q239": {
+    "correct": "A",
+    "html": "You should leave your manual transmission car in which gear when parking facing downhill?",
+    "options": [
+      "A) Reverse",
+      "B) 1st gear",
+      "C) Neutral gear"
+    ]
+  },
+  "Q240": {
+    "correct": "A",
+    "html": "A pedestrian has just walked onto a marked crosswalk on the other side of the road. What should you do in this situation?",
+    "options": [
+      "A) Stop for the pedestrian",
+      "B) Proceed, you have the right-of-way"
+    ]
+  },
+  "Q241": {
+    "correct": "A",
+    "html": "Which of the following is a 4-point violation?",
+    "options": [
+      "A) Illegal passing",
+      "B) Running through a red light",
+      "C) Littering"
+    ]
+  },
+  "Q242": {
+    "correct": "A",
+    "html": "The probability of a serious accident ____ if you drink and drive.",
+    "options": [
+      "A) Increases",
+      "B) Isn’t affected",
+      "C) Decreases"
+    ]
+  },
+  "Q243": {
+    "correct": "C",
+    "html": "What should you do if the ABS warning light stays on?",
+    "options": [
+      "A) Check the brake-fluid level",
+      "B) Pump the brake pedal",
+      "C) Have your brakes checked immediately"
+    ]
+  },
+  "Q244": {
+    "correct": "A",
+    "html": "Should you avoid braking hard when driving at high speeds?",
+    "options": [
+      "A) Yes, as it may cause your vehicle to skid",
+      "B) No, but avoid it during wet conditions",
+      "C) No, but avoid it during cold or icy conditions"
+    ]
+  },
+  "Q245": {
+    "correct": "B",
+    "html": "Are you allowed to go under or around lowered/lowering gates at a railroad crossing?",
+    "options": [
+      "A) Yes, but only if you don’t see any trains nearby",
+      "B) No, never"
+    ]
+  },
+  "Q246": {
+    "correct": "B",
+    "html": "Is it safe to overtake in this situation?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q247": {
+    "correct": "B",
+    "html": "ABS reduces the risk of skidding. This is especially important when:",
+    "options": [
+      "A) Driving downhill",
+      "B) Braking in an emergency",
+      "C) Driving in good conditions"
+    ]
+  },
+  "Q248": {
+    "correct": "A",
+    "html": "When exiting an interstate highway, you need to:",
+    "options": [
+      "A) Check your speed to make sure that you aren’t driving too fast to exit safely",
+      "B) Check your fuel gauge to make sure you have enough fuel to get to the next fuel station"
+    ]
+  },
+  "Q249": {
+    "correct": "D",
+    "html": "Which of the following is NOT an example of defensive driving?",
+    "options": [
+      "A) Keeping enough space between your car and the car in front",
+      "B) Indicating before changing lanes",
+      "C) Following the right-of-way rules",
+      "D) Keeping a very short following distance"
+    ]
+  },
+  "Q250": {
+    "correct": "D",
+    "html": "What should you do before exiting your car?",
+    "options": [
+      "A) Leave your car in the correct gear",
+      "B) Set the parking brake",
+      "C) Check your mirrors and the blind spot for approaching traffic and bicyclists",
+      "D) All of the above"
+    ]
+  },
+  "Q251": {
+    "correct": "C",
+    "html": "How should you use your GPS so that it doesn't distract you when driving?",
+    "options": [
+      "A) Turn it off while driving in cities",
+      "B) Only set the destination if lost",
+      "C) Stop in a safe place before setting the destination"
+    ]
+  },
+  "Q252": {
+    "correct": "B",
+    "html": "When carrying heavy loads, the vehicle’s ____ can be negatively affected.",
+    "options": [
+      "A) Gearbox",
+      "B) Handling",
+      "C) Battery"
+    ]
+  },
+  "Q253": {
+    "correct": "A",
+    "html": "A flag person signals like this. What should you do?<br><br><img src='sign-images/S74.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Proceed",
+      "B) Slow down",
+      "C) Stop",
+      "D) Make a U-turn in the direction indicated"
+    ]
+  },
+  "Q254": {
+    "correct": "C",
+    "html": "You’re about to enter the freeway. Which statement is true?",
+    "options": [
+      "A) Freeway traffic must yield to you",
+      "B) Stop at the end of the acceleration lane and enter the freeway at a low speed",
+      "C) Adjust your speed to the speed of the freeway traffic"
+    ]
+  },
+  "Q255": {
+    "correct": "B",
+    "html": "Your car plunges into water of unknown depth. What should you do?",
+    "options": [
+      "A) Undo your seatbelt and wait for the car to fill up with water before getting out of the vehicle",
+      "B) Undo your seatbelt, open your window immediately and crawl out of the vehicle"
+    ]
+  },
+  "Q256": {
+    "correct": "C",
+    "html": "In icy conditions, stopping distances can increase by:",
+    "options": [
+      "A) 2 times",
+      "B) 5 times",
+      "C) 10 times"
+    ]
+  },
+  "Q257": {
+    "correct": "B",
+    "html": "The red warning lights at the railroad crossing continue to flash after one train has passed by. How should you act?",
+    "options": [
+      "A) Drive across quickly",
+      "B) Keep waiting",
+      "C) Drive across carefully"
+    ]
+  },
+  "Q258": {
+    "correct": "A",
+    "html": "You’re driving relatively slowly in the left-most lane on the expressway with vehicles approaching from behind at a higher speed. What should you do?",
+    "options": [
+      "A) Change lanes to the right as soon as safe",
+      "B) Stay in the left-most lane and let the faster vehicles pass on your right",
+      "C) Slow down to indicate you can drive at any speed you want"
+    ]
+  },
+  "Q259": {
+    "correct": "D",
+    "html": "You're taking a medicine that causes drowsiness. You start feeling better, but you still need to take the medicine. Should you drive?",
+    "options": [
+      "A) Only if necessary",
+      "B) Only on quiet roads",
+      "C) Only if accompanied by someone",
+      "D) No"
+    ]
+  },
+  "Q260": {
+    "correct": "C",
+    "html": "What should you do when approaching an intersection with a flashing red traffic light?",
+    "options": [
+      "A) Slow down and cross the intersection at a slow speed",
+      "B) Proceed as normal unless there’s an officer directing traffic",
+      "C) Treat the traffic light as a STOP sign",
+      "D) Treat the traffic light as a green light"
+    ]
+  },
+  "Q261": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S44.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Hairpin curve ahead",
+      "B) Sharp turn ahead",
+      "C) Roundabout ahead",
+      "D) T-intersection ahead"
+    ]
+  },
+  "Q262": {
+    "correct": "A",
+    "html": "What should you be aware of when you see a warning sign?",
+    "options": [
+      "A) Apply caution - hazardous conditions ahead",
+      "B) Apply caution in bad weather only",
+      "C) The sign warns of conditions ahead that may prove challenging for new drivers only"
+    ]
+  },
+  "Q263": {
+    "correct": "A",
+    "html": "When driving in a lane with pavement markings like this:",
+    "options": [
+      "A) You must turn left or go straight ahead",
+      "B) You’re prohibited from turning left or going straight ahead"
+    ]
+  },
+  "Q264": {
+    "correct": "C",
+    "html": "What is the BAC-limit for drivers that are 21 years old or older?",
+    "options": [
+      "A) 0.02",
+      "B) 0.05",
+      "C) 0.08"
+    ]
+  },
+  "Q265": {
+    "correct": "A",
+    "html": "How should you act when you see these arrows?",
+    "options": [
+      "A) Slow down",
+      "B) Slow down to 5 mph",
+      "C) Be ready to stop. The road is closed in the direction of the arrows"
+    ]
+  },
+  "Q266": {
+    "correct": "D",
+    "html": "Many crashes throughout the U.S. are a result of deer running out onto the road in front of a vehicle. What should you keep in mind regarding deers?",
+    "options": [
+      "A) Deer often travel in groups - be extra aware if you pass a deer close to the road",
+      "B) Deer activity peaks at sunset and sunrise - drive with caution during those hours",
+      "C) If a deer crosses your path - turn off your high-beam headlights",
+      "D) All of the above"
+    ]
+  },
+  "Q267": {
+    "correct": "A",
+    "html": "The closer you drive to the vehicle in front:",
+    "options": [
+      "A) The less you will see of the road ahead",
+      "B) The more you will see of the road ahead",
+      "C) Won't change your view of the road ahead"
+    ]
+  },
+  "Q268": {
+    "correct": "C",
+    "html": "In which situations may you need a much longer following distance than normal?",
+    "options": [
+      "A) In ideal conditions",
+      "B) On hot days due to the asphalt being heated",
+      "C) In rain or whenever visibility is reduced"
+    ]
+  },
+  "Q269": {
+    "correct": "B",
+    "html": "You approach an intersection with a STOP sign and a STOP line. Where must you stop?",
+    "options": [
+      "A) Before the STOP sign",
+      "B) Before the STOP line",
+      "C) After the STOP line, but before entering the intersection"
+    ]
+  },
+  "Q270": {
+    "correct": "C",
+    "html": "What does this sign mean? 15 mph is the ____<br><br><img src='sign-images/S75.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Minimum speed on the road ahead",
+      "B) Maximum speed on the road ahead",
+      "C) Recommended speed on the road ahead"
+    ]
+  },
+  "Q271": {
+    "correct": "A",
+    "html": "What is “rubbernecking”?",
+    "options": [
+      "A) Slowing down in order to see something interesting near the road",
+      "B) Rubbing your neck because it hurts after a long drive",
+      "C) Driving for so long that your neck feels like rubber"
+    ]
+  },
+  "Q272": {
+    "correct": "A",
+    "html": "In which direction should you steer in case of rear-wheel skid?",
+    "options": [
+      "A) In the direction of the skid",
+      "B) In the opposite direction of the skid"
+    ]
+  },
+  "Q273": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S32.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Divided highway begins ahead",
+      "B) Divided highway ends ahead",
+      "C) Hairpin curve ahead",
+      "D) Winding road ahead"
+    ]
+  },
+  "Q274": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S76.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) T-intersection ahead",
+      "B) Y-intersection ahead",
+      "C) Crossroad ahead",
+      "D) Divided road ahead"
+    ]
+  },
+  "Q275": {
+    "correct": "A",
+    "html": "Why shouldn't you drive with your high-beam headlights in fog?",
+    "options": [
+      "A) It will generally be harder to see the road in front of your vehicle",
+      "B) The light will attract animals to the road",
+      "C) You should drive with the headlights on high-beam in fog as you will be able to see more of the road ahead"
+    ]
+  },
+  "Q276": {
+    "correct": "C",
+    "html": "Which statement is true regarding the stopping distance?",
+    "options": [
+      "A) The stopping distance doesn’t increase on wet roads",
+      "B) The stopping distance isn’t affected by defective brakes",
+      "C) The stopping distance is the total reaction distance + braking distance",
+      "D) The stopping distance isn’t affected by your speed"
+    ]
+  },
+  "Q277": {
+    "correct": "D",
+    "html": "You're backing your car into a side road. When do you pose the greatest danger to passing road users?",
+    "options": [
+      "A) After completing the maneuver",
+      "B) Just before you begin the maneuver",
+      "C) After entering the side road",
+      "D) When the front of your car swings out"
+    ]
+  },
+  "Q278": {
+    "correct": "C",
+    "html": "What does this hand signal mean?<br><br><img src='sign-images/S77.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Stopping",
+      "B) Turning left",
+      "C) Turning right",
+      "D) Slowing down or stopping"
+    ]
+  },
+  "Q279": {
+    "correct": "D",
+    "html": "You’re being passed by another vehicle. What should you do?",
+    "options": [
+      "A) Keep driving at the same speed or slow down slightly",
+      "B) Leave space in front of your vehicle",
+      "C) Keep to the right",
+      "D) All of the above"
+    ]
+  },
+  "Q280": {
+    "correct": "A",
+    "html": "Brown signs usually indicate:",
+    "options": [
+      "A) Historical or cultural areas",
+      "B) Dangerous areas",
+      "C) Service points, such as rest areas or hospitals"
+    ]
+  },
+  "Q281": {
+    "correct": "C",
+    "html": "You’re driving on the freeway. What should you do when approaching an acceleration lane/on-ramp?",
+    "options": [
+      "A) Nothing, as you have the right-of-way",
+      "B) Drive as close to the vehicle in front of you as possible",
+      "C) Let other drivers merge into your lane by slowing down or changing lanes"
+    ]
+  },
+  "Q282": {
+    "correct": "A",
+    "html": "Diamond markings indicate:",
+    "options": [
+      "A) An HOV-lane",
+      "B) A U-turn lane",
+      "C) An emergency lane"
+    ]
+  },
+  "Q283": {
+    "correct": "B",
+    "html": "Should you check your vehicle’s cooling system before driving in mountains? If so, why?",
+    "options": [
+      "A) No, it’s not necessary unless your vehicle is 5+ years old",
+      "B) Yes, because mountain driving will put a strain on your vehicle",
+      "C) No, it’s an old myth"
+    ]
+  },
+  "Q284": {
+    "correct": "B",
+    "html": "When sick, your ability to drive may be impaired. As a consequence, always:",
+    "options": [
+      "A) Take smaller doses of your medicines",
+      "B) Make sure you're fit to drive",
+      "C) Take all your medicines at once"
+    ]
+  },
+  "Q285": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S79.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The road ends ahead",
+      "B) Road surface changes ahead",
+      "C) Road work ahead",
+      "D) Private property ahead"
+    ]
+  },
+  "Q286": {
+    "correct": "B",
+    "html": "Which statement is true? Cutting in too close in front of a truck:",
+    "options": [
+      "A) Isn’t as dangerous as many people believe",
+      "B) Can be extremely dangerous",
+      "C) Can be done if exiting the freeway"
+    ]
+  },
+  "Q287": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S80.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Don’t drive slower than 40 mph",
+      "B) Minimum speed restricting ending - standard speed limits apply",
+      "C) Don’t drive faster than 40 mph"
+    ]
+  },
+  "Q288": {
+    "correct": "B",
+    "html": "What’s the safest precaution to avoid drunk driving?",
+    "options": [
+      "A) To drink one glass of water for every glass of alcohol",
+      "B) Not drinking any alcohol before driving",
+      "C) To drink with moderation",
+      "D) Eating plenty of food before drinking"
+    ]
+  },
+  "Q289": {
+    "correct": "E",
+    "html": "Which of the following affects the stopping distance?",
+    "options": [
+      "A) Tire pressure",
+      "B) Tire tread depth",
+      "C) Tire quality",
+      "D) The overall condition of your tires",
+      "E) All of the above"
+    ]
+  },
+  "Q290": {
+    "correct": "A",
+    "html": "In what direction must you drive in a roundabout?",
+    "options": [
+      "A) Counterclockwise",
+      "B) Clockwise"
+    ]
+  },
+  "Q291": {
+    "correct": "C",
+    "html": "What’s true if you’re approaching an intersection with flashing yellow traffic lights?",
+    "options": [
+      "A) Slow down and come to a complete stop",
+      "B) Proceed as normal - the yellow lights indicate you have the right-of-way",
+      "C) Slow down and proceed with caution"
+    ]
+  },
+  "Q292": {
+    "correct": "A",
+    "html": "You can reduce your fuel usage by:",
+    "options": [
+      "A) Regularly having your vehicle serviced",
+      "B) Revving the engine in a low gear, as you’ll warm it up",
+      "C) Driving at high speeds whenever possible"
+    ]
+  },
+  "Q293": {
+    "correct": "C",
+    "html": "You’re driving and notice that your brakes aren’t working. You should:",
+    "options": [
+      "A) Accelerate and see if it resolves the problem",
+      "B) Quickly apply the handbrake",
+      "C) Quickly pump the brake pedal"
+    ]
+  },
+  "Q294": {
+    "correct": "A",
+    "html": "What should you do in case of a law enforcement stop?",
+    "options": [
+      "A) Keep your hands clearly visible and avoid any sudden movements",
+      "B) Step out of your car and walk towards the officer",
+      "C) Immediately start looking for necessary documents"
+    ]
+  },
+  "Q295": {
+    "correct": "C",
+    "html": "What does it mean that alcohol is a depressant?",
+    "options": [
+      "A) Alcohol sharpens your senses",
+      "B) Alcohol doesn’t affect your reaction time",
+      "C) Alcohol makes you tired, overconfident, slows your brain function etc.",
+      "D) Alcohol increases your hazard perception skills"
+    ]
+  },
+  "Q296": {
+    "correct": "A",
+    "html": "Is driving in the United States a privilege or a right?",
+    "options": [
+      "A) Privilege",
+      "B) Right"
+    ]
+  },
+  "Q297": {
+    "correct": "C",
+    "html": "Upon looking in your rear-view mirror, you notice that another driver is tailgating you. Which statement is true?",
+    "options": [
+      "A) Speed up to increase the gap between yourself and the tailgater",
+      "B) Brake hard to show the tailgater that you don’t tolerate such behavior",
+      "C) Allow for the tailgater to pass by slowing down, changing lanes to the right or by pulling over"
+    ]
+  },
+  "Q298": {
+    "correct": "A",
+    "html": "Will the road condition and road surface affect the stopping distance?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q299": {
+    "correct": "A",
+    "html": "Which car is maintaining an appropriate following distance?",
+    "options": [
+      "A) Car A",
+      "B) Car B"
+    ]
+  },
+  "Q300": {
+    "correct": "C",
+    "html": "What does a green arrow mean?",
+    "options": [
+      "A) Turning is prohibited in in the direction of the arrow",
+      "B) Traffic can turn in the direction of the arrow, but must yield to oncoming vehicles",
+      "C) Traffic can make a ‘protected’ turn in the direction the arrow is pointing"
+    ]
+  },
+  "Q301": {
+    "correct": "A",
+    "html": "You want to pass the vehicle in front of you, but there are oncoming vehicles and you’re not sure that you have enough time and distance to complete the maneuver. What should you do?",
+    "options": [
+      "A) Wait and pass when it’s safer",
+      "B) Accelerate and pass immediately",
+      "C) Flash your lights and pass - this way, oncoming traffic will be prepared to slow down should they need to"
+    ]
+  },
+  "Q302": {
+    "correct": "B",
+    "html": "Should you drive if you are feeling depressed or angry?",
+    "options": [
+      "A) Yes, emotions won’t affect your driving",
+      "B) No, emotions affect the way you drive"
+    ]
+  },
+  "Q303": {
+    "correct": "B",
+    "html": "You intend to turn left at a traffic light intersection with a red arrow. What does the red arrow indicate?",
+    "options": [
+      "A) You may turn in the direction the arrow is pointing",
+      "B) You must stop and wait for a green arrow before turning",
+      "C) You must wait unless the road is clear of traffic. If clear, you may turn",
+      "D) You may turn after yielding to oncoming traffic"
+    ]
+  },
+  "Q304": {
+    "correct": "B",
+    "html": "You’ve just taken some cough medicine. What should you do before driving?",
+    "options": [
+      "A) Have a strong cup of coffee before driving",
+      "B) Read the label to see if it will affect your driving",
+      "C) Start driving as a test to see if it affects your driving"
+    ]
+  },
+  "Q305": {
+    "correct": "C",
+    "html": "You drive past a sign with this shape on the highway. Which statement is true?<br><br><img src='sign-images/S19.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) School zone ahead",
+      "B) Railroad crossing ahead",
+      "C) Passing is prohibited"
+    ]
+  },
+  "Q306": {
+    "correct": "B",
+    "html": "When may you turn right on a red light?",
+    "options": [
+      "A) At all times",
+      "B) Unless signs prohibit",
+      "C) Only if signs permit"
+    ]
+  },
+  "Q307": {
+    "correct": "C",
+    "html": "Which if the following is NOT a potential problem with overtaking in this curve?",
+    "options": [
+      "A) A high speed in a curve can lead to you driving off the road",
+      "B) The angle of the curve can mean you cannot see oncoming traffic",
+      "C) The vehicle being passed could decide to speed up"
+    ]
+  },
+  "Q308": {
+    "correct": "B",
+    "html": "Why is it helpful to use headlights when driving on mountain roads, even during the day?",
+    "options": [
+      "A) There are usually many animals near mountain roads and the light will scare them away",
+      "B) Narrow mountain road usually have less visibility - headlights help other drivers see you"
+    ]
+  },
+  "Q309": {
+    "correct": "C",
+    "html": "You’re driving in the mountains. Which statement is true?",
+    "options": [
+      "A) Mountain roads are almost never icy",
+      "B) Mountain driving is no more difficult than driving on the freeway",
+      "C) There are usually many sharp curves and the roads may be icy",
+      "D) Most mountain roads have a speed limit of 50 mph"
+    ]
+  },
+  "Q310": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S81.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Only left turn or U-turn from this lane",
+      "B) No left turn or U-turn from this lane",
+      "C) Only left turns from this lane"
+    ]
+  },
+  "Q311": {
+    "correct": "A",
+    "html": "Which of the following is a dangerous driving distraction?",
+    "options": [
+      "A) Looking at a road map",
+      "B) Using your windscreen wipers",
+      "C) Looking in your mirrors"
+    ]
+  },
+  "Q312": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S19.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Passing is permitted",
+      "B) Passing is not recommended",
+      "C) Passing is prohibited"
+    ]
+  },
+  "Q313": {
+    "correct": "A",
+    "html": "You intend to check your oil level. Where can you do it?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D",
+      "E) E"
+    ]
+  },
+  "Q314": {
+    "correct": "B",
+    "html": "Should you assume that other drivers will obey the road rules and yield the right-of-way when they are supposed to?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q315": {
+    "correct": "A",
+    "html": "Should you ever drive alongside (share a lane with) a motorcyclist?",
+    "options": [
+      "A) No",
+      "B) Yes",
+      "C) Only if the lane is wide"
+    ]
+  },
+  "Q316": {
+    "correct": "A",
+    "html": "You’re driving on a steep and narrow road uphill. An oncoming car is approaching from the top of the hill and there isn’t enough space for the both of you. Who has the right-of-way?",
+    "options": [
+      "A) You",
+      "B) The oncoming car",
+      "C) Whichever car arrived first"
+    ]
+  },
+  "Q317": {
+    "correct": "B",
+    "html": "What should you do if you begin to feel tired while driving?",
+    "options": [
+      "A) Slow down and turn on some loud music",
+      "B) Find a place where you can get off the road and sleep",
+      "C) Roll down the car windows to get some fresh air"
+    ]
+  },
+  "Q318": {
+    "correct": "B",
+    "html": "What’s the safest precaution to avoid drink driving?",
+    "options": [
+      "A) To drink one glass of water for every glass of alcohol",
+      "B) Not drinking any alcohol before driving",
+      "C) To drink with moderation",
+      "D) Eating a lot of food before drinking"
+    ]
+  },
+  "Q319": {
+    "correct": "D",
+    "html": "Before passing another vehicle:",
+    "options": [
+      "A) Estimate how much time and distance the maneuver will require",
+      "B) Look for oncoming vehicles and check how traffic moves behind you",
+      "C) Look ahead for hazards",
+      "D) All of the above"
+    ]
+  },
+  "Q320": {
+    "correct": "B",
+    "html": "Mixing alcohol and drugs:",
+    "options": [
+      "A) Is fine as long as you are under the legal BAC limit",
+      "B) Can multiply the effects of the alcohol",
+      "C) Won’t impact the effects of the alcohol"
+    ]
+  },
+  "Q321": {
+    "correct": "A",
+    "html": "A common effect of drinking alcohol is:",
+    "options": [
+      "A) Increased confidence",
+      "B) Faster reactions",
+      "C) Increased concentration"
+    ]
+  },
+  "Q322": {
+    "correct": "A",
+    "html": "A law enforcement officer signals for you to proceed through a traffic light intersection against a red light. What should you do?",
+    "options": [
+      "A) Follow the officer’s instructions",
+      "B) Wait for the traffic light to change to green before proceeding"
+    ]
+  },
+  "Q323": {
+    "correct": "B",
+    "html": "What does this yellow sign mean?<br><br><img src='sign-images/S31.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Pedestrian crosswalk ahead",
+      "B) School crosswalk ahead",
+      "C) High pedestrian activity in the area"
+    ]
+  },
+  "Q324": {
+    "correct": "A",
+    "html": "Which statement is true?",
+    "options": [
+      "A) Many drivers forget to signal when changing lanes",
+      "B) Expect all drivers to check the blind spot before changing lanes",
+      "C) You can always trust that other road users will respect the ‘right-of-way’ rules"
+    ]
+  },
+  "Q325": {
+    "correct": "A",
+    "html": "What does the child restraint law mean for children of different ages?",
+    "options": [
+      "A) Children must be properly seated in a restraint appropriate for their age, size and weight",
+      "B) All children should be seated in the same way",
+      "C) Children should be seated in the front seat"
+    ]
+  },
+  "Q326": {
+    "correct": "C",
+    "html": "You’re approaching a curve with poor visibility. Which statement is true?",
+    "options": [
+      "A) Maintain a safe speed and keep to the left",
+      "B) Drive near the middle of the road to see more of the road ahead",
+      "C) Maintain a safe speed and keep to the right"
+    ]
+  },
+  "Q327": {
+    "correct": "A",
+    "html": "Center turn lanes are marked on both sides by painted yellow lines in what pattern?",
+    "options": [
+      "A) The inner lines are broken and the outer lines are solid (A)",
+      "B) The inner lines are solid and the outer lines are broken (B)",
+      "C) Both the inner and outer lines are solid (C)"
+    ]
+  },
+  "Q328": {
+    "correct": "A",
+    "html": "You've notified the emergency services about a crash scene where there's a badly wounded motorcyclist. What should you do next?",
+    "options": [
+      "A) Check if his/her airway is open",
+      "B) Nothing, wait for the emergency services to arrive",
+      "C) Check if he/she is bleeding or has any bruises",
+      "D) Look for any witnesses"
+    ]
+  },
+  "Q329": {
+    "correct": "C",
+    "html": "You can't see clearly behind when backing up. What should you do?",
+    "options": [
+      "A) Open the door to look behind",
+      "B) Look in a side-mirror",
+      "C) Ask a passenger to guide you"
+    ]
+  },
+  "Q330": {
+    "correct": "A",
+    "html": "Are you required to yield to pedestrians in marked or unmarked crosswalks?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q331": {
+    "correct": "A",
+    "html": "When driving through work zones you should:",
+    "options": [
+      "A) Avoid frequently changing lanes to get through the work zone faster",
+      "B) Decrease the following distance",
+      "C) Make the most out of the reduced speed limit by having a snack or checking your phone"
+    ]
+  },
+  "Q332": {
+    "correct": "B",
+    "html": "You are on a medication that has a warning label saying ‘do not drive’. What does that mean?",
+    "options": [
+      "A) You can still drive if you feel unaffected",
+      "B) Do not drive",
+      "C) In general, you should not drive, but you may drive if you take regular rest breaks"
+    ]
+  },
+  "Q333": {
+    "correct": "B",
+    "html": "How can you reduce your fuel usage while driving?",
+    "options": [
+      "A) Accelerating and braking hard",
+      "B) Driving at a steady speed and not braking unless necessary",
+      "C) Driving at least 15 mph over the speed limit"
+    ]
+  },
+  "Q334": {
+    "correct": "A",
+    "html": "You park your vehicle on the right-hand side of the road facing uphill, and you notice that there is no curb. In which direction should you point your wheels?",
+    "options": [
+      "A) Toward the right side of the road (A)",
+      "B) Toward the center of the road (B)",
+      "C) Keep them straight (C)"
+    ]
+  },
+  "Q335": {
+    "correct": "C",
+    "html": "You’re waiting to turn left at an intersection. In which direction should you point your wheels?",
+    "options": [
+      "A) Left (A)",
+      "B) Right (B)",
+      "C) Straight (C)"
+    ]
+  },
+  "Q336": {
+    "correct": "B",
+    "html": "Are you ever allowed to exceed the speed limit?",
+    "options": [
+      "A) Yes, but only when passing",
+      "B) No",
+      "C) Yes"
+    ]
+  },
+  "Q337": {
+    "correct": "D",
+    "html": "What does this warning sign mean?<br><br><img src='sign-images/S82.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Sharp right turn",
+      "B) Left turn only",
+      "C) Left turn prohibited",
+      "D) Sharp left turn"
+    ]
+  },
+  "Q338": {
+    "correct": "A",
+    "html": "When are studded tires permitted?",
+    "options": [
+      "A) At all times",
+      "B) Between November and March",
+      "C) Only when it's snowing"
+    ]
+  },
+  "Q339": {
+    "correct": "A",
+    "html": "When facing a STOP sign at an intersection:",
+    "options": [
+      "A) You must yield to all traffic not facing a STOP sign",
+      "B) All other traffic must stop and yield to you",
+      "C) You must yield to larger vehicles only"
+    ]
+  },
+  "Q340": {
+    "correct": "A",
+    "html": "“Before getting into your vehicle, you should look for children and other small obstructions nearby”. Is this statement true?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q341": {
+    "correct": "B",
+    "html": "You're in a line of traffic, and the vehicle behind you is following very closely. What should you do?",
+    "options": [
+      "A) Continue driving as normal",
+      "B) Slow down and gradually increase the following distance to the vehicle in front",
+      "C) Move over to a position just right of the center line"
+    ]
+  },
+  "Q342": {
+    "correct": "B",
+    "html": "Knowing which way to look at an intersection is important. How should you look before entering an intersection?",
+    "options": [
+      "A) Right and then left",
+      "B) Left, right, and then left again",
+      "C) Left only, as that’s where the most immediate danger is coming from"
+    ]
+  },
+  "Q343": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S83.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Flagger ahead",
+      "B) Workers on or close by the road ahead",
+      "C) Playground ahead",
+      "D) Archaeological site ahead"
+    ]
+  },
+  "Q344": {
+    "correct": "C",
+    "html": "A green sign with white lettering is a:",
+    "options": [
+      "A) Service sign",
+      "B) Warning sign",
+      "C) Guide sign",
+      "D) STOP sign"
+    ]
+  },
+  "Q345": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S84.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The maximum speed for this curve is 40 mph",
+      "B) The recommended speed for this curve is 40 mph",
+      "C) The minimum speed for this curve is 40 mph"
+    ]
+  },
+  "Q346": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S86.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) 270 degree turn to the left ahead",
+      "B) Road curves to the left, and side road entering from the right",
+      "C) Winding road ahead - first curve to the left"
+    ]
+  },
+  "Q347": {
+    "correct": "C",
+    "html": "Injured persons may be suffering from shock. What signs should you look for?",
+    "options": [
+      "A) Dry skin",
+      "B) Slow pulse",
+      "C) Pale grey skin"
+    ]
+  },
+  "Q348": {
+    "correct": "C",
+    "html": "You want to pass a horse rider. How should you act?",
+    "options": [
+      "A) Drive up close and pass quickly",
+      "B) Sound your horn to alert them that you’re passing",
+      "C) Drive slower than usual and leave more space"
+    ]
+  },
+  "Q349": {
+    "correct": "D",
+    "html": "Being a good driver requires both cooperation and responsibility. What signifies a good driver?",
+    "options": [
+      "A) Avoiding tailgating or suddenly cutting off other vehicles",
+      "B) Allowing for other vehicles to merge into your lane",
+      "C) Avoiding using your horn or gesturing at other drivers",
+      "D) All of the above"
+    ]
+  },
+  "Q350": {
+    "correct": "D",
+    "html": "You’re at a crash scene where one person suddenly goes into shock. What should you do?",
+    "options": [
+      "A) Reassure and keep the person calm",
+      "B) Lay the person down if possible",
+      "C) Keep the person warm with a blanket or coat",
+      "D) All of the above"
+    ]
+  },
+  "Q351": {
+    "correct": "C",
+    "html": "You see this light on your dashboard and the red light worries you. What does it mean?",
+    "options": [
+      "A) The battery is overheated - stop and let the battery cool down",
+      "B) The battery is dead",
+      "C) The battery isn’t charging properly",
+      "D) Nothing is wrong - the light tells you that the battery is working correctly"
+    ]
+  },
+  "Q352": {
+    "correct": "C",
+    "html": "When you’re driving on a two-way street with a center turn lane:",
+    "options": [
+      "A) You may use the center lane for passing",
+      "B) Only vehicles from one direction may use the center turn lane",
+      "C) Vehicles turning left from both directions may use the center lane"
+    ]
+  },
+  "Q353": {
+    "correct": "D",
+    "html": "Which of the following are early signs of fatigue?",
+    "options": [
+      "A) Inconsistent or unpredictable braking",
+      "B) Inconsistent speed",
+      "C) Repeated yawning",
+      "D) All of the above"
+    ]
+  },
+  "Q354": {
+    "correct": "C",
+    "html": "Which statement is true regarding highway interchanges (e.g. cloverleaf or trumpet etc.) ?",
+    "options": [
+      "A) They are a bad construct and are being replaced by normal intersections",
+      "B) They usually result in unnecessary delays and block-ups",
+      "C) They help transfer you from one highway to another without interfering with other traffic"
+    ]
+  },
+  "Q355": {
+    "correct": "B",
+    "html": "Which statement is true regarding speeding?",
+    "options": [
+      "A) The risk of a crash will decrease",
+      "B) The risk of a crash will increase",
+      "C) It’s legal to drive over the speed limit"
+    ]
+  },
+  "Q356": {
+    "correct": "B",
+    "html": "You intend to back into a side road, but you aren't sure that it’s clear behind you. What should you do?",
+    "options": [
+      "A) Look through the rear window only",
+      "B) Get out of your car and check",
+      "C) Check the mirrors only",
+      "D) Assume that it's clear"
+    ]
+  },
+  "Q357": {
+    "correct": "A",
+    "html": "One car isn’t using the roundabout correctly. Which car is it?",
+    "options": [
+      "A) Car A",
+      "B) Car B",
+      "C) Car C"
+    ]
+  },
+  "Q358": {
+    "correct": "B",
+    "html": "Which statement is true?",
+    "options": [
+      "A) This is a regulatory sign",
+      "B) This is a U.S. route shield",
+      "C) This is a warning sign",
+      "D) This is a state route shield"
+    ]
+  },
+  "Q359": {
+    "correct": "A",
+    "html": "Is parking permitted here at 9am on a Tuesday?",
+    "options": [
+      "A) Yes, you can park for up to 2 hours",
+      "B) Yes, you can park for up to 20 minutes",
+      "C) Yes, for as long as you want",
+      "D) No"
+    ]
+  },
+  "Q360": {
+    "correct": "D",
+    "html": "When tailgating another vehicle you:",
+    "options": [
+      "A) Will have less time to respond in case something happens",
+      "B) Will have a limited view of the road ahead",
+      "C) May anger other drivers",
+      "D) All of the above"
+    ]
+  },
+  "Q361": {
+    "correct": "D",
+    "html": "What should you do if your gas pedal jams?",
+    "options": [
+      "A) Try to lift the gas pedal with your toe",
+      "B) Shift to ‘neutral’ gear or press the clutch if manual transmission",
+      "C) Apply firm pressure on the brakes if necessary",
+      "D) All of the above"
+    ]
+  },
+  "Q362": {
+    "correct": "C",
+    "html": "What should you do to control the speed of your vehicle when going down steep hills?",
+    "options": [
+      "A) Use the brakes carefully and select a high gear",
+      "B) Use the brakes firmly and select a high gear",
+      "C) Use the brakes carefully and select a low gear"
+    ]
+  },
+  "Q363": {
+    "correct": "C",
+    "html": "When driving downhill you should:",
+    "options": [
+      "A) Use a higher gear",
+      "B) Use your brakes frequently and avoid engine braking",
+      "C) Keep an eye on your speed and know what’s behind you"
+    ]
+  },
+  "Q364": {
+    "correct": "C",
+    "html": "What’s the purpose of minimum speed limit signs? They help keep:",
+    "options": [
+      "A) Insecure drivers off the road",
+      "B) Retired drivers away from the roads",
+      "C) Traffic safe by erasing the dangers of driving too slowly"
+    ]
+  },
+  "Q365": {
+    "correct": "B",
+    "html": "You’re driving on a divided highway - what color is the left-most edge line?",
+    "options": [
+      "A) White",
+      "B) Yellow",
+      "C) Red"
+    ]
+  },
+  "Q366": {
+    "correct": "C",
+    "html": "What should you do if you crash into an unattended vehicle and you're unable to locate the owner?",
+    "options": [
+      "A) Wait until the owner shows up",
+      "B) Leave the scene",
+      "C) Leave a note with all the necessary details"
+    ]
+  },
+  "Q367": {
+    "correct": "B",
+    "html": "Yellow center lines separate traffic:",
+    "options": [
+      "A) Traveling in the same direction",
+      "B) Traveling in opposite directions"
+    ]
+  },
+  "Q368": {
+    "correct": "C",
+    "html": "What’s important to do before driving on a freeway?",
+    "options": [
+      "A) Eat food",
+      "B) Take a nap",
+      "C) Make sure your vehicle is roadworthy",
+      "D) Make sure the GPS works"
+    ]
+  },
+  "Q369": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S87.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Railroad crossing ahead",
+      "B) Skewed railroad crossing ahead",
+      "C) Low ground clearance railroad crossing ahead",
+      "D) Light rail crossing ahead"
+    ]
+  },
+  "Q370": {
+    "correct": "C",
+    "html": "What will probably happen if you travel during rush hour?",
+    "options": [
+      "A) You're likely to arrive at your destination faster",
+      "B) You're likely to save fuel",
+      "C) You're likely to be delayed to your destination"
+    ]
+  },
+  "Q371": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S43.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Deer crossing",
+      "B) Cattle crossing",
+      "C) Bear crossing"
+    ]
+  },
+  "Q372": {
+    "correct": "B",
+    "html": "When driving in fog, you should:",
+    "options": [
+      "A) Position your vehicle close to the center line",
+      "B) Let the journey take more time",
+      "C) Decrease your following distance"
+    ]
+  },
+  "Q373": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S08.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Bicycles permitted",
+      "B) All traffic except bicycles prohibited",
+      "C) Bicycles prohibited"
+    ]
+  },
+  "Q374": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S37.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Winding road ahead",
+      "B) Sharp right turn ahead",
+      "C) Left curve ahead",
+      "D) Traffic lights ahead"
+    ]
+  },
+  "Q375": {
+    "correct": "A",
+    "html": "In a normal car, are you able to drive 60 miles with a half-full tank?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q376": {
+    "correct": "C",
+    "html": "When driving in fog, it becomes necessary to use fog lights. What should you keep in mind?",
+    "options": [
+      "A) Only use them in heavy traffic",
+      "B) Don't use them during the day",
+      "C) Turn them off when visibility improves",
+      "D) Only use them on two-way roads"
+    ]
+  },
+  "Q377": {
+    "correct": "B",
+    "html": "Why must you be prepared to stop when driving behind a school bus and approaching a railroad crossing?",
+    "options": [
+      "A) Because buses usually get stuck on the railroad tracks",
+      "B) Because school buses must stop before crossing the tracks",
+      "C) Because buses are prohibited from crossing railroad tracks"
+    ]
+  },
+  "Q378": {
+    "correct": "D",
+    "html": "What should you be aware of when encountering flash flooding?",
+    "options": [
+      "A) It’s highly dangerous to drive your vehicle into floodwaters of unknown depth",
+      "B) Six inches of water is often enough to cause loss of control and potential stalling",
+      "C) A foot of water will float most vehicles",
+      "D) All of the above"
+    ]
+  },
+  "Q379": {
+    "correct": "A",
+    "html": "Does slowing down before a curve reduce the chance of skidding?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q380": {
+    "correct": "C",
+    "html": "Which car goes first?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) Neither - both cars can pass in front of each other"
+    ]
+  },
+  "Q381": {
+    "correct": "A",
+    "html": "You're approaching a work zone. Is it wise to reduce your speed on approach or should you wait until you are in the work zone?",
+    "options": [
+      "A) On approach",
+      "B) In the work zone"
+    ]
+  },
+  "Q382": {
+    "correct": "D",
+    "html": "Which of the following are examples of safe and responsible driving?",
+    "options": [
+      "A) Trying to maintain your speed and avoid jerky driving",
+      "B) Using higher gears whenever possible",
+      "C) Slowing down when approaching an intersection",
+      "D) All of the above"
+    ]
+  },
+  "Q383": {
+    "correct": "C",
+    "html": "What should you do if one or more wheels run off the pavement?",
+    "options": [
+      "A) Immediately slam on your brakes",
+      "B) Forcefully steer back onto the road",
+      "C) Keep a firm grip on the wheel and steer straight"
+    ]
+  },
+  "Q384": {
+    "correct": "A",
+    "html": "You should leave your automatic car in which gear when parking on a slope or steep hill?",
+    "options": [
+      "A) Park",
+      "B) Reverse",
+      "C) Drive"
+    ]
+  },
+  "Q385": {
+    "correct": "A",
+    "html": "What will happen if you refuse a breath test when an officer suspects you of driving while intoxicated?",
+    "options": [
+      "A) Your driver license will be suspended",
+      "B) You will face imprisonment for up to 5 years",
+      "C) Nothing - the officer cannot require you to submit a breath test"
+    ]
+  },
+  "Q386": {
+    "correct": "C",
+    "html": "You make a wrong turn and end up on a one-way street. You should:",
+    "options": [
+      "A) Put your gear in reverse and back up the way you came",
+      "B) Make a U-turn and go back",
+      "C) Continue driving and find another route"
+    ]
+  },
+  "Q387": {
+    "correct": "A",
+    "html": "When changing lanes:",
+    "options": [
+      "A) Yield to traffic already traveling in the lane",
+      "B) You have the right-of-way"
+    ]
+  },
+  "Q388": {
+    "correct": "C",
+    "html": "At a ‘4-Way stop’ intersection, who may proceed first if there is traffic from all directions?",
+    "options": [
+      "A) The last vehicle to reach the intersection",
+      "B) There are no specific rules for a situation like that",
+      "C) The first vehicle to reach the intersection"
+    ]
+  },
+  "Q389": {
+    "correct": "C",
+    "html": "What should you do in case of heavy bleeding?",
+    "options": [
+      "A) Apply light pressure to the wound",
+      "B) Lower the injured area if possible",
+      "C) Apply firm pressure to the wound"
+    ]
+  },
+  "Q390": {
+    "correct": "B",
+    "html": "Which car has to yield in this situation?",
+    "options": [
+      "A) Car A",
+      "B) Car B"
+    ]
+  },
+  "Q391": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S88.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) The speed limit for this exit is 25 mph",
+      "B) The minimum speed for this exit is 25 mph",
+      "C) The maximum recommended speed for this exit is 25 mph"
+    ]
+  },
+  "Q392": {
+    "correct": "A",
+    "html": "When driving close to parked vehicles:",
+    "options": [
+      "A) Watch out for cars pulling out and car doors opening",
+      "B) Drive as close to the parked vehicles as possible",
+      "C) Sound your horn to warn of your presence",
+      "D) Speed up to pass the parked vehicles quickly"
+    ]
+  },
+  "Q393": {
+    "correct": "C",
+    "html": "Which of the following signifies defensive driving?",
+    "options": [
+      "A) Changing lanes without signaling",
+      "B) Sounding your horn at other drivers if they make a mistake",
+      "C) Allowing other drivers to merge into your lane"
+    ]
+  },
+  "Q394": {
+    "correct": "D",
+    "html": "What’s the distance to Hollywood Blvd?",
+    "options": [
+      "A) 1 ¼ miles",
+      "B) 10 ½ miles",
+      "C) 10 ¼ miles",
+      "D) 1 ½ miles"
+    ]
+  },
+  "Q395": {
+    "correct": "C",
+    "html": "What does it mean to ‘adapt your speed to the conditions’?",
+    "options": [
+      "A) That you always drive at the same speed as other cars, regardless of the speed",
+      "B) That you always drive 10 mph below the speed limit",
+      "C) That you adapt your speed to current conditions or other obstructions",
+      "D) That you may drive above the speed limit if in a hurry"
+    ]
+  },
+  "Q396": {
+    "correct": "A",
+    "html": "Signs with black lettering on a white background are:",
+    "options": [
+      "A) Regulatory signs",
+      "B) Warning signs",
+      "C) Guide signs",
+      "D) YIELD signs"
+    ]
+  },
+  "Q397": {
+    "correct": "A",
+    "html": "You are driving ahead of a truck going downhill. Which statement is true?",
+    "options": [
+      "A) You may need to speed up a little as trucks can gain speed when driving downhill",
+      "B) Slow down to decrease the distance to the truck so the truck driver more easily can follow you",
+      "C) The brakes of very old trucks may overheat, but this isn’t a problem for modern trucks"
+    ]
+  },
+  "Q398": {
+    "correct": "C",
+    "html": "Which part of the body is hurt in a whiplash injury?",
+    "options": [
+      "A) The stomach",
+      "B) The back",
+      "C) The neck",
+      "D) The legs"
+    ]
+  },
+  "Q399": {
+    "correct": "B",
+    "html": "What’s the purpose of head restraints (headrests)?",
+    "options": [
+      "A) They provide comfort and are not considered important",
+      "B) They help protect your neck from injuries in case of a crash or sudden braking"
+    ]
+  },
+  "Q400": {
+    "correct": "A",
+    "html": "What can you be charged with for leaving the scene of a crash resulting in serious bodily injury or death?",
+    "options": [
+      "A) Class F Felony",
+      "B) Class H Felony",
+      "C) Class 1 Misdemeanor"
+    ]
+  },
+  "Q401": {
+    "correct": "D",
+    "html": "Which of the following is not an example of defensive driving?",
+    "options": [
+      "A) Keeping enough space between your car and the car in front",
+      "B) Indicating before changing lanes",
+      "C) Following the right-of-way rules",
+      "D) Driving aggressively"
+    ]
+  },
+  "Q402": {
+    "correct": "B",
+    "html": "When you see this sign you should be prepared:<br><br><img src='sign-images/S48.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) To make a U-turn, as the road is reserved for bicyclists",
+      "B) For bicyclists entering and exiting the road ahead",
+      "C) To slow down to a crawl. There are bicyclists on the road ahead"
+    ]
+  },
+  "Q403": {
+    "correct": "B",
+    "html": "Passing across double solid yellow center lines is:",
+    "options": [
+      "A) Permitted",
+      "B) Prohibited"
+    ]
+  },
+  "Q404": {
+    "correct": "B",
+    "html": "You press the brake pedal and it sinks all the way to the floor. What action should you take?",
+    "options": [
+      "A) Keep pressing down the brake pedal",
+      "B) Pump the brake pedal to build pressure and shift into a lower gear",
+      "C) Shift into a higher gear and keep pressure on the brake pedal"
+    ]
+  },
+  "Q405": {
+    "correct": "A",
+    "html": "In which lane should you enter a multi-lane roundabout to turn right?",
+    "options": [
+      "A) The right lane",
+      "B) The left lane",
+      "C) Either lane"
+    ]
+  },
+  "Q406": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S02.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You must slow down and come to a complete stop",
+      "B) You have the right-of-way",
+      "C) You must slow down and be ready to stop if necessary",
+      "D) You are approaching a four-way intersection"
+    ]
+  },
+  "Q407": {
+    "correct": "D",
+    "html": "Which statement is true regarding snow tires?",
+    "options": [
+      "A) They have better grip on snow and ice",
+      "B) They have a very deep tread depth",
+      "C) They reduce the braking distance on snow and ice",
+      "D) All of the above"
+    ]
+  },
+  "Q408": {
+    "correct": "A",
+    "html": "Which statement is true regarding fatigue?",
+    "options": [
+      "A) Fatigue slows your reflexes and affects your judgement",
+      "B) Fatigue isn’t affected by sleep",
+      "C) Fatigue won't affect your reflexes"
+    ]
+  },
+  "Q409": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S46.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) One-way traffic ahead",
+      "B) Two-way traffic ahead",
+      "C) Divided highway begins",
+      "D) Narrow bridge ahead"
+    ]
+  },
+  "Q410": {
+    "correct": "A",
+    "html": "A driver pulls out of a driveway in front of you, forcing you to brake hard. How should you react?",
+    "options": [
+      "A) Stay calm and ignore the mistake",
+      "B) Flash your lights or sound your horn to show your frustration",
+      "C) Pass the driver as soon as possible"
+    ]
+  },
+  "Q411": {
+    "correct": "C",
+    "html": "When is it extra important to know how traffic is moving behind you?",
+    "options": [
+      "A) When driving on level roads",
+      "B) Just after changing lanes",
+      "C) Before braking or reducing your speed"
+    ]
+  },
+  "Q412": {
+    "correct": "B",
+    "html": "What does it mean to ‘over drive’ your headlights?",
+    "options": [
+      "A) Driving with your headlights on for too long, which makes them overheat",
+      "B) Driving so fast that you can’t stop within the distance lit up by your headlights",
+      "C) Driving with your high-beam headlights when there is oncoming traffic"
+    ]
+  },
+  "Q413": {
+    "correct": "B",
+    "html": "Should you always obey your passengers requests?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Only if the passenger is older than you",
+      "D) Only if the passenger has had a drivers license longer than you"
+    ]
+  },
+  "Q414": {
+    "correct": "C",
+    "html": "When following a motorcyclist on a road that has poor surface, you should:",
+    "options": [
+      "A) Follow closely so the the rider can see you in their mirrors",
+      "B) Pass immediately",
+      "C) Give extra space in case the motorcyclist swerves"
+    ]
+  },
+  "Q415": {
+    "correct": "B",
+    "html": "You want to pass the vehicle in front of you, but you’re approaching a curve with limited visibility. What should you do?",
+    "options": [
+      "A) Begin passing immediately and try to complete the maneuver before reaching the curve",
+      "B) Wait until after the curve before you attempt to pass",
+      "C) Pass, but be prepared to fall back into the right lane if you spot oncoming traffic"
+    ]
+  },
+  "Q416": {
+    "correct": "A",
+    "html": "When may you turn left from a one-way street into another one-way street?",
+    "options": [
+      "A) Only if traffic on the ‘new’ street flows to the left",
+      "B) Only if traffic on the ‘new’ street flows to the right"
+    ]
+  },
+  "Q417": {
+    "correct": "A",
+    "html": "Why should you keep to the right when meeting an oncoming truck?",
+    "options": [
+      "A) To increase your safety margin and help prevent a collision",
+      "B) To show the truck driver that you are paying attention",
+      "C) Because trucks are legally allowed to use half of your lane."
+    ]
+  },
+  "Q418": {
+    "correct": "A",
+    "html": "Which passengers have to wear a seat belt?",
+    "options": [
+      "A) The driver and all passengers 16 and older",
+      "B) Front-seat passengers only",
+      "C) Back-seat passengers only"
+    ]
+  },
+  "Q419": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S89.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Pedestrians prohibited",
+      "B) Parking prohibited",
+      "C) Photographs prohibited"
+    ]
+  },
+  "Q420": {
+    "correct": "A",
+    "html": "Your vehicle will use more fuel when:",
+    "options": [
+      "A) The tires are under-inflated",
+      "B) The tires are of different makes and brands",
+      "C) The tires are over-inflated"
+    ]
+  },
+  "Q421": {
+    "correct": "A",
+    "html": "If you’re distracted while driving, your chance of being involved in a crash is:",
+    "options": [
+      "A) Much higher",
+      "B) Not affected",
+      "C) Much lower"
+    ]
+  },
+  "Q422": {
+    "correct": "C",
+    "html": "Which statement is true regarding tires?",
+    "options": [
+      "A) Try to have tires with different wear and tread depth to get grip on all types of roads",
+      "B) Mixing different types of tires is recommended as you’ll get the best qualities from each tire",
+      "C) Proper inflation reduces fuel usage and maximizes performance"
+    ]
+  },
+  "Q423": {
+    "correct": "B",
+    "html": "Why is it important to regularly check the interior and exterior mirrors?",
+    "options": [
+      "A) It helps prevent fatigue",
+      "B) It helps you know how traffic moves around you",
+      "C) You remove the need to check the blind spots"
+    ]
+  },
+  "Q424": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S54.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Two-way traffic ahead",
+      "B) Divided highway ends ahead",
+      "C) Obstruction ahead",
+      "D) Divided highway begins ahead"
+    ]
+  },
+  "Q425": {
+    "correct": "B",
+    "html": "What does “idling” in traffic mean?",
+    "options": [
+      "A) Driving very slowly compared to other traffic",
+      "B) Running a vehicle's engine when stationary for a longer period of time",
+      "C) Pretending to drive",
+      "D) Stopping your vehicle in a “No Stopping” zone to make a phone call"
+    ]
+  },
+  "Q426": {
+    "correct": "C",
+    "html": "You start to feel sleepy on a long drive. What should you do?",
+    "options": [
+      "A) Turn on some loud music",
+      "B) Activate your warning flashers and stop on the road shoulder",
+      "C) Pull over and stop in a safe place"
+    ]
+  },
+  "Q427": {
+    "correct": "A",
+    "html": "During which hours are you and other drivers most likely to be involved in sleep-related accidents?",
+    "options": [
+      "A) When you would normally be sleeping",
+      "B) During early morning",
+      "C) During the weekends",
+      "D) After a long day at work"
+    ]
+  },
+  "Q428": {
+    "correct": "B",
+    "html": "You’re driving in rain just below the speed limit, and you feel that you’re driving too fast for the conditions. What should you do?",
+    "options": [
+      "A) Maintain speed",
+      "B) Slow down",
+      "C) Activate your emergency signals"
+    ]
+  },
+  "Q429": {
+    "correct": "C",
+    "html": "The risk of neck injury in a crash can be reduced by having:",
+    "options": [
+      "A) A self-driving car",
+      "B) Anti-lock brakes",
+      "C) A properly adjusted head restraint"
+    ]
+  },
+  "Q430": {
+    "correct": "A",
+    "html": "Should you turn your front wheels toward or away from the curb when parking downhill?",
+    "options": [
+      "A) Toward the curb",
+      "B) Away from the curb"
+    ]
+  },
+  "Q431": {
+    "correct": "C",
+    "html": "How much is the stopping distance affected when driving in heavy rain?",
+    "options": [
+      "A) It’s halved",
+      "B) It isn’t affected",
+      "C) It’s doubled"
+    ]
+  },
+  "Q432": {
+    "correct": "C",
+    "html": "Should you turn off the interior lights when driving at night?",
+    "options": [
+      "A) It depends - it’s only necessary if your eyesight is worse than the average driver",
+      "B) No",
+      "C) Yes"
+    ]
+  },
+  "Q433": {
+    "correct": "A",
+    "html": "When facing a green light at an intersection, you may proceed:",
+    "options": [
+      "A) After yielding to traffic already in the intersection",
+      "B) Without yielding to traffic already in the intersection"
+    ]
+  },
+  "Q434": {
+    "correct": "C",
+    "html": "How should you act in snowy conditions?",
+    "options": [
+      "A) Brake hard",
+      "B) Try to make as many sharp steering movements as possible",
+      "C) Brake early and gently"
+    ]
+  },
+  "Q435": {
+    "correct": "A",
+    "html": "When is passing on the right permitted?",
+    "options": [
+      "A) When the vehicle in front of you is making a left turn",
+      "B) At all times",
+      "C) When the vehicle in front of you is driving slower than the speed limit"
+    ]
+  },
+  "Q436": {
+    "correct": "A",
+    "html": "What do flashing yellow or amber lights on a school bus mean?",
+    "options": [
+      "A) The bus is about to stop",
+      "B) The bus driver is signaling for you to pass",
+      "C) There is a hazard on the road ahead"
+    ]
+  },
+  "Q437": {
+    "correct": "B",
+    "html": "You’re waiting to turn at an intersection. Why should you look carefully for motorcyclists?",
+    "options": [
+      "A) They usually travel faster than cars",
+      "B) Motorcyclists may be hidden from view",
+      "C) Motorcyclists have right-of-way"
+    ]
+  },
+  "Q438": {
+    "correct": "C",
+    "html": "Which of the following is the most common hazardous situation when leaving any high-speed road?",
+    "options": [
+      "A) Driving on the wrong side of the road as you’re used to one-way traffic",
+      "B) Getting hit from behind",
+      "C) Misjudging your speed and driving too fast"
+    ]
+  },
+  "Q439": {
+    "correct": "B",
+    "html": "What should you do when emergency braking with a vehicle equipped with conventional brakes?",
+    "options": [
+      "A) Press down hard and maintain pressure",
+      "B) Pump the brakes hard and fast",
+      "C) Apply light pressure to the brakes"
+    ]
+  },
+  "Q440": {
+    "correct": "A",
+    "html": "You're being passed by a car that pulls in just in front of you. What should you do?",
+    "options": [
+      "A) Slow down and increase the following distance",
+      "B) Flash your lights and sound your horn",
+      "C) Start tailgating the car",
+      "D) Change lanes to the passing lane"
+    ]
+  },
+  "Q441": {
+    "correct": "A",
+    "html": "How far away from a school bus loading or unloading passengers do vehicles have to stop?",
+    "options": [
+      "A) Before reaching the school bus",
+      "B) 10 feet",
+      "C) 15 feet",
+      "D) 20 feet"
+    ]
+  },
+  "Q442": {
+    "correct": "A",
+    "html": "In which direction should you look first when arriving at an intersection?",
+    "options": [
+      "A) Left, because that’s where the most immediate danger is coming from",
+      "B) It depends on the direction you’re turning",
+      "C) It doesn’t matter"
+    ]
+  },
+  "Q443": {
+    "correct": "D",
+    "html": "When approaching a railroad crossing, you should always:",
+    "options": [
+      "A) Slow down",
+      "B) Look to both sides for approaching trains",
+      "C) Be prepared to stop if necessary",
+      "D) All of the above"
+    ]
+  },
+  "Q444": {
+    "correct": "D",
+    "html": "When you’re about to change lanes:",
+    "options": [
+      "A) Look over your shoulder in the direction you intend to move",
+      "B) Signal before changing lanes",
+      "C) Do not change lanes unless safe",
+      "D) All of the above"
+    ]
+  },
+  "Q445": {
+    "correct": "A",
+    "html": "How can you reduce the risk of your vehicle being broken into at night?",
+    "options": [
+      "A) Park in a well-lit area",
+      "B) Park in a quiet side road",
+      "C) Park in a poorly-lit area"
+    ]
+  },
+  "Q446": {
+    "correct": "A",
+    "html": "On the road shoulder ahead, there’s a stopped car with its brake lights activated. What should you keep in mind when passing the car?",
+    "options": [
+      "A) Be alert, reduce your speed, and keep a sufficient safety margin",
+      "B) Be alert, increase your speed, and drive past",
+      "C) Nothing, maintain your speed and drive past"
+    ]
+  },
+  "Q447": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S03.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) No entry permitted",
+      "B) No trucks permitted",
+      "C) No U-turn permitted",
+      "D) No turns permitted"
+    ]
+  },
+  "Q448": {
+    "correct": "A",
+    "html": "Which type of vehicle is most affected by side winds?",
+    "options": [
+      "A) Motorcycles & trucks",
+      "B) Cars and vans",
+      "C) School buses and fire trucks"
+    ]
+  },
+  "Q449": {
+    "correct": "B",
+    "html": "You see an orange sign. What should you prepare for?",
+    "options": [
+      "A) A cultural/historical area",
+      "B) A construction/work zone",
+      "C) A gas station or other service ahead",
+      "D) A school zone ahead"
+    ]
+  },
+  "Q450": {
+    "correct": "A",
+    "html": "You need to scan the area around your car. What does it mean to scan?",
+    "options": [
+      "A) Looking ahead, to the sides, and continually checking your mirrors",
+      "B) Looking in your side mirrors at least twice a minute",
+      "C) Focusing on the road ahead"
+    ]
+  },
+  "Q451": {
+    "correct": "A",
+    "html": "How should you approach this intersection?",
+    "options": [
+      "A) Proceed carefully until you have a clear view",
+      "B) Like any other intersection",
+      "C) Assume you have the right-of-way"
+    ]
+  },
+  "Q452": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S91.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Pedestrians are prohibited from crossing here",
+      "B) Pedestrians are not allowed in the area",
+      "C) Vehicles have the right-of-way in the area"
+    ]
+  },
+  "Q453": {
+    "correct": "B",
+    "html": "You’re passed by several fast-traveling vehicles driving above the speed limit. Are you allowed to drive faster than the speed limit to stay behind them?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q454": {
+    "correct": "A",
+    "html": "An obstruction on the road ahead forces you to stop behind another vehicle on a sharp ascent uphill. Where should you stop?",
+    "options": [
+      "A) A sufficient distance behind the vehicle in front of you",
+      "B) Just behind the vehicle in front of you",
+      "C) At least 50 feet away"
+    ]
+  },
+  "Q455": {
+    "correct": "A",
+    "html": "What should you do before driving in snowy conditions?",
+    "options": [
+      "A) Remove snow and ice from windows, lights, and mirrors",
+      "B) Let the engine warm up for at least 40 minutes",
+      "C) Check your tire tread depth"
+    ]
+  },
+  "Q456": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S29.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Traffic signal lights ahead",
+      "B) Malfunctioning traffic lights ahead",
+      "C) YIELD sign ahead"
+    ]
+  },
+  "Q457": {
+    "correct": "D",
+    "html": "You’re about to enter the freeway. Which statement is true?",
+    "options": [
+      "A) Signal your intention to merge",
+      "B) Adjust your speed to the speed of the freeway traffic",
+      "C) Yield the right-of-way to traffic already traveling on the freeway",
+      "D) All of the above"
+    ]
+  },
+  "Q458": {
+    "correct": "C",
+    "html": "When may you turn left on a red light?",
+    "options": [
+      "A) From a one-way street onto another one-way street",
+      "B) From a two-way street onto another two-way street",
+      "C) Never"
+    ]
+  },
+  "Q459": {
+    "correct": "A",
+    "html": "Will using cruise control lead to lower fuel consumption?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Yes, but only if you have a 4-wheel drive car"
+    ]
+  },
+  "Q460": {
+    "correct": "A",
+    "html": "In which lane should you enter the roundabout if you intend to make a U-turn or turn left?",
+    "options": [
+      "A) Lane A",
+      "B) Lane B",
+      "C) Lane B when making a U-turn, and lane A when turning left"
+    ]
+  },
+  "Q461": {
+    "correct": "C",
+    "html": "You're driving at night with your headlights on high beam, and another vehicle is passing you. When should you change to low beam?",
+    "options": [
+      "A) After the vehicle has passed you and returned to the right lane",
+      "B) Only if the other driver isn’t using high beams",
+      "C) Before your high beams could blind the other driver"
+    ]
+  },
+  "Q462": {
+    "correct": "A",
+    "html": "Eco driving means that you're trying to drive in an eco-friendly way. Which of the following would count as eco driving?",
+    "options": [
+      "A) Driving in higher gears whenever possible",
+      "B) Driving in lower gears as often as possible",
+      "C) Braking and accelerating frequently",
+      "D) Trying to avoid engine braking"
+    ]
+  },
+  "Q463": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S92.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) One-way traffic ahead",
+      "B) Road narrows ahead",
+      "C) Narrow bridge ahead",
+      "D) Lane ends ahead"
+    ]
+  },
+  "Q464": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S36.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Only right turns ahead",
+      "B) Right turns prohibited ahead",
+      "C) Right curve ahead",
+      "D) Winding road ahead"
+    ]
+  },
+  "Q465": {
+    "correct": "A",
+    "html": "In which situation are you most likely to be affected by side winds?",
+    "options": [
+      "A) On an open stretch of road",
+      "B) In cities",
+      "C) In tunnels"
+    ]
+  },
+  "Q466": {
+    "correct": "A",
+    "html": "Passing is ____ across a broken yellow center line.",
+    "options": [
+      "A) Permitted",
+      "B) Prohibited"
+    ]
+  },
+  "Q467": {
+    "correct": "D",
+    "html": "Your view ahead is restricted by heavy spray when driving on the freeway. Which lights should you use?",
+    "options": [
+      "A) Rain lights",
+      "B) Fog lights",
+      "C) High-beam headlights",
+      "D) Low-beam headlights"
+    ]
+  },
+  "Q468": {
+    "correct": "B",
+    "html": "A police car behind you signals you to pull over. What should you do?",
+    "options": [
+      "A) Turn right at the next intersection",
+      "B) Pull over and stop on the right",
+      "C) Stop immediately in your lane"
+    ]
+  },
+  "Q469": {
+    "correct": "B",
+    "html": "Why should you be careful around a stopped bus?",
+    "options": [
+      "A) The bus might have broken down",
+      "B) Pedestrians may try to cross the road unexpectedly",
+      "C) The bus may remain stationary and cause a traffic jam"
+    ]
+  },
+  "Q470": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S93.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Added lane from the right",
+      "B) Traffic merging from the left",
+      "C) One-way traffic ahead",
+      "D) Traffic merging from the right"
+    ]
+  },
+  "Q471": {
+    "correct": "C",
+    "html": "You are driving at a speed of 30 mph, and you know that the braking distance is about 60 feet. What is the braking distance if you increase your speed to 60 mph?",
+    "options": [
+      "A) 120 feet",
+      "B) 180 feet",
+      "C) 240 feet",
+      "D) The braking distance isn’t affected by your speed"
+    ]
+  },
+  "Q472": {
+    "correct": "B",
+    "html": "“When driving at night, you should drive closely behind the vehicle in front since it helps keep you awake”. Is this statement true?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q473": {
+    "correct": "A",
+    "html": "Broken white lines separate:",
+    "options": [
+      "A) Traffic traveling in the same direction",
+      "B) Traffic traveling in opposite directions"
+    ]
+  },
+  "Q474": {
+    "correct": "B",
+    "html": "Which statement is true for Car A?",
+    "options": [
+      "A) Car A has the right-of-way",
+      "B) Car A must yield"
+    ]
+  },
+  "Q475": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S94.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Two-way traffic ahead",
+      "B) Crossroad ahead",
+      "C) You must turn left or right"
+    ]
+  },
+  "Q476": {
+    "correct": "B",
+    "html": "Should pedestrians walk with or against traffic if there are no side walks?",
+    "options": [
+      "A) With",
+      "B) Against"
+    ]
+  },
+  "Q477": {
+    "correct": "C",
+    "html": "What should you do during an acceleration skid?",
+    "options": [
+      "A) Let go of the steering wheel and take your foot off the gas pedal",
+      "B) Accelerate and keep a firm grip on the steering wheel",
+      "C) Keep a firm grip on the steering wheel and take your foot off the gas pedal"
+    ]
+  },
+  "Q478": {
+    "correct": "B",
+    "html": "You’re driving on a dusty day, and you have a hard time seeing the road ahead. Which statement is true?",
+    "options": [
+      "A) Drive at the normal speed and keep to the right",
+      "B) Slow down and turn on your headlights",
+      "C) Stop on the road until the vision improves"
+    ]
+  },
+  "Q479": {
+    "correct": "B",
+    "html": "What is the standard speed limit in cities and towns?",
+    "options": [
+      "A) 20 mph",
+      "B) 35 mph",
+      "C) 45 mph"
+    ]
+  },
+  "Q480": {
+    "correct": "A",
+    "html": "On the road shoulder ahead, there’s a stopped car with its brake lights activated. What should you keep in mind when passing the car?",
+    "options": [
+      "A) Be alert, reduce your speed and keep a sufficient safety margin",
+      "B) Be alert, increase your speed and drive past",
+      "C) Nothing, maintain your speed and drive past"
+    ]
+  },
+  "Q481": {
+    "correct": "C",
+    "html": "What does this sign mean? 30 mph is the ____.<br><br><img src='sign-images/S95.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Recommended speed",
+      "B) Minimum speed",
+      "C) Maximum speed",
+      "D) Maximum speed limit in poor conditions only"
+    ]
+  },
+  "Q482": {
+    "correct": "A",
+    "html": "Does the condition of your brakes affect the stopping distance?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q483": {
+    "correct": "B",
+    "html": "When entering a main road from a driveway:",
+    "options": [
+      "A) You have the right-of-way",
+      "B) Yield to traffic on the main road"
+    ]
+  },
+  "Q484": {
+    "correct": "C",
+    "html": "If driving in a lane marked with this sign:<br><br><img src='sign-images/S96.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You are prohibited from making a U-turn",
+      "B) You must make a left turn",
+      "C) You must make a U-turn",
+      "D) You are prohibited from making a left turn"
+    ]
+  },
+  "Q485": {
+    "correct": "A",
+    "html": "Is passing permitted on your side of the road?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q486": {
+    "correct": "B",
+    "html": "What should you prepare for when you see these flashing arrows?",
+    "options": [
+      "A) Sharp curve to the left ahead - slow down",
+      "B) Lanes closing ahead - part of the road will be closed",
+      "C) Road closed ahead - make a U-turn as soon as possible"
+    ]
+  },
+  "Q487": {
+    "correct": "A",
+    "html": "What does this yellow sign mean?<br><br><img src='sign-images/S40.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Steep hill downgrade ahead",
+      "B) Steep hill climb ahead",
+      "C) Only trucks may proceed beyond this sign",
+      "D) There are trucks on the road ahead"
+    ]
+  },
+  "Q488": {
+    "correct": "B",
+    "html": "You need to make a U-turn, but the road is too narrow. What should you do?",
+    "options": [
+      "A) Back up until you have enough space to make the U-turn",
+      "B) Make a three-point turn",
+      "C) You’re not allowed to do anything - keep on driving"
+    ]
+  },
+  "Q489": {
+    "correct": "D",
+    "html": "How can you reduce glare?",
+    "options": [
+      "A) By wearing sunglasses",
+      "B) By keeping your headlights and windshield clean",
+      "C) By using your sun visor",
+      "D) All of the above"
+    ]
+  },
+  "Q490": {
+    "correct": "B",
+    "html": "Which car goes first?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C"
+    ]
+  },
+  "Q491": {
+    "correct": "A",
+    "html": "Drivers do not have to signal when changing lanes in a roundabout. Is this true?",
+    "options": [
+      "A) No",
+      "B) Yes"
+    ]
+  },
+  "Q492": {
+    "correct": "A",
+    "html": "What information should you exchange with other involved parties in a car accident?",
+    "options": [
+      "A) Name, address, driver's license information, insurance information and phone number",
+      "B) Your name only",
+      "C) You should not give out any information except to law enforcement"
+    ]
+  },
+  "Q493": {
+    "correct": "A",
+    "html": "You're driving behind a driver who's acting inexperienced. How should you treat the driver?",
+    "options": [
+      "A) Have patience and increase the following distance",
+      "B) Overtake the driver as soon as possible"
+    ]
+  },
+  "Q494": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S97.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left turn prohibited on red",
+      "B) Right turn prohibited on red",
+      "C) Left and right turns prohibited on red"
+    ]
+  },
+  "Q495": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S04.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Keep left of the sign",
+      "B) Dangerous area ahead. Only drivers with a special permit may proceed",
+      "C) Keep right of the sign",
+      "D) National park ahead"
+    ]
+  },
+  "Q496": {
+    "correct": "B",
+    "html": "What is the cause of many crashes in foggy conditions?",
+    "options": [
+      "A) Distracted drivers",
+      "B) Driving too fast",
+      "C) Animals on the road"
+    ]
+  },
+  "Q497": {
+    "correct": "A",
+    "html": "What can you do to avoid harsh braking?",
+    "options": [
+      "A) Take early action",
+      "B) Slow down by engine braking",
+      "C) Pump the brake pedal"
+    ]
+  },
+  "Q498": {
+    "correct": "A",
+    "html": "It is generally more dangerous to drive _____ compared to _____ .",
+    "options": [
+      "A) At night; the day",
+      "B) During the day; at night"
+    ]
+  },
+  "Q499": {
+    "correct": "B",
+    "html": "What should you do if you get a tire blowout or flat tire while driving?",
+    "options": [
+      "A) Immediately apply your parking brake and steer towards the center of the road",
+      "B) Keep control over your vehicle, ease up on the gas, and slow down gradually",
+      "C) Turn on your emergency flashers and keep on driving"
+    ]
+  },
+  "Q500": {
+    "correct": "B",
+    "html": "The most dangerous type of collision is a:",
+    "options": [
+      "A) Rear-end collision (A)",
+      "B) Head-on collision (B)",
+      "C) Side- or sideswipe collision (C)"
+    ]
+  },
+  "Q501": {
+    "correct": "B",
+    "html": "Is it generally recommended to gesture at other drivers that you think did something wrong in traffic?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q502": {
+    "correct": "C",
+    "html": "You’re driving in extreme fog, and the visibility is so low that you are unable to see more than a couple of feet ahead. What should you do?",
+    "options": [
+      "A) Turn on your high-beam headlights and slow down to a crawl",
+      "B) Turn on your high-beam headlights, interior lights and parking light to increase visibility",
+      "C) Pull off the road and wait for the fog to clear"
+    ]
+  },
+  "Q503": {
+    "correct": "D",
+    "html": "What is/are the benefit(s) of adjusting your seat properly?",
+    "options": [
+      "A) Increased visibility",
+      "B) Better position to use the pedals",
+      "C) The airbag will protect you better",
+      "D) All of the above"
+    ]
+  },
+  "Q504": {
+    "correct": "C",
+    "html": "You should always reduce your speed when traveling in fog. Why?",
+    "options": [
+      "A) The brakes won’t work as well due to the moist air",
+      "B) You may be blinded by other road users’ headlights",
+      "C) It's harder to see what's ahead"
+    ]
+  },
+  "Q505": {
+    "correct": "C",
+    "html": "When is it important to maintain enough space on all sides of your vehicle?",
+    "options": [
+      "A) Only in bad conditions",
+      "B) Only if you’re a newly licensed driver",
+      "C) Always, as it will give you time to react and respond to potential hazards"
+    ]
+  },
+  "Q506": {
+    "correct": "C",
+    "html": "This sign indicates that you’re driving on:<br><br><img src='sign-images/S98.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) U.S. route number 22",
+      "B) State route number 22",
+      "C) Interstate route number 22"
+    ]
+  },
+  "Q507": {
+    "correct": "C",
+    "html": "What does this regulatory sign mean?<br><br><img src='sign-images/S10.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left turn prohibited",
+      "B) Sharp left turn ahead",
+      "C) Left turn only"
+    ]
+  },
+  "Q508": {
+    "correct": "A",
+    "html": "Should the left lane on a highway be used for passing or for vehicles driving slower than the rest of traffic?",
+    "options": [
+      "A) Passing",
+      "B) Vehicles driving slower than the rest of traffic"
+    ]
+  },
+  "Q509": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S99.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Left lane may only turn left. Right lane may only turn right",
+      "B) Left lane may turn in any direction. Right lane may only turn right",
+      "C) Left lane may turn left or go straight ahead. Right lane may only turn right"
+    ]
+  },
+  "Q510": {
+    "correct": "A",
+    "html": "What style of driving decreases the risk(s) related to driving for all road users?",
+    "options": [
+      "A) Defensive",
+      "B) Competitive",
+      "C) Aggressive"
+    ]
+  },
+  "Q511": {
+    "correct": "B",
+    "html": "Solid yellow lines:",
+    "options": [
+      "A) Indicate one-way traffic",
+      "B) Indicate two-way traffic",
+      "C) Separate lanes of traffic traveling in the same direction"
+    ]
+  },
+  "Q512": {
+    "correct": "A",
+    "html": "You are required to use your headlights in certain conditions. Which of the following is an example of such a condition?",
+    "options": [
+      "A) Between sunset and sunrise",
+      "B) When visibility is less than 1500 ft",
+      "C) On a clear day in a business district"
+    ]
+  },
+  "Q513": {
+    "correct": "A",
+    "html": "The white car is facing a green light and the pedestrian a red light. A collision is inevitable unless one yields to the other. Which statement is true?",
+    "options": [
+      "A) The car must yield to the pedestrian",
+      "B) The car should proceed - even if it means putting the pedestrian in harm’s way"
+    ]
+  },
+  "Q514": {
+    "correct": "B",
+    "html": "What should you avoid when passing another vehicle?",
+    "options": [
+      "A) Signaling when returning to your lane",
+      "B) Returning to your lane too early"
+    ]
+  },
+  "Q515": {
+    "correct": "A",
+    "html": "Which statement is true?",
+    "options": [
+      "A) You may not exceed 20 mph when the lights are flashing",
+      "B) You are never allowed to exceed 20 mph - even if the lights are not flashing",
+      "C) The recommended speed limit is 20 mph when the lights are flashing"
+    ]
+  },
+  "Q516": {
+    "correct": "C",
+    "html": "What happens if you turn off the ignition while driving?",
+    "options": [
+      "A) All functions requiring electricity won’t function, but accelerating and braking will be unaffected",
+      "B) All functions requiring electricity won’t function, but steering and braking will be unaffected",
+      "C) The steering wheel will lock and you won’t be able to steer the car"
+    ]
+  },
+  "Q517": {
+    "correct": "C",
+    "html": "What should you do when driving near heavy vehicles in wet weather?",
+    "options": [
+      "A) Keep at least a 1-second gap",
+      "B) Pass using the shoulder",
+      "C) Be aware of spray that may reduce your vision"
+    ]
+  },
+  "Q518": {
+    "correct": "B",
+    "html": "On two-way roads, you may pass to the left of:",
+    "options": [
+      "A) A single solid yellow line",
+      "B) A solid and broken yellow line, given that the broken line is closer to you",
+      "C) Double solid yellow lines",
+      "D) A solid and broken yellow line, given that the solid line is closer to you"
+    ]
+  },
+  "Q519": {
+    "correct": "A",
+    "html": "You arrive at a crash scene where a motorcyclist has been injured. When should you remove the motorcyclist’s helmet?",
+    "options": [
+      "A) Only if essential",
+      "B) Straight away",
+      "C) Only if asked by the motorcyclist"
+    ]
+  },
+  "Q520": {
+    "correct": "A",
+    "html": "Why should you make sure that your turn signals are canceled after turning?",
+    "options": [
+      "A) To avoid misleading other drivers",
+      "B) To avoid blinding other drivers"
+    ]
+  },
+  "Q521": {
+    "correct": "D",
+    "html": "Which of the following reduces your Blood Alcohol Concentration (BAC)?",
+    "options": [
+      "A) Drinking water",
+      "B) Eating food",
+      "C) Exercising",
+      "D) None of the above"
+    ]
+  },
+  "Q522": {
+    "correct": "A",
+    "html": "You arrive at a traffic light intersection. A law enforcement officer signals for you to proceed through the intersection against a red light. What should you do?",
+    "options": [
+      "A) Follow the officer’s instructions",
+      "B) Wait for the traffic light to change to green before proceeding"
+    ]
+  },
+  "Q523": {
+    "correct": "B",
+    "html": "This sign indicates that:<br><br><img src='sign-images/S100.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You are prohibited from turning right or going straight ahead",
+      "B) You may only turn right or go straight ahead"
+    ]
+  },
+  "Q524": {
+    "correct": "A",
+    "html": "What is the first thing affected by alcohol?",
+    "options": [
+      "A) Your judgement",
+      "B) Your eyesight",
+      "C) Your balance and coordination",
+      "D) Your concentration"
+    ]
+  },
+  "Q525": {
+    "correct": "A",
+    "html": "You arrive at a ‘4-Way Stop’ intersection. On your right, a white car reaches the intersection at the same time. Which statement is true?",
+    "options": [
+      "A) You should yield to the white car",
+      "B) The white car should yield to you"
+    ]
+  },
+  "Q526": {
+    "correct": "B",
+    "html": "You’re turning left at an intersection without STOP or YIELD signs, and an oncoming vehicle is going straight ahead. Who has to yield?",
+    "options": [
+      "A) The oncoming vehicle",
+      "B) You",
+      "C) Neither, there aren’t any rules at uncontrolled intersections"
+    ]
+  },
+  "Q527": {
+    "correct": "C",
+    "html": "You suddenly notice an emergency vehicle with red flashing lights behind you. Which statement is true?",
+    "options": [
+      "A) Brake hard immediately and come to a complete stop",
+      "B) Continue as normal",
+      "C) Pull over and stop",
+      "D) Slow down but continue driving"
+    ]
+  },
+  "Q528": {
+    "correct": "B",
+    "html": "You're driving on an icy road and you see a sharp curve ahead. How should you use your brakes to slow down?",
+    "options": [
+      "A) Slamming your brakes",
+      "B) Gently apply pressure to the brakes",
+      "C) Start braking in the curve"
+    ]
+  },
+  "Q529": {
+    "correct": "C",
+    "html": "You approach a curve at a fairly high speed. What should you do?",
+    "options": [
+      "A) Maintain speed unless you spot oncoming traffic",
+      "B) Slow down 30 mph below the speed limit",
+      "C) Evaluate whether your speed is safe",
+      "D) Slow down when halfway through the curve"
+    ]
+  },
+  "Q530": {
+    "correct": "B",
+    "html": "What is ‘tailgating’?",
+    "options": [
+      "A) Increasing and decreasing speed unexpectedly",
+      "B) Following too closely behind a vehicle",
+      "C) Another word for defensive driving",
+      "D) Reversing around a corner"
+    ]
+  },
+  "Q531": {
+    "correct": "C",
+    "html": "You leave your car unattended for a couple of minutes. What should you do?",
+    "options": [
+      "A) Leave the engine running",
+      "B) Switch the engine off but leave the key",
+      "C) Lock the car and remove the key"
+    ]
+  },
+  "Q532": {
+    "correct": "C",
+    "html": "How should you act if you’re hydroplaning?",
+    "options": [
+      "A) Accelerate to regain control of your car",
+      "B) Brake hard to stop your vehicle as quickly as possible",
+      "C) Carefully steer in the direction you want your car to go and slow down gradually",
+      "D) Let go of the steering wheel and take your foot off the gas pedal"
+    ]
+  },
+  "Q533": {
+    "correct": "A",
+    "html": "Which statement is true regarding flaggers in work zones?",
+    "options": [
+      "A) They help slow, stop or lead traffic safely through the construction area",
+      "B) They take pictures of drivers who ignore signs or drive dangerously",
+      "C) They are there to help in case of a crash"
+    ]
+  },
+  "Q534": {
+    "correct": "A",
+    "html": "For how long must you signal before turning or stopping at speeds of 45 mph or less?",
+    "options": [
+      "A) At least 100 feet",
+      "B) At least 200 feet",
+      "C) At least 350 feet"
+    ]
+  },
+  "Q535": {
+    "correct": "A",
+    "html": "In which order should the cars proceed?",
+    "options": [
+      "A) B,C,A",
+      "B) B,A,C",
+      "C) A,B,C"
+    ]
+  },
+  "Q536": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S15.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) No right turn",
+      "B) No left turn",
+      "C) Only left turn",
+      "D) Sharp left turn ahead"
+    ]
+  },
+  "Q537": {
+    "correct": "A",
+    "html": "You’re driving on a narrow road uphill. What should you do when you’re about to reach the crest?",
+    "options": [
+      "A) Keep to the right",
+      "B) Keep to the left",
+      "C) Slow down to a crawl and proceed",
+      "D) Proceed as normal"
+    ]
+  },
+  "Q538": {
+    "correct": "B",
+    "html": "You're about to back into a driveway. A pedestrian is waiting to cross behind you. What should you do?",
+    "options": [
+      "A) Wave to the pedestrian to stop",
+      "B) Yield to the pedestrian",
+      "C) Sound your horn to warn the pedestrian",
+      "D) Begin backing before the pedestrian starts to cross"
+    ]
+  },
+  "Q539": {
+    "correct": "C",
+    "html": "Why are airbags important?",
+    "options": [
+      "A) They work as a pillow in case of fatigue but not much more",
+      "B) A seatbelt is all that’s required to stay safe",
+      "C) They help minimize the impact in case of a crash"
+    ]
+  },
+  "Q540": {
+    "correct": "C",
+    "html": "An oncoming vehicle crosses the center line and is heading towards you. What should you do?",
+    "options": [
+      "A) Keep on driving straight and prepare for a collision",
+      "B) Drive onto the left side of the road and sound your horn",
+      "C) Sound your horn, brake hard, and steer towards the side of the road"
+    ]
+  },
+  "Q541": {
+    "correct": "C",
+    "html": "Always use your mirrors:",
+    "options": [
+      "A) When signaling",
+      "B) To check the blind spot",
+      "C) Before leaving your vehicle"
+    ]
+  },
+  "Q542": {
+    "correct": "C",
+    "html": "You have a friend who has had a few beers at a party. What advice should you give him?",
+    "options": [
+      "A) Have a cup of coffee and wait at least 30 minutes before driving home",
+      "B) Drive home carefully",
+      "C) Go home by public transport or taxi",
+      "D) Wait for an hour before driving home"
+    ]
+  },
+  "Q543": {
+    "correct": "A",
+    "html": "Before changing lanes, it’s not enough to check your surrounding using ONLY your mirrors. You also have to:",
+    "options": [
+      "A) Check the blind spot",
+      "B) Honk your horn if there are multiple vehicles nearby as you can’t count on other drivers seeing your signal lights",
+      "C) Give a hand signal"
+    ]
+  },
+  "Q544": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S101.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Stressed pedestrian ahead",
+      "B) Pedestrian crosswalk ahead",
+      "C) School bus stop ahead",
+      "D) School zone ahead"
+    ]
+  },
+  "Q545": {
+    "correct": "A",
+    "html": "Which lane must you use to turn left? The ____ or any lane permitting a left turn.",
+    "options": [
+      "A) Left-most lane",
+      "B) Middle lane",
+      "C) Right-most lane",
+      "D) It doesn’t matter which lane you turn from"
+    ]
+  },
+  "Q546": {
+    "correct": "B",
+    "html": "Use hand-signals:",
+    "options": [
+      "A) At sunrise and sunset",
+      "B) If your vehicle’s signals stop working",
+      "C) Never, unless your vehicle is so old that it doesn’t have turn signals"
+    ]
+  },
+  "Q547": {
+    "correct": "C",
+    "html": "You arrive at the scene of a crash where a person is bleeding heavily from a wound. There isn’t anything embedded in the wound. What should you do?",
+    "options": [
+      "A) Try to walk the injured person around",
+      "B) Get the injured person something to drink",
+      "C) Apply pressure over the wound"
+    ]
+  },
+  "Q548": {
+    "correct": "C",
+    "html": "Out of all car rides in America, how many are unnecessary?",
+    "options": [
+      "A) 1/5",
+      "B) 1/4",
+      "C) 1/3",
+      "D) 1/2"
+    ]
+  },
+  "Q549": {
+    "correct": "A",
+    "html": "What should you be aware of when driving behind a large truck traveling up a long or steep hill?",
+    "options": [
+      "A) The truck will probably lose speed during the climb",
+      "B) You should drive as close as possible behind the truck"
+    ]
+  },
+  "Q550": {
+    "correct": "B",
+    "html": "One-handed steering isn’t recommended unless:",
+    "options": [
+      "A) Turning at low speeds",
+      "B) Backing",
+      "C) Parking"
+    ]
+  },
+  "Q551": {
+    "correct": "C",
+    "html": "You are just about to proceed into an intersection when the traffic light changes from green to yellow. What should you do?",
+    "options": [
+      "A) Proceed, you don’t have to stop unless it’s a red light",
+      "B) Proceed, but yield to oncoming traffic",
+      "C) Stop if you can safely do so",
+      "D) Speed up to cross the intersection before the red light appears"
+    ]
+  },
+  "Q552": {
+    "correct": "C",
+    "html": "Which lane(s) should you use to turn right at an intersection?",
+    "options": [
+      "A) The left-most lane or from any lane permitting right turns",
+      "B) The middle lane",
+      "C) The right-most lane or from any lane permitting right turns"
+    ]
+  },
+  "Q553": {
+    "correct": "C",
+    "html": "On wet roads, how can you tell if your tires are losing their grip on the road surface?",
+    "options": [
+      "A) The steering will feel very heavy",
+      "B) The engine noise will increase",
+      "C) The steering will feel very light"
+    ]
+  },
+  "Q554": {
+    "correct": "A",
+    "html": "When should you begin slowing down when exiting the freeway?",
+    "options": [
+      "A) After entering the deceleration lane",
+      "B) Before entering the deceleration lane",
+      "C) Before signaling your intention to exit"
+    ]
+  },
+  "Q555": {
+    "correct": "A",
+    "html": "In which of the following situations would you cause an obstruction by parking?",
+    "options": [
+      "A) In front of a driveway or private property entrance",
+      "B) On your driveway",
+      "C) In a marked parking space"
+    ]
+  },
+  "Q556": {
+    "correct": "B",
+    "html": "It’s dark outside and you’re driving up a hill. What should you do when approaching the top of the hill?",
+    "options": [
+      "A) Drive near the middle of the road to maximize your space cushion",
+      "B) Keep to the right and look for headlights ahead"
+    ]
+  },
+  "Q557": {
+    "correct": "B",
+    "html": "If you are driving slower than the general traffic flow:",
+    "options": [
+      "A) Keep left",
+      "B) Keep right",
+      "C) Keep in the middle lane"
+    ]
+  },
+  "Q558": {
+    "correct": "A",
+    "html": "Does the car have to yield to the pedestrian?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q559": {
+    "correct": "B",
+    "html": "At a crash scene, what can you do to help a person who’s unconscious?",
+    "options": [
+      "A) Take photos of the scene",
+      "B) Check that the person is breathing normally",
+      "C) Splash water on his/her face"
+    ]
+  },
+  "Q560": {
+    "correct": "B",
+    "html": "How can you recognize bad pavement?",
+    "options": [
+      "A) The pavement looks smooth",
+      "B) The pavement has many different patterns"
+    ]
+  },
+  "Q561": {
+    "correct": "D",
+    "html": "Turning the steering wheel while stationary can damage the ____.",
+    "options": [
+      "A) Gearbox",
+      "B) Clutch",
+      "C) Brakes",
+      "D) Tires"
+    ]
+  },
+  "Q562": {
+    "correct": "A",
+    "html": "If your ____ is low, it could cause a crash?",
+    "options": [
+      "A) Brake fluid level",
+      "B) Battery water level",
+      "C) Air conditioning coolant"
+    ]
+  },
+  "Q563": {
+    "correct": "D",
+    "html": "Which of the following alternatives increases the chance of skidding?",
+    "options": [
+      "A) Accelerating abruptly",
+      "B) Taking a curve too fast for the conditions",
+      "C) Changing direction suddenly",
+      "D) All of the above"
+    ]
+  },
+  "Q564": {
+    "correct": "A",
+    "html": "What should you be aware of when passing a large vehicle?",
+    "options": [
+      "A) It may take longer to pass",
+      "B) Passing large vehicles is prohibited",
+      "C) You are allowed to exceed the speed limit when passing",
+      "D) You will have to pay a fee for passing"
+    ]
+  },
+  "Q565": {
+    "correct": "A",
+    "html": "What should you keep in mind when it’s raining?",
+    "options": [
+      "A) Pedestrians may try to cross the road without looking for approaching vehicles",
+      "B) Drive at or just below the posted speed limit",
+      "C) Modern vehicles use technology to prevent skidding in rain completely",
+      "D) You must drive below 25 mph"
+    ]
+  },
+  "Q566": {
+    "correct": "B",
+    "html": "At a railroad crossing with two tracks, can you assume that you can proceed after one train has passed?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q567": {
+    "correct": "C",
+    "html": "You’re driving at night and dim your lights as you see an oncoming vehicle. However, the other driver doesn't dim his/her lights. What should you do?",
+    "options": [
+      "A) Honk your horn and then look toward the right edge of the road",
+      "B) Turn on your high-beam headlights until the other driver dims his/her lights",
+      "C) Flash your lights and then look toward the right edge of the road"
+    ]
+  },
+  "Q568": {
+    "correct": "A",
+    "html": "What does the warning sign on the right side of the road mean?<br><br><img src='sign-images/S44.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Sharp right turn ahead",
+      "B) Sharp left turn ahead",
+      "C) Right turn only",
+      "D) Right turn prohibited"
+    ]
+  },
+  "Q569": {
+    "correct": "C",
+    "html": "It's windy and you're driving close to a truck. Where are strong side winds most likely to occur?",
+    "options": [
+      "A) Tunnels",
+      "B) Cities",
+      "C) Viaducts & bridges",
+      "D) Uneven roads"
+    ]
+  },
+  "Q570": {
+    "correct": "C",
+    "html": "Which statement is true regarding signaling?",
+    "options": [
+      "A) Signaling is unnecessary unless driving in heavy traffic",
+      "B) Some situations let you change lanes and/or turn without signaling",
+      "C) You shouldn’t assume that a driver signaling a turn will turn"
+    ]
+  },
+  "Q571": {
+    "correct": "C",
+    "html": "You reduce your speed from 50 mph to 25 mph. How will this affect the braking distance?",
+    "options": [
+      "A) It won’t be affected",
+      "B) It will be halved compared to before",
+      "C) It will be one quarter compared to before",
+      "D) It will increase"
+    ]
+  },
+  "Q572": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S12.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Keep left",
+      "B) Keep right",
+      "C) No left turn",
+      "D) Left turn only"
+    ]
+  },
+  "Q573": {
+    "correct": "C",
+    "html": "You’re driving on a well-lit road at night. How will using low-beam headlights help?",
+    "options": [
+      "A) You can see further ahead",
+      "B) You can drive at a much higher speed",
+      "C) Other drivers will be able to see you more easily"
+    ]
+  },
+  "Q574": {
+    "correct": "A",
+    "html": "Whenever driving a new vehicle (e.g. a friends vehicle):",
+    "options": [
+      "A) Adjust the driver’s seat and all mirrors so they are correctly set for you",
+      "B) Don’t change the mirrors or the driver’s seat as you’re just borrowing the car"
+    ]
+  },
+  "Q575": {
+    "correct": "C",
+    "html": "When passing a car at night, you must:",
+    "options": [
+      "A) Change to a higher gear",
+      "B) Switch to high beams before passing",
+      "C) Make sure you don't temporarily blind other drivers"
+    ]
+  },
+  "Q576": {
+    "correct": "C",
+    "html": "An inexperienced driver stalls at an intersection just ahead of you. What should you do?",
+    "options": [
+      "A) Rev your engine",
+      "B) Pass if possible",
+      "C) Be patient",
+      "D) Honk your horn"
+    ]
+  },
+  "Q577": {
+    "correct": "B",
+    "html": "You’re driving on a multi-lane freeway and you want to take the next exit. What should you do if you must cross several lanes to exit?",
+    "options": [
+      "A) Cross multiple lanes at a time",
+      "B) Cross one lane at a time"
+    ]
+  },
+  "Q578": {
+    "correct": "B",
+    "html": "You're traveling along a street with parked vehicles on the right-hand side. Why should you keep your speed down?",
+    "options": [
+      "A) Oncoming traffic can see you more clearly",
+      "B) Children may run out from between the vehicles",
+      "C) Both of the above"
+    ]
+  },
+  "Q579": {
+    "correct": "A",
+    "html": "What should you do if you meet a vehicle with just one working headlight at night?",
+    "options": [
+      "A) Drive as far to the right as safe",
+      "B) Drive as far to the left as safe",
+      "C) Drive in the middle of the road"
+    ]
+  },
+  "Q580": {
+    "correct": "A",
+    "html": "On windy days, you should allow extra space when passing a motorcyclist or cyclist. Why is that?",
+    "options": [
+      "A) A sudden gust of wind may blow the rider across in front of you",
+      "B) The rider may brake suddenly",
+      "C) The rider may be traveling faster than usual"
+    ]
+  },
+  "Q581": {
+    "correct": "B",
+    "html": "You're driving at night, and there's a steady stream of oncoming traffic. Which lights should you use?",
+    "options": [
+      "A) High-beam headlights",
+      "B) Low-beam headlights",
+      "C) Fog lights"
+    ]
+  },
+  "Q582": {
+    "correct": "B",
+    "html": "If your car's wheels are unbalanced:",
+    "options": [
+      "A) The steering will pull to the left",
+      "B) There will be vibration in the steering wheel",
+      "C) The brakes won’t work",
+      "D) The steering will pull to the right"
+    ]
+  },
+  "Q583": {
+    "correct": "A",
+    "html": "Why is it important to make eye contact with other road users?",
+    "options": [
+      "A) It will ease your coordination with other road users",
+      "B) It will help you warn other road users of speed cameras and enforcement stops",
+      "C) It will help you greet oncoming drivers at intersections"
+    ]
+  },
+  "Q584": {
+    "correct": "C",
+    "html": "Where should you look to avoid being temporarily blinded by an oncoming vehicle's high-beam headlights?",
+    "options": [
+      "A) Toward the left side of the road",
+      "B) Below the oncoming vehicle’s left headlight",
+      "C) Toward the right side of the road",
+      "D) Straight ahead"
+    ]
+  },
+  "Q585": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S04.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Keep left",
+      "B) Keep right",
+      "C) Right turn only"
+    ]
+  },
+  "Q586": {
+    "correct": "D",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S102.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) You aren’t allowed to turn left or go straight ahead",
+      "B) You may only turn left",
+      "C) You may only go straight ahead",
+      "D) You may only turn left or go straight ahead"
+    ]
+  },
+  "Q587": {
+    "correct": "A",
+    "html": "Which statement is true? When parking, recovering from skids, or turning at low speeds:",
+    "options": [
+      "A) Use hand-over-hand steering",
+      "B) Use hand-to-hand steering",
+      "C) Use one-handed steering"
+    ]
+  },
+  "Q588": {
+    "correct": "A",
+    "html": "You’re about to merge onto the freeway from an on ramp/acceleration lane. Who has the right-of-way?",
+    "options": [
+      "A) The freeway traffic",
+      "B) You"
+    ]
+  },
+  "Q589": {
+    "correct": "A",
+    "html": "You see a sign with this shape, and you instantly know there’s:<br><br><img src='sign-images/S103.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) A railroad crossing ahead",
+      "B) An intersection ahead",
+      "C) A construction zone ahead",
+      "D) A school zone ahead"
+    ]
+  },
+  "Q590": {
+    "correct": "A",
+    "html": "You're sharing the road with a cyclist when you notice that the cyclist looks over his/her left shoulder. What's the most likely reason for this?",
+    "options": [
+      "A) He/she wants to turn or change lanes to the left",
+      "B) He/she is about to stop",
+      "C) He/she thinks you are driving too close"
+    ]
+  },
+  "Q591": {
+    "correct": "A",
+    "html": "Should you be extra cautious when driving behind a motorcyclist on an uneven road? If so, why?",
+    "options": [
+      "A) Yes, they may swerve as the road is uneven",
+      "B) No, you should pass the motorcyclist immediately",
+      "C) Yes, but only during storm"
+    ]
+  },
+  "Q592": {
+    "correct": "A",
+    "html": "You’re upset by another driver’s behaviour. What should you do?",
+    "options": [
+      "A) Stop and take a break",
+      "B) Shout at the other driver",
+      "C) Follow the driver and flash your headlights or sound your horn"
+    ]
+  },
+  "Q593": {
+    "correct": "D",
+    "html": "What should you do if going straight ahead in a roundabout?",
+    "options": [
+      "A) Enter the roundabout in either lane",
+      "B) Enter and exit in the same lane",
+      "C) Signal right before exiting the roundabout",
+      "D) All of the above"
+    ]
+  },
+  "Q594": {
+    "correct": "A",
+    "html": "Are drivers required to yield to pedestrians in the crosswalks when entering or exiting a roundabout?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Only if the pedestrian is carrying a white cane or being led by a guide dog"
+    ]
+  },
+  "Q595": {
+    "correct": "A",
+    "html": "What’s the purpose of electronic flashing arrow panels in construction sites?",
+    "options": [
+      "A) They tell you which lane(s) you are permitted to drive in",
+      "B) They have the same purpose as flaggers",
+      "C) They point in the direction you shouldn’t drive"
+    ]
+  },
+  "Q596": {
+    "correct": "B",
+    "html": "“You won’t risk blinding other drivers if you use rear fog lights in good conditions”. Is this statement true?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q597": {
+    "correct": "C",
+    "html": "The term ‘blind spot’ refers to an area:",
+    "options": [
+      "A) That’s covered by your right side mirror",
+      "B) That isn’t covered by your headlights",
+      "C) That isn’t visible to the driver"
+    ]
+  },
+  "Q598": {
+    "correct": "B",
+    "html": "You are towing a trailer on a multi-lane highway. Which statement is true?",
+    "options": [
+      "A) Keep in the left-most lane (A)",
+      "B) Keep in the right-most lane (B)",
+      "C) Never drive on the highway when towing a trailer as it can be very dangerous"
+    ]
+  },
+  "Q599": {
+    "correct": "C",
+    "html": "What should you check on each tire before a long journey?",
+    "options": [
+      "A) Air pressure",
+      "B) Tire tread depth",
+      "C) Both of the above",
+      "D) None of the above"
+    ]
+  },
+  "Q600": {
+    "correct": "B",
+    "html": "On wet and cold days:",
+    "options": [
+      "A) Bridges often freeze slower than the rest of the road",
+      "B) Bridges often freeze quicker than the rest of the road"
+    ]
+  },
+  "Q601": {
+    "correct": "D",
+    "html": "Don’t use your high-beam headlights when driving in:",
+    "options": [
+      "A) Heavy fog",
+      "B) Heavy rain",
+      "C) Smoke or dust",
+      "D) All of the above"
+    ]
+  },
+  "Q602": {
+    "correct": "B",
+    "html": "What should you do when elderly persons are crossing the road?",
+    "options": [
+      "A) Wave them across to so they know that you've seen them",
+      "B) Show patience and let them cross in their own time",
+      "C) Rev the engine to make them hurry"
+    ]
+  },
+  "Q603": {
+    "correct": "B",
+    "html": "Is sounding your horn to say hello to a friend a proper use of your car horn?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Only if there aren’t any other road users around"
+    ]
+  },
+  "Q604": {
+    "correct": "B",
+    "html": "Who is required to yield the right-of-way at uncontrolled T-intersections?",
+    "options": [
+      "A) The driver on the through road",
+      "B) The driver on the terminating road"
+    ]
+  },
+  "Q605": {
+    "correct": "B",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S51.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) STOP sign ahead",
+      "B) YIELD sign ahead",
+      "C) Railroad crossing ahead",
+      "D) Pedestrian crosswalk ahead"
+    ]
+  },
+  "Q606": {
+    "correct": "C",
+    "html": "Which statement is true regarding the dashboard lights?",
+    "options": [
+      "A) A red symbol means that everything is working",
+      "B) A green symbol means you should look up the issue when you have time",
+      "C) A yellow symbol means that you should look up the issue when you have time"
+    ]
+  },
+  "Q607": {
+    "correct": "B",
+    "html": "‘Highway hypnosis’ is a phenomenon where your brain switches to autopilot as a result of monotone highway driving. How can you avoid ‘highway hypnosis’?",
+    "options": [
+      "A) By listening to music you like - music helps prevent you from dozing off",
+      "B) By avoiding driving tired - take breaks every 1.5 hours",
+      "C) By driving tired - your body will release adrenaline to keep you alert"
+    ]
+  },
+  "Q608": {
+    "correct": "B",
+    "html": "What should you do when moving off from a parked position on the right side of the road?",
+    "options": [
+      "A) Signal right and check the blind spot before pulling out",
+      "B) Signal left and check the blind spot before pulling out",
+      "C) Signal left and drive at any time, as parked vehicles have the right-of-way"
+    ]
+  },
+  "Q609": {
+    "correct": "A",
+    "html": "How can you prevent drowsiness or fatigue on a long journey?",
+    "options": [
+      "A) By taking regular breaks",
+      "B) By drinking heaps of energy drinks",
+      "C) By driving below the speed limit",
+      "D) By taking long but infrequent breaks"
+    ]
+  },
+  "Q610": {
+    "correct": "C",
+    "html": "What does this hand-signal indicate? The driver is _____.<br><br><img src='sign-images/S78.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Stopping",
+      "B) Turning right",
+      "C) Turning left",
+      "D) Making a U-turn"
+    ]
+  },
+  "Q611": {
+    "correct": "B",
+    "html": "Is the use of Hazard Lights permitted while driving?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q612": {
+    "correct": "A",
+    "html": "You're following a long vehicle that’s approaching an intersection. It signals right but moves out to the left. How should you act?",
+    "options": [
+      "A) Stay well back and give it room to complete the turn",
+      "B) Assume the signal is wrong and that it's turning left",
+      "C) Pass immediately"
+    ]
+  },
+  "Q613": {
+    "correct": "D",
+    "html": "When leaving the freeway you should:",
+    "options": [
+      "A) Prepare in advance by positioning yourself in the correct lane",
+      "B) Signal your intention to exit",
+      "C) Adjust your speed so you can exit safely",
+      "D) All of the above"
+    ]
+  },
+  "Q614": {
+    "correct": "B",
+    "html": "This sign means that:<br><br><img src='sign-images/S104.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Passing is permitted ahead",
+      "B) Passing is prohibited ahead",
+      "C) Passing isn’t recommended, but still permitted"
+    ]
+  },
+  "Q615": {
+    "correct": "A",
+    "html": "When driving in a lane with pavement markings like this, you:",
+    "options": [
+      "A) Must turn left",
+      "B) May turn left or go straight ahead",
+      "C) Are prohibited from turning left"
+    ]
+  },
+  "Q616": {
+    "correct": "B",
+    "html": "You want to overtake another vehicle in the situation shown in the picture. Is it safe to overtake?",
+    "options": [
+      "A) Yes",
+      "B) No"
+    ]
+  },
+  "Q617": {
+    "correct": "D",
+    "html": "What is the purpose of the oil dipstick?",
+    "options": [
+      "A) It provides the engine with oil",
+      "B) It makes sure that the oil stays fresh",
+      "C) It serves no purpose",
+      "D) It helps drivers check the oil level in the engine"
+    ]
+  },
+  "Q618": {
+    "correct": "C",
+    "html": "Which statement is true regarding changing lanes in a situation like this?",
+    "options": [
+      "A) Vehicles changing lanes have the right-of-way over traffic in the lane",
+      "B) Signaling isn’t required when changing lanes",
+      "C) Signal and check the mirrors and blind spot before changing lanes"
+    ]
+  },
+  "Q619": {
+    "correct": "B",
+    "html": "What is considered a sufficient following distance on a dry road?",
+    "options": [
+      "A) 1 second or less",
+      "B) At least 2 seconds",
+      "C) At least 3 Seconds"
+    ]
+  },
+  "Q620": {
+    "correct": "A",
+    "html": "When you want to make a left turn from a two-way street into a one-way street:",
+    "options": [
+      "A) Start from the lane closest to the middle of the street",
+      "B) Start from the right-most lane",
+      "C) Start from any lane"
+    ]
+  },
+  "Q621": {
+    "correct": "C",
+    "html": "You see this light on your dashboard. What does it mean?",
+    "options": [
+      "A) The oil pressure is low",
+      "B) The battery is not charging properly",
+      "C) One or more of your tires have low tire pressure",
+      "D) Something is wrong with the Anti-lock Braking System (ABS)"
+    ]
+  },
+  "Q622": {
+    "correct": "C",
+    "html": "When emergency braking with a vehicle equipped with ABS-brakes, you should:",
+    "options": [
+      "A) Pump the brakes",
+      "B) Remove the pressure from the brakes if you feel a ‘pulsating’ or ‘twitching’ feeling",
+      "C) Press down hard and maintain pressure on the brake pedal"
+    ]
+  },
+  "Q623": {
+    "correct": "C",
+    "html": "Which car should go first?",
+    "options": [
+      "A) A",
+      "B) B",
+      "C) C"
+    ]
+  },
+  "Q624": {
+    "correct": "A",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S33.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) School zone",
+      "B) Pedestrian crosswalk",
+      "C) Shopping mall in the area"
+    ]
+  },
+  "Q625": {
+    "correct": "D",
+    "html": "You see a sign with this shape - can you tell what kind of sign it is?<br><br><img src='sign-images/S105.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Railroad crossing sign",
+      "B) ‘No Passing Zone’ sign",
+      "C) Regulatory sign",
+      "D) Warning sign"
+    ]
+  },
+  "Q626": {
+    "correct": "C",
+    "html": "You approach a construction zone where a flagger signals like this. Which statement is true?<br><br><img src='sign-images/S74.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Turn around. The road ahead is closed for all except work vehicles",
+      "B) Stop and wait for further instructions",
+      "C) Slow down and proceed with caution"
+    ]
+  },
+  "Q627": {
+    "correct": "A",
+    "html": "Driving with under-inflated will ______ the risk of tire blowout.",
+    "options": [
+      "A) Increase",
+      "B) Decrease",
+      "C) Won't affect"
+    ]
+  },
+  "Q628": {
+    "correct": "C",
+    "html": "What does this sign mean?<br><br><img src='sign-images/S30.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
+    "options": [
+      "A) Curve ahead",
+      "B) Winding road ahead",
+      "C) Road is slippery when wet",
+      "D) Reverse curve ahead - first curve to the left"
+    ]
+  },
+  "Q629": {
+    "correct": "A",
+    "html": "In which situation will your reaction time be slower?",
+    "options": [
+      "A) When you're tired",
+      "B) When driving in heavy rain",
+      "C) When driving through road works",
+      "D) When driving with underinflated tires"
+    ]
+  },
+  "Q630": {
+    "correct": "B",
+    "html": "How should you act when driving on a slippery road?",
+    "options": [
+      "A) Increase your speed to reduce the time spent driving on the road",
+      "B) Slow down and increase the distance to the vehicle in front of you",
+      "C) Drive close to the vehicle in front of you",
+      "D) Drive at normal speed and increase the distance to the vehicle in front of you"
+    ]
+  },
+  "Q631": {
+    "correct": "D",
+    "html": "Which of the following road users is least likely to be affected by side winds?",
+    "options": [
+      "A) Cyclists",
+      "B) Motorcyclists",
+      "C) Trucks",
+      "D) Cars"
+    ]
+  },
+  "Q632": {
+    "correct": "A",
+    "html": "A 4-wheel-drive vehicle has ____ compared to a 2-wheel drive.",
+    "options": [
+      "A) Improved grip on the road",
+      "B) Lower fuel consumption",
+      "C) Better airbags"
+    ]
+  },
+  "Q633": {
+    "correct": "A",
+    "html": "You are parallel parked on the side of the road. When pulling out into traffic:",
+    "options": [
+      "A) Yield to drivers already in the traffic flow",
+      "B) Drivers already in the traffic flow must yield to you"
+    ]
+  },
+  "Q634": {
+    "correct": "C",
+    "html": "You should leave your manual transmission car in which gear when parking facing uphill?",
+    "options": [
+      "A) Neutral",
+      "B) Reverse",
+      "C) 1st gear"
+    ]
+  },
+  "Q635": {
+    "correct": "A",
+    "html": "Does the stopping distance increase in wet conditions?",
+    "options": [
+      "A) Yes",
+      "B) No",
+      "C) Yes, but only on gravel or dirt roads"
+    ]
+  },
+  "Q636": {
+    "correct": "C",
+    "html": "When backing, who's especially in danger of not being seen?",
+    "options": [
+      "A) Motorcyclists or cyclists",
+      "B) Car driver",
+      "C) Children"
+    ]
+  },
+  "Q637": {
+    "correct": "A",
+    "html": "Car A approaches an intersection where Car B has stopped at a crosswalk. Which statement is true?",
+    "options": [
+      "A) Car A must not attempt to pass car B",
+      "B) Car A may pass car B if the driver of car A can’t see any pedestrians nearby",
+      "C) Car B may pass with caution"
+    ]
+  },
+  "Q638": {
+    "correct": "A",
+    "html": "What should you do when driving behind a large truck?",
+    "options": [
+      "A) Increase the following distance",
+      "B) Maintain the standard following distance",
+      "C) Drive as close to the truck as possible to save fuel and be protected from rain and strong winds"
+    ]
+  },
+  "Q639": {
+    "correct": "B",
+    "html": "You're driving near parked cars, and notice a ball bouncing out onto the road ahead. How should you act?",
+    "options": [
+      "A) Sound your horn and continue driving at the same speed",
+      "B) Slow down and be prepared to stop",
+      "C) Stop and wave the children across to get their ball back"
+    ]
+  },
+  "Q640": {
+    "correct": "B",
+    "html": "While driving, keeping the clutch down or selecting neutral gear for extended periods of time can be dangerous because:",
+    "options": [
+      "A) You may damage the engine",
+      "B) You will have less control over steering and braking",
+      "C) Your may cause a tire blowout"
+    ]
+  },
+  "Q641": {
+    "correct": "A",
+    "html": "Driving defensively is _____.",
+    "options": [
+      "A) Good, as you won’t take unnecessary risks",
+      "B) Bad, as you’ll obstruct other traffic"
+    ]
+  },
+  "Q642": {
+    "correct": "B",
+    "html": "What can you do to help prevent fatigue on a long journey?",
+    "options": [
+      "A) Eat a large meal before driving",
+      "B) Take regular breaks",
+      "C) Play loud music"
+    ]
+  },
+  "Q643": {
+    "correct": "A",
+    "html": "Why should you brake lightly a couple of times after driving through a deep puddle?",
+    "options": [
+      "A) Because the braking performance can be reduced if the brakes are wet",
+      "B) Because there’s a much higher chance of a tire blowout if the tires are wet",
+      "C) Because the vehicle’s electric systems may stop working otherwise"
+    ]
+  },
+  "Q644": {
+    "correct": "D",
+    "html": "Which driving technique will minimize fuel consumtion?",
+    "options": [
+      "A) Using lower gears when driving",
+      "B) Not utilizing engine braking",
+      "C) Driving without skipping gears",
+      "D) Skipping gears when shifting up"
+    ]
+  },
+  "Q645": {
+    "correct": "C",
+    "html": "You want to pass another vehicle. Which statement is true?",
+    "options": [
+      "A) Avoid signaling as it may confuse the other driver",
+      "B) Passing is prohibited on roads with a broken yellow center line",
+      "C) Look for traffic ahead and behind you before passing"
+    ]
   }
 }
-
