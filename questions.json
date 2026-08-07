@@ -1519,7 +1519,7 @@
   },
   "Q148": {
     "correct": "C",
-    "html": "You’re driving when you see this light on your dashboard. What does it mean?",
+    "html": "You’re driving when you see this light on your dashboard. What does it mean?<br><br><img src='sign-images/S107.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
     "options": [
       "A) Your rear lights aren’t working properly",
       "B) Your wipers aren’t working properly",
@@ -1722,7 +1722,7 @@
   },
   "Q170": {
     "correct": "C",
-    "html": "What does this blue light mean?",
+    "html": "What does this blue light mean?<br><br><img src='sign-images/S106.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
     "options": [
       "A) Your parking light is on",
       "B) Your headlights are on low beam",
@@ -4629,15 +4629,6 @@
       "B) By keeping your headlights and windshield clean",
       "C) By using your sun visor",
       "D) All of the above"
-    ]
-  },
-  "Q490": {
-    "correct": "B",
-    "html": "Which car goes first?",
-    "options": [
-      "A) A",
-      "B) B",
-      "C) C"
     ]
   },
   "Q491": {
