@@ -2014,16 +2014,6 @@
       "B) No, parking is prohibited on Sundays and holidays"
     ]
   },
-  "Q203": {
-    "correct": "C",
-    "html": "In which order should the cars proceed?",
-    "options": [
-      "A) B, A, C",
-      "B) C, B, A",
-      "C) B, C, A",
-      "D) A, B, C"
-    ]
-  },
   "Q204": {
     "correct": "B",
     "html": "What does this sign mean?<br><br><img src='sign-images/S34.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
@@ -2215,14 +2205,6 @@
     "options": [
       "A) No",
       "B) Yes"
-    ]
-  },
-  "Q226": {
-    "correct": "A",
-    "html": "Which car has the right-of-way?",
-    "options": [
-      "A) Car B",
-      "B) Car A"
     ]
   },
   "Q227": {
@@ -3425,7 +3407,7 @@
   },
   "Q358": {
     "correct": "B",
-    "html": "Which statement is true?",
+    "html": "Which statement is true?<br><br><img src='sign-images/S87.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
     "options": [
       "A) This is a regulatory sign",
       "B) This is a U.S. route shield",
@@ -5832,15 +5814,6 @@
       "A) Pump the brakes",
       "B) Remove the pressure from the brakes if you feel a ‘pulsating’ or ‘twitching’ feeling",
       "C) Press down hard and maintain pressure on the brake pedal"
-    ]
-  },
-  "Q623": {
-    "correct": "C",
-    "html": "Which car should go first?",
-    "options": [
-      "A) A",
-      "B) B",
-      "C) C"
     ]
   },
   "Q624": {
