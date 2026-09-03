@@ -2091,14 +2091,6 @@
       "C) 70 mph"
     ]
   },
-  "Q213": {
-    "correct": "A",
-    "html": "Is passing permitted on this road?",
-    "options": [
-      "A) No, since the solid yellow line is on your side of the road",
-      "B) Yes, passing is always permitted on roads with a broken and a solid yellow line"
-    ]
-  },
   "Q214": {
     "correct": "A",
     "html": "Should you avoid passing on two-lane roads?",
@@ -2974,17 +2966,6 @@
       "C) Passing is prohibited"
     ]
   },
-  "Q313": {
-    "correct": "A",
-    "html": "You intend to check your oil level. Where can you do it?",
-    "options": [
-      "A) A",
-      "B) B",
-      "C) C",
-      "D) D",
-      "E) E"
-    ]
-  },
   "Q314": {
     "correct": "B",
     "html": "Should you assume that other drivers will obey the road rules and yield the right-of-way when they are supposed to?",
@@ -3377,15 +3358,6 @@
       "B) Get out of your car and check",
       "C) Check the mirrors only",
       "D) Assume that it's clear"
-    ]
-  },
-  "Q357": {
-    "correct": "A",
-    "html": "One car isn’t using the roundabout correctly. Which car is it?",
-    "options": [
-      "A) Car A",
-      "B) Car B",
-      "C) Car C"
     ]
   },
   "Q358": {
