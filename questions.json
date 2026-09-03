@@ -2379,14 +2379,6 @@
       "B) No, never"
     ]
   },
-  "Q246": {
-    "correct": "B",
-    "html": "Is it safe to overtake in this situation?",
-    "options": [
-      "A) Yes",
-      "B) No"
-    ]
-  },
   "Q247": {
     "correct": "B",
     "html": "ABS reduces the risk of skidding. This is especially important when:",
@@ -2550,15 +2542,6 @@
       "A) 0.02",
       "B) 0.05",
       "C) 0.08"
-    ]
-  },
-  "Q265": {
-    "correct": "A",
-    "html": "How should you act when you see these arrows?",
-    "options": [
-      "A) Slow down",
-      "B) Slow down to 5 mph",
-      "C) Be ready to stop. The road is closed in the direction of the arrows"
     ]
   },
   "Q266": {
@@ -5741,15 +5724,6 @@
       "A) Passing is permitted ahead",
       "B) Passing is prohibited ahead",
       "C) Passing isn’t recommended, but still permitted"
-    ]
-  },
-  "Q615": {
-    "correct": "A",
-    "html": "When driving in a lane with pavement markings like this, you:",
-    "options": [
-      "A) Must turn left",
-      "B) May turn left or go straight ahead",
-      "C) Are prohibited from turning left"
     ]
   },
   "Q616": {
