@@ -1173,16 +1173,6 @@
       "C) Right of the central island and travel in a counterclockwise direction"
     ]
   },
-  "Q111": {
-    "correct": "B",
-    "html": "Which letter represents the lane line(s)?",
-    "options": [
-      "A) A",
-      "B) B",
-      "C) C",
-      "D) D"
-    ]
-  },
   "Q112": {
     "correct": "A",
     "html": "You're turning right at an intersection. What should you especially watch out for?",
@@ -2841,14 +2831,6 @@
       "B) No"
     ]
   },
-  "Q299": {
-    "correct": "A",
-    "html": "Which car is maintaining an appropriate following distance?",
-    "options": [
-      "A) Car A",
-      "B) Car B"
-    ]
-  },
   "Q300": {
     "correct": "C",
     "html": "What does a green arrow mean?",
@@ -3564,15 +3546,6 @@
       "B) No"
     ]
   },
-  "Q380": {
-    "correct": "C",
-    "html": "Which car goes first?",
-    "options": [
-      "A) A",
-      "B) B",
-      "C) Neither - both cars can pass in front of each other"
-    ]
-  },
   "Q381": {
     "correct": "A",
     "html": "You're approaching a work zone. Is it wise to reduce your speed on approach or should you wait until you are in the work zone?",
@@ -3653,14 +3626,7 @@
       "C) Apply firm pressure to the wound"
     ]
   },
-  "Q390": {
-    "correct": "B",
-    "html": "Which car has to yield in this situation?",
-    "options": [
-      "A) Car A",
-      "B) Car B"
-    ]
-  },
+
   "Q391": {
     "correct": "C",
     "html": "What does this sign mean?<br><br><img src='sign-images/S88.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
@@ -3687,16 +3653,6 @@
       "A) Changing lanes without signaling",
       "B) Sounding your horn at other drivers if they make a mistake",
       "C) Allowing other drivers to merge into your lane"
-    ]
-  },
-  "Q394": {
-    "correct": "D",
-    "html": "What’s the distance to Hollywood Blvd?",
-    "options": [
-      "A) 1 ¼ miles",
-      "B) 10 ½ miles",
-      "C) 10 ¼ miles",
-      "D) 1 ½ miles"
     ]
   },
   "Q395": {
