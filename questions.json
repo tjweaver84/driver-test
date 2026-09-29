@@ -1270,14 +1270,6 @@
       "D) None of the above"
     ]
   },
-  "Q122": {
-    "correct": "B",
-    "html": "You want to take ‘exit 79’ - can you stay in the lane you’re currently in?",
-    "options": [
-      "A) Yes",
-      "B) No"
-    ]
-  },
   "Q123": {
     "correct": "B",
     "html": "What does this sign mean?<br><br><img src='sign-images/S60.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
@@ -1836,14 +1828,6 @@
       "C) No"
     ]
   },
-  "Q184": {
-    "correct": "B",
-    "html": "Car A and B reach the intersection at the same time. Which car must yield in this situation?",
-    "options": [
-      "A) Car B",
-      "B) Car A"
-    ]
-  },
   "Q185": {
     "correct": "B",
     "html": "Which statement is true regarding driving on gravel or dirt roads?",
@@ -1859,16 +1843,6 @@
     "options": [
       "A) Drivers under 18",
       "B) Drivers 18-24"
-    ]
-  },
-  "Q187": {
-    "correct": "D",
-    "html": "Which cars are likely in the truck driver’s blind spot?",
-    "options": [
-      "A) Only car A",
-      "B) Only car B",
-      "C) Only car C",
-      "D) All three cars"
     ]
   },
   "Q188": {
@@ -2050,16 +2024,6 @@
       "A) Away from the curb (A)",
       "B) Toward the curb (B)",
       "C) Straight forward (C)"
-    ]
-  },
-  "Q209": {
-    "correct": "A",
-    "html": "Who is allowed to park in the direction of the arrows?",
-    "options": [
-      "A) Disabled persons carrying a valid permit",
-      "B) Injured persons",
-      "C) Anyone older than 65",
-      "D) Anyone for up to 10 minutes"
     ]
   },
   "Q210": {
@@ -3285,16 +3249,6 @@
       "D) All of the above"
     ]
   },
-  "Q351": {
-    "correct": "C",
-    "html": "You see this light on your dashboard and the red light worries you. What does it mean?",
-    "options": [
-      "A) The battery is overheated - stop and let the battery cool down",
-      "B) The battery is dead",
-      "C) The battery isn’t charging properly",
-      "D) Nothing is wrong - the light tells you that the battery is working correctly"
-    ]
-  },
   "Q352": {
     "correct": "C",
     "html": "When you’re driving on a two-way street with a center turn lane:",
@@ -3350,16 +3304,6 @@
       "B) This is a U.S. route shield",
       "C) This is a warning sign",
       "D) This is a state route shield"
-    ]
-  },
-  "Q359": {
-    "correct": "A",
-    "html": "Is parking permitted here at 9am on a Tuesday?",
-    "options": [
-      "A) Yes, you can park for up to 2 hours",
-      "B) Yes, you can park for up to 20 minutes",
-      "C) Yes, for as long as you want",
-      "D) No"
     ]
   },
   "Q360": {
@@ -4381,14 +4325,6 @@
       "B) Traffic traveling in opposite directions"
     ]
   },
-  "Q474": {
-    "correct": "B",
-    "html": "Which statement is true for Car A?",
-    "options": [
-      "A) Car A has the right-of-way",
-      "B) Car A must yield"
-    ]
-  },
   "Q475": {
     "correct": "C",
     "html": "What does this sign mean?<br><br><img src='sign-images/S94.png' style='max-width:130px; display:block; margin:15px auto;' alt='NC DMV Road Sign'>",
@@ -4484,15 +4420,6 @@
     "options": [
       "A) Yes",
       "B) No"
-    ]
-  },
-  "Q486": {
-    "correct": "B",
-    "html": "What should you prepare for when you see these flashing arrows?",
-    "options": [
-      "A) Sharp curve to the left ahead - slow down",
-      "B) Lanes closing ahead - part of the road will be closed",
-      "C) Road closed ahead - make a U-turn as soon as possible"
     ]
   },
   "Q487": {
@@ -4916,15 +4843,6 @@
       "A) At least 100 feet",
       "B) At least 200 feet",
       "C) At least 350 feet"
-    ]
-  },
-  "Q535": {
-    "correct": "A",
-    "html": "In which order should the cars proceed?",
-    "options": [
-      "A) B,C,A",
-      "B) B,A,C",
-      "C) A,B,C"
     ]
   },
   "Q536": {
@@ -5697,16 +5615,6 @@
       "A) Start from the lane closest to the middle of the street",
       "B) Start from the right-most lane",
       "C) Start from any lane"
-    ]
-  },
-  "Q621": {
-    "correct": "C",
-    "html": "You see this light on your dashboard. What does it mean?",
-    "options": [
-      "A) The oil pressure is low",
-      "B) The battery is not charging properly",
-      "C) One or more of your tires have low tire pressure",
-      "D) Something is wrong with the Anti-lock Braking System (ABS)"
     ]
   },
   "Q622": {
